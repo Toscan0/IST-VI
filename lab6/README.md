@@ -1,0 +1,1 @@
+- se selecionarmos só nominees o mapa desaparece pois só temos info para winners
