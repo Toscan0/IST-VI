@@ -1,0 +1,16 @@
+start;end;president;party
+1929;1933;Herbert Hoover        ;Republican                                   
+1933;1945;Franklin D. Roosevelt ;Democratic                                   
+1945;1953;Harry S. Truman       ;Democratic                                   
+1953;1961;Dwight D. Eisenhower  ;Republican                                   
+1961;1963;John F. Kennedy       ;Democratic                                   
+1963;1969;Lyndon B. Johnson     ;Democratic                                   
+1969;1974;Richard Nixon         ;Republican                                   
+1974;1977;Gerald Ford           ;Republican                                   
+1977;1981;Jimmy Carter          ;Democratic                                   
+1981;1989;Ronald Reagan         ;Republican                                   
+1989;1993;George H. W. Bush     ;Republican                                   
+1993;2001;Bill Clinton          ;Democratic                                   
+2001;2009;George W. Bush        ;Republican                                   
+2009;2017;Barack Obama          ;Democratic                                   
+2017;--                ;Donald Trump          ;Republican                                   

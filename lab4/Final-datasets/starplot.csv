@@ -1,0 +1,21 @@
+race_ethnicity;party;Winner;count_race
+Arab ;Democratic                                   ;0;2
+Arab ;Republican                                   ;0;3
+Asian;Democratic                                   ;0;6
+Asian;Democratic                                   ;1;1
+Asian;Republican                                   ;0;9
+Asian;Republican                                   ;1;4
+Black;Democratic                                   ;0;18
+Black;Democratic                                   ;1;6
+Black;Republican                                   ;0;36
+Black;Republican                                   ;1;9
+Hispa;Democratic                                   ;0;7
+Hispa;Democratic                                   ;1;4
+Hispa;Republican                                   ;0;9
+Hispa;Republican                                   ;1;1
+Indig;Democratic                                   ;0;1
+Indig;Republican                                   ;0;1
+White;Democratic                                   ;0;871
+White;Democratic                                   ;1;220
+White;Republican                                   ;0;711
+White;Republican                                   ;1;185

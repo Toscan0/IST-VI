@@ -1,0 +1,269 @@
+race,ratio,winner,year,milestone,sentiment
+white,100.0,0,1928,-1,-1
+white,100.0,1,1928,-1,-1
+white,100.0,0,1929,-1,-1
+white,100.0,1,1929,-1,-1
+white,100.0,0,1930,-1,-1
+white,100.0,1,1930,-1,-1
+white,100.0,0,1931,-1,-1
+white,100.0,1,1931,-1,-1
+white,100.0,0,1932,-1,-1
+white,100.0,1,1932,-1,-1
+white,100.0,0,1933,-1,-1
+white,100.0,1,1933,-1,-1
+white,100.0,0,1934,-1,-1
+white,100.0,1,1934,-1,-1
+white,91.7,0,1935,-1,-1
+white,8.3,0,1935,-1,-1
+white,100.0,1,1935,-1,-1
+white,100.0,0,1936,-1,-1
+white,100.0,1,1936,-1,-1
+white,100.0,0,1937,-1,-1
+white,100.0,1,1937,-1,-1
+white,100.0,0,1938,-1,-1
+white,100.0,1,1938,-1,-1
+white,100.0,0,1939,-1,-1
+white,80.0,1,1939,-1,-1
+black,20.0,1,1939,-1,-1
+white,100.0,0,1940,-1,-1
+white,100.0,1,1940,-1,-1
+white,100.0,0,1941,African–Americans in WWII                             ,Acceptance
+white,100.0,1,1941,African–Americans in WWII                             ,Acceptance
+white,100.0,0,1942,-1,-1
+white,100.0,1,1942,-1,-1
+white,100.0,0,1943,-1,-1
+white,100.0,1,1943,-1,-1
+white,100.0,0,1944,-1,-1
+white,100.0,1,1944,-1,-1
+white,100.0,0,1945,-1,-1
+white,100.0,1,1945,-1,-1
+white,100.0,0,1946,-1,-1
+white,100.0,1,1946,-1,-1
+white,100.0,0,1947,Jackie Robinson                                         ,Acceptance
+white,100.0,1,1947,Jackie Robinson                                         ,Acceptance
+white,95.0,0,1948,-1,-1
+hispa,5.0,0,1948,-1,-1
+white,100.0,1,1948,-1,-1
+white,95.0,0,1949,-1,-1
+black,5.0,0,1949,-1,-1
+white,100.0,1,1949,-1,-1
+white,100.0,0,1950,-1,-1
+white,80.0,1,1950,-1,-1
+hispa,20.0,1,1950,-1,-1
+white,100.0,0,1951,-1,-1
+white,100.0,1,1951,-1,-1
+white,95.0,0,1952,-1,-1
+hispa,5.0,0,1952,-1,-1
+white,80.0,1,1952,-1,-1
+hispa,20.0,1,1952,-1,-1
+white,100.0,0,1953,-1,-1
+white,100.0,1,1953,-1,-1
+white,90.0,0,1954,"Brown v. Board Of Education, May 17, 1954",Acceptance
+black,5.0,0,1954,"Brown v. Board Of Education, May 17, 1954",Acceptance
+hispa,5.0,0,1954,"Brown v. Board Of Education, May 17, 1954",Acceptance
+white,100.0,1,1954,"Brown v. Board Of Education, May 17, 1954",Acceptance
+white,100.0,0,1955,"Emmett Till|Rosa Parks and the Montgomery Bus Boycott, December 1955",Protest|Protest
+white,100.0,1,1955,"Emmett Till|Rosa Parks and the Montgomery Bus Boycott, December 1955",Protest|Protest
+white,100.0,0,1956,-1,-1
+white,80.0,1,1956,-1,-1
+hispa,20.0,1,1956,-1,-1
+white,90.0,0,1957,"Central High School integrated, September 1957",Acceptance
+white,5.0,0,1957,"Central High School integrated, September 1957",Acceptance
+hispa,5.0,0,1957,"Central High School integrated, September 1957",Acceptance
+white,80.0,1,1957,"Central High School integrated, September 1957",Acceptance
+white,20.0,1,1957,"Central High School integrated, September 1957",Acceptance
+white,95.0,0,1958,-1,-1
+black,5.0,0,1958,-1,-1
+white,100.0,1,1958,-1,-1
+white,95.0,0,1959,-1,-1
+black,5.0,0,1959,-1,-1
+white,100.0,1,1959,-1,-1
+white,100.0,0,1960,"Sit–in movement and founding of SNCC, 1960",Protest
+white,100.0,1,1960,"Sit–in movement and founding of SNCC, 1960",Protest
+white,100.0,0,1961,"CORE and Freedom Rides, May 1961",Acceptance
+white,83.333,1,1961,"CORE and Freedom Rides, May 1961",Acceptance
+hispa,16.667,1,1961,"CORE and Freedom Rides, May 1961",Acceptance
+white,95.0,0,1962,"Integration of Ole Miss, September 1962",Acceptance
+arab,5.0,0,1962,"Integration of Ole Miss, September 1962",Acceptance
+white,100.0,1,1962,"Integration of Ole Miss, September 1962",Acceptance
+white,100.0,0,1963,"Birmingham church bombed, 1963|“I Have a Dream”, 1963",Protest|Acceptance
+white,80.0,1,1963,"Birmingham church bombed, 1963|“I Have a Dream”, 1963",Protest|Acceptance
+black,20.0,1,1963,"Birmingham church bombed, 1963|“I Have a Dream”, 1963",Protest|Acceptance
+white,95.0,0,1964,"Civil Rights Act of 1964, July 1964|Freedom Summer and the “Mississippi Burning” murders, June 1964",Acceptance|Acceptance
+hispa,5.0,0,1964,"Civil Rights Act of 1964, July 1964|Freedom Summer and the “Mississippi Burning” murders, June 1964",Acceptance|Acceptance
+white,100.0,1,1964,"Civil Rights Act of 1964, July 1964|Freedom Summer and the “Mississippi Burning” murders, June 1964",Acceptance|Acceptance
+white,95.0,0,1965,"Selma to Montgomery march, March 1965|Malcolm X shot to death, February 1965|Voting Rights Act of 1965, August 1965",Protest|Protest|Acceptance
+white,5.0,0,1965,"Selma to Montgomery march, March 1965|Malcolm X shot to death, February 1965|Voting Rights Act of 1965, August 1965",Protest|Protest|Acceptance
+white,100.0,1,1965,"Selma to Montgomery march, March 1965|Malcolm X shot to death, February 1965|Voting Rights Act of 1965, August 1965",Protest|Protest|Acceptance
+white,90.0,0,1966,-1,-1
+white,5.0,0,1966,-1,-1
+indig,5.0,0,1966,-1,-1
+white,100.0,1,1966,-1,-1
+white,90.0,0,1967,-1,-1
+black,10.0,0,1967,-1,-1
+white,100.0,1,1967,-1,-1
+white,100.0,0,1968,"Fair Housing Act, April 1968|MLK assassinated, April 4, 1968",Acceptance|Protest
+white,100.0,1,1968,"Fair Housing Act, April 1968|MLK assassinated, April 4, 1968",Acceptance|Protest
+white,95.0,0,1969,-1,-1
+black,5.0,0,1969,-1,-1
+white,100.0,1,1969,-1,-1
+white,88.9,0,1970,-1,-1
+black,5.6000000000000005,0,1970,-1,-1
+indig,5.6000000000000005,0,1970,-1,-1
+white,100.0,1,1970,-1,-1
+white,100.0,0,1971,-1,-1
+white,100.0,1,1971,-1,-1
+white,85.0,0,1972,"Shirley Chisholm runs for president, 1972",Acceptance
+black,15.0,0,1972,"Shirley Chisholm runs for president, 1972",Acceptance
+white,100.0,1,1972,"Shirley Chisholm runs for president, 1972",Acceptance
+white,100.0,0,1973,-1,-1
+white,100.0,1,1973,-1,-1
+white,95.0,0,1974,-1,-1
+black,5.0,0,1974,-1,-1
+white,100.0,1,1974,-1,-1
+white,95.0,0,1975,-1,-1
+arab,5.0,0,1975,-1,-1
+white,100.0,1,1975,-1,-1
+white,100.0,0,1976,-1,-1
+white,100.0,1,1976,-1,-1
+white,100.0,0,1977,-1,-1
+white,100.0,1,1977,-1,-1
+white,100.0,0,1978,"The Bakke decision and affirmative action, 1978",Protest
+white,100.0,1,1978,"The Bakke decision and affirmative action, 1978",Protest
+white,100.0,0,1979,-1,-1
+white,100.0,1,1979,-1,-1
+white,100.0,0,1980,-1,-1
+white,100.0,1,1980,-1,-1
+white,95.0,0,1981,-1,-1
+black,5.0,0,1981,-1,-1
+white,100.0,1,1981,-1,-1
+white,100.0,0,1982,-1,-1
+white,60.0,1,1982,-1,-1
+black,20.0,1,1982,-1,-1
+white,20.0,1,1982,-1,-1
+white,95.0,0,1983,-1,-1
+black,5.0,0,1983,-1,-1
+white,100.0,1,1983,-1,-1
+white,90.0,0,1984,"Jesse Jackson galvanizes black voters, 1984",Acceptance
+black,5.0,0,1984,"Jesse Jackson galvanizes black voters, 1984",Acceptance
+white,5.0,0,1984,"Jesse Jackson galvanizes black voters, 1984",Acceptance
+white,80.0,1,1984,"Jesse Jackson galvanizes black voters, 1984",Acceptance
+white,20.0,1,1984,-1,-1
+white,70.0,0,1985,-1,-1
+black,15.0,0,1985,-1,-1
+white,10.0,0,1985,-1,-1
+hispa,5.0,0,1985,-1,-1
+white,100.0,1,1985,-1,-1
+white,95.0,0,1986,"Oprah Winfrey launches syndicated talk show, 1986",Acceptance
+black,5.0,0,1986,"Oprah Winfrey launches syndicated talk show, 1986",Acceptance
+white,100.0,1,1986,"Oprah Winfrey launches syndicated talk show, 1986",Acceptance
+white,85.0,0,1987,-1,-1
+black,10.0,0,1987,-1,-1
+hispa,5.0,0,1987,-1,-1
+white,100.0,1,1987,-1,-1
+white,95.0,0,1988,-1,-1
+black,5.0,0,1988,-1,-1
+white,100.0,1,1988,-1,-1
+white,90.0,0,1989,-1,-1
+black,5.0,0,1989,-1,-1
+arab,5.0,0,1989,-1,-1
+white,80.0,1,1989,-1,-1
+black,20.0,1,1989,-1,-1
+white,95.0,0,1990,-1,-1
+hispa,5.0,0,1990,-1,-1
+white,80.0,1,1990,-1,-1
+black,20.0,1,1990,-1,-1
+white,90.0,0,1991,-1,-1
+black,5.0,0,1991,-1,-1
+white,5.0,0,1991,-1,-1
+white,100.0,1,1991,-1,-1
+white,90.0,0,1992,"Los Angeles riots, 1992",Protest
+black,10.0,0,1992,"Los Angeles riots, 1992",Protest
+white,100.0,1,1992,"Los Angeles riots, 1992",Protest
+white,85.0,0,1993,-1,-1
+black,10.0,0,1993,-1,-1
+hispa,5.0,0,1993,-1,-1
+white,100.0,1,1993,-1,-1
+white,85.0,0,1994,-1,-1
+black,10.0,0,1994,-1,-1
+white,5.0,0,1994,-1,-1
+white,100.0,1,1994,-1,-1
+white,100.0,0,1995,"Million Man March, 1995",Acceptance
+white,100.0,1,1995,"Million Man March, 1995",Acceptance
+white,95.0,0,1996,-1,-1
+black,5.0,0,1996,-1,-1
+white,80.0,1,1996,-1,-1
+black,20.0,1,1996,-1,-1
+white,95.0,0,1997,-1,-1
+arab,5.0,0,1997,-1,-1
+white,100.0,1,1997,-1,-1
+white,95.0,0,1998,-1,-1
+hispa,5.0,0,1998,-1,-1
+white,100.0,1,1998,-1,-1
+white,85.0,0,1999,-1,-1
+black,10.0,0,1999,-1,-1
+white,5.0,0,1999,-1,-1
+white,100.0,1,1999,-1,-1
+white,95.0,0,2000,-1,-1
+white,5.0,0,2000,-1,-1
+white,80.0,1,2000,-1,-1
+white,20.0,1,2000,-1,-1
+white,90.0,0,2001,"Colin Powell becomes secretary of state, 2001",Acceptance
+black,5.0,0,2001,"Colin Powell becomes secretary of state, 2001",Acceptance
+white,5.0,0,2001,"Colin Powell becomes secretary of state, 2001",Acceptance
+white,60.0,1,2001,"Colin Powell becomes secretary of state, 2001",Acceptance
+black,40.0,1,2001,"Colin Powell becomes secretary of state, 2001",Acceptance
+white,90.0,0,2002,-1,-1
+black,5.0,0,2002,-1,-1
+hispa,5.0,0,2002,-1,-1
+white,100.0,1,2002,-1,-1
+white,75.0,0,2003,-1,-1
+black,5.0,0,2003,-1,-1
+white,10.0,0,2003,-1,-1
+hispa,5.0,0,2003,-1,-1
+arab,5.0,0,2003,-1,-1
+white,100.0,1,2003,-1,-1
+white,80.0,0,2004,-1,-1
+black,15.0,0,2004,-1,-1
+hispa,5.0,0,2004,-1,-1
+white,60.0,1,2004,-1,-1
+black,40.0,1,2004,-1,-1
+white,95.0,0,2005,-1,-1
+black,5.0,0,2005,-1,-1
+white,80.0,1,2005,-1,-1
+white,20.0,1,2005,-1,-1
+white,75.0,0,2006,-1,-1
+black,15.0,0,2006,-1,-1
+white,5.0,0,2006,-1,-1
+hispa,5.0,0,2006,-1,-1
+white,60.0,1,2006,-1,-1
+black,40.0,1,2006,-1,-1
+white,95.0,0,2007,-1,-1
+black,5.0,0,2007,-1,-1
+white,100.0,1,2007,-1,-1
+white,90.0,0,2008,-1,-1
+black,10.0,0,2008,"Barack Obama becomes 44th U.S. president, 2008",Acceptance
+white,100.0,1,2008,"Barack Obama becomes 44th U.S. president, 2008",Acceptance
+white,85.0,0,2009,-1,-1
+black,15.0,0,2009,-1,-1
+white,80.0,1,2009,-1,-1
+black,20.0,1,2009,-1,-1
+white,100.0,0,2010,-1,-1
+white,100.0,1,2010,-1,-1
+white,85.0,0,2011,-1,-1
+black,10.0,0,2011,-1,-1
+hispa,5.0,0,2011,-1,-1
+white,80.0,1,2011,-1,-1
+black,20.0,1,2011,-1,-1
+white,90.0,0,2012,-1,-1
+black,10.0,0,2012,-1,-1
+white,80.0,1,2012,-1,-1
+white,20.0,1,2012,-1,-1
+white,90.0,0,2013,-1,-1
+black,10.0,0,2013,-1,-1
+white,80.0,1,2013,-1,-1
+black,20.0,1,2013,-1,-1
+white,100.0,0,2014,-1,-1
+white,100.0,1,2014,-1,-1
+white,100.0,0,2015,-1,-1
+white,100.0,1,2015,-1,-1

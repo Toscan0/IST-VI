@@ -1,0 +1,1002 @@
+year,orientation,winner,ratio,party
+1928,Bisexual,0,0,Republican
+1928,Bisexual,1,0,Republican
+1928,Bisexual,2,0,Republican
+1928,Gay     ,0,0,Republican
+1928,Gay     ,1,0,Republican
+1928,Gay     ,2,0,Republican
+1928,Lesbian ,0,0,Republican
+1928,Lesbian ,1,0,Republican
+1928,Lesbian ,2,0,Republican
+1928,Straight,0,60,Republican
+1928,Straight,1,40,Republican
+1928,Straight,2,56,Republican
+1929,Bisexual,0,15.2,Republican
+1929,Bisexual,1,0,Republican
+1929,Bisexual,2,12.5,Republican
+1929,Gay     ,0,0,Republican
+1929,Gay     ,1,0,Republican
+1929,Gay     ,2,0,Republican
+1929,Lesbian ,0,0,Republican
+1929,Lesbian ,1,0,Republican
+1929,Lesbian ,2,0,Republican
+1929,Straight,0,84.8,Republican
+1929,Straight,1,100,Republican
+1929,Straight,2,87.5,Republican
+1930,Bisexual,0,6.7,Republican
+1930,Bisexual,1,0,Republican
+1930,Bisexual,2,5.56,Republican
+1930,Gay     ,0,0,Republican
+1930,Gay     ,1,0,Republican
+1930,Gay     ,2,0,Republican
+1930,Lesbian ,0,0,Republican
+1930,Lesbian ,1,0,Republican
+1930,Lesbian ,2,0,Republican
+1930,Straight,0,93.3,Republican
+1930,Straight,1,100,Republican
+1930,Straight,2,94.4,Republican
+1931,Bisexual,0,0,Republican
+1931,Bisexual,1,0,Republican
+1931,Bisexual,2,0,Republican
+1931,Gay     ,0,0,Republican
+1931,Gay     ,1,0,Republican
+1931,Gay     ,2,0,Republican
+1931,Lesbian ,0,0,Republican
+1931,Lesbian ,1,0,Republican
+1931,Lesbian ,2,0,Republican
+1931,Straight,0,100,Republican
+1931,Straight,1,100,Republican
+1931,Straight,2,100,Republican
+1932,Bisexual,0,0,Republican
+1932,Bisexual,1,0,Republican
+1932,Bisexual,2,0,Republican
+1932,Gay     ,0,0,Republican
+1932,Gay     ,1,0,Republican
+1932,Gay     ,2,0,Republican
+1932,Lesbian ,0,0,Republican
+1932,Lesbian ,1,0,Republican
+1932,Lesbian ,2,0,Republican
+1932,Straight,0,100,Republican
+1932,Straight,1,100,Republican
+1932,Straight,2,100,Republican
+1933,Bisexual,0,0,Democratic
+1933,Bisexual,1,0,Democratic
+1933,Bisexual,2,0,Democratic
+1933,Gay     ,0,6.7,Democratic
+1933,Gay     ,1,0,Democratic
+1933,Gay     ,2,5.56,Democratic
+1933,Lesbian ,0,0,Democratic
+1933,Lesbian ,1,0,Democratic
+1933,Lesbian ,2,0,Democratic
+1933,Straight,0,93.3,Democratic
+1933,Straight,1,100,Democratic
+1933,Straight,2,94.4,Democratic
+1934,Bisexual,0,0,Democratic
+1934,Bisexual,1,0,Democratic
+1934,Bisexual,2,0,Democratic
+1934,Gay     ,0,0,Democratic
+1934,Gay     ,1,0,Democratic
+1934,Gay     ,2,0,Democratic
+1934,Lesbian ,0,0,Democratic
+1934,Lesbian ,1,0,Democratic
+1934,Lesbian ,2,0,Democratic
+1934,Straight,0,100,Democratic
+1934,Straight,1,100,Democratic
+1934,Straight,2,100,Democratic
+1935,Bisexual,0,0,Democratic
+1935,Bisexual,1,0,Democratic
+1935,Bisexual,2,0,Democratic
+1935,Gay     ,0,0,Democratic
+1935,Gay     ,1,0,Democratic
+1935,Gay     ,2,0,Democratic
+1935,Lesbian ,0,0,Democratic
+1935,Lesbian ,1,0,Democratic
+1935,Lesbian ,2,0,Democratic
+1935,Straight,0,100,Democratic
+1935,Straight,1,100,Democratic
+1935,Straight,2,100,Democratic
+1936,Bisexual,0,0,Democratic
+1936,Bisexual,1,0,Democratic
+1936,Bisexual,2,0,Democratic
+1936,Gay     ,0,0,Democratic
+1936,Gay     ,1,0,Democratic
+1936,Gay     ,2,0,Democratic
+1936,Lesbian ,0,0,Democratic
+1936,Lesbian ,1,0,Democratic
+1936,Lesbian ,2,0,Democratic
+1936,Straight,0,100,Democratic
+1936,Straight,1,100,Democratic
+1936,Straight,2,100,Democratic
+1937,Bisexual,0,5,Democratic
+1937,Bisexual,1,0,Democratic
+1937,Bisexual,2,4,Democratic
+1937,Gay     ,0,0,Democratic
+1937,Gay     ,1,0,Democratic
+1937,Gay     ,2,0,Democratic
+1937,Lesbian ,0,0,Democratic
+1937,Lesbian ,1,0,Democratic
+1937,Lesbian ,2,0,Democratic
+1937,Straight,0,95,Democratic
+1937,Straight,1,100,Democratic
+1937,Straight,2,96,Democratic
+1938,Bisexual,0,0,Democratic
+1938,Bisexual,1,0,Democratic
+1938,Bisexual,2,0,Democratic
+1938,Gay     ,0,0,Democratic
+1938,Gay     ,1,0,Democratic
+1938,Gay     ,2,0,Democratic
+1938,Lesbian ,0,5,Democratic
+1938,Lesbian ,1,0,Democratic
+1938,Lesbian ,2,4,Democratic
+1938,Straight,0,95,Democratic
+1938,Straight,1,100,Democratic
+1938,Straight,2,96,Democratic
+1939,Bisexual,0,5,Democratic
+1939,Bisexual,1,0,Democratic
+1939,Bisexual,2,4,Democratic
+1939,Gay     ,0,0,Democratic
+1939,Gay     ,1,0,Democratic
+1939,Gay     ,2,0,Democratic
+1939,Lesbian ,0,0,Democratic
+1939,Lesbian ,1,0,Democratic
+1939,Lesbian ,2,0,Democratic
+1939,Straight,0,95,Democratic
+1939,Straight,1,100,Democratic
+1939,Straight,2,96,Democratic
+1940,Bisexual,0,0,Democratic
+1940,Bisexual,1,0,Democratic
+1940,Bisexual,2,0,Democratic
+1940,Gay     ,0,5,Democratic
+1940,Gay     ,1,0,Democratic
+1940,Gay     ,2,4,Democratic
+1940,Lesbian ,0,0,Democratic
+1940,Lesbian ,1,0,Democratic
+1940,Lesbian ,2,0,Democratic
+1940,Straight,0,95,Democratic
+1940,Straight,1,100,Democratic
+1940,Straight,2,96,Democratic
+1941,Bisexual,0,0,Democratic
+1941,Bisexual,1,0,Democratic
+1941,Bisexual,2,0,Democratic
+1941,Gay     ,0,0,Democratic
+1941,Gay     ,1,0,Democratic
+1941,Gay     ,2,0,Democratic
+1941,Lesbian ,0,0,Democratic
+1941,Lesbian ,1,0,Democratic
+1941,Lesbian ,2,0,Democratic
+1941,Straight,0,100,Democratic
+1941,Straight,1,100,Democratic
+1941,Straight,2,100,Democratic
+1942,Bisexual,0,0,Democratic
+1942,Bisexual,1,0,Democratic
+1942,Bisexual,2,0,Democratic
+1942,Gay     ,0,5,Democratic
+1942,Gay     ,1,0,Democratic
+1942,Gay     ,2,4,Democratic
+1942,Lesbian ,0,0,Democratic
+1942,Lesbian ,1,0,Democratic
+1942,Lesbian ,2,0,Democratic
+1942,Straight,0,95,Democratic
+1942,Straight,1,100,Democratic
+1942,Straight,2,96,Democratic
+1943,Bisexual,0,0,Democratic
+1943,Bisexual,1,0,Democratic
+1943,Bisexual,2,0,Democratic
+1943,Gay     ,0,0,Democratic
+1943,Gay     ,1,0,Democratic
+1943,Gay     ,2,0,Democratic
+1943,Lesbian ,0,0,Democratic
+1943,Lesbian ,1,0,Democratic
+1943,Lesbian ,2,0,Democratic
+1943,Straight,0,100,Democratic
+1943,Straight,1,100,Democratic
+1943,Straight,2,100,Democratic
+1944,Bisexual,0,0,Democratic
+1944,Bisexual,1,0,Democratic
+1944,Bisexual,2,0,Democratic
+1944,Gay     ,0,10,Democratic
+1944,Gay     ,1,0,Democratic
+1944,Gay     ,2,8,Democratic
+1944,Lesbian ,0,0,Democratic
+1944,Lesbian ,1,0,Democratic
+1944,Lesbian ,2,0,Democratic
+1944,Straight,0,90,Democratic
+1944,Straight,1,100,Democratic
+1944,Straight,2,92,Democratic
+1945,Bisexual,0,0,Democratic
+1945,Bisexual,1,0,Democratic
+1945,Bisexual,2,0,Democratic
+1945,Gay     ,0,0,Democratic
+1945,Gay     ,1,0,Democratic
+1945,Gay     ,2,0,Democratic
+1945,Lesbian ,0,0,Democratic
+1945,Lesbian ,1,0,Democratic
+1945,Lesbian ,2,0,Democratic
+1945,Straight,0,100,Democratic
+1945,Straight,1,100,Democratic
+1945,Straight,2,100,Democratic
+1946,Bisexual,0,0,Democratic
+1946,Bisexual,1,0,Democratic
+1946,Bisexual,2,0,Democratic
+1946,Gay     ,0,5,Democratic
+1946,Gay     ,1,0,Democratic
+1946,Gay     ,2,4,Democratic
+1946,Lesbian ,0,0,Democratic
+1946,Lesbian ,1,0,Democratic
+1946,Lesbian ,2,0,Democratic
+1946,Straight,0,95,Democratic
+1946,Straight,1,100,Democratic
+1946,Straight,2,96,Democratic
+1947,Bisexual,0,5,Democratic
+1947,Bisexual,1,0,Democratic
+1947,Bisexual,2,4,Democratic
+1947,Gay     ,0,5,Democratic
+1947,Gay     ,1,0,Democratic
+1947,Gay     ,2,4,Democratic
+1947,Lesbian ,0,0,Democratic
+1947,Lesbian ,1,0,Democratic
+1947,Lesbian ,2,0,Democratic
+1947,Straight,0,90,Democratic
+1947,Straight,1,100,Democratic
+1947,Straight,2,92,Democratic
+1948,Bisexual,0,0,Democratic
+1948,Bisexual,1,0,Democratic
+1948,Bisexual,2,0,Democratic
+1948,Gay     ,0,10,Democratic
+1948,Gay     ,1,0,Democratic
+1948,Gay     ,2,8,Democratic
+1948,Lesbian ,0,0,Democratic
+1948,Lesbian ,1,0,Democratic
+1948,Lesbian ,2,0,Democratic
+1948,Straight,0,90,Democratic
+1948,Straight,1,100,Democratic
+1948,Straight,2,92,Democratic
+1949,Bisexual,0,0,Democratic
+1949,Bisexual,1,0,Democratic
+1949,Bisexual,2,0,Democratic
+1949,Gay     ,0,0,Democratic
+1949,Gay     ,1,0,Democratic
+1949,Gay     ,2,0,Democratic
+1949,Lesbian ,0,0,Democratic
+1949,Lesbian ,1,0,Democratic
+1949,Lesbian ,2,0,Democratic
+1949,Straight,0,100,Democratic
+1949,Straight,1,100,Democratic
+1949,Straight,2,100,Democratic
+1950,Bisexual,0,0,Democratic
+1950,Bisexual,1,0,Democratic
+1950,Bisexual,2,0,Democratic
+1950,Gay     ,0,5,Democratic
+1950,Gay     ,1,0,Democratic
+1950,Gay     ,2,4,Democratic
+1950,Lesbian ,0,0,Democratic
+1950,Lesbian ,1,0,Democratic
+1950,Lesbian ,2,0,Democratic
+1950,Straight,0,95,Democratic
+1950,Straight,1,100,Democratic
+1950,Straight,2,96,Democratic
+1951,Bisexual,0,10,Democratic
+1951,Bisexual,1,0,Democratic
+1951,Bisexual,2,8,Democratic
+1951,Gay     ,0,5,Democratic
+1951,Gay     ,1,0,Democratic
+1951,Gay     ,2,4,Democratic
+1951,Lesbian ,0,0,Democratic
+1951,Lesbian ,1,0,Democratic
+1951,Lesbian ,2,0,Democratic
+1951,Straight,0,85,Democratic
+1951,Straight,1,100,Democratic
+1951,Straight,2,88,Democratic
+1952,Bisexual,0,5,Democratic
+1952,Bisexual,1,0,Democratic
+1952,Bisexual,2,4,Democratic
+1952,Gay     ,0,0,Democratic
+1952,Gay     ,1,0,Democratic
+1952,Gay     ,2,0,Democratic
+1952,Lesbian ,0,0,Democratic
+1952,Lesbian ,1,0,Democratic
+1952,Lesbian ,2,0,Democratic
+1952,Straight,0,95,Democratic
+1952,Straight,1,100,Democratic
+1952,Straight,2,96,Democratic
+1953,Bisexual,0,5,Republican
+1953,Bisexual,1,0,Republican
+1953,Bisexual,2,4,Republican
+1953,Gay     ,0,10,Republican
+1953,Gay     ,1,0,Republican
+1953,Gay     ,2,8,Republican
+1953,Lesbian ,0,0,Republican
+1953,Lesbian ,1,0,Republican
+1953,Lesbian ,2,0,Republican
+1953,Straight,0,85,Republican
+1953,Straight,1,100,Republican
+1953,Straight,2,88,Republican
+1954,Bisexual,0,0,Republican
+1954,Bisexual,1,20,Republican
+1954,Bisexual,2,4,Republican
+1954,Gay     ,0,0,Republican
+1954,Gay     ,1,0,Republican
+1954,Gay     ,2,0,Republican
+1954,Lesbian ,0,0,Republican
+1954,Lesbian ,1,0,Republican
+1954,Lesbian ,2,0,Republican
+1954,Straight,0,100,Republican
+1954,Straight,1,80,Republican
+1954,Straight,2,96,Republican
+1955,Bisexual,0,5,Republican
+1955,Bisexual,1,0,Republican
+1955,Bisexual,2,4,Republican
+1955,Gay     ,0,0,Republican
+1955,Gay     ,1,0,Republican
+1955,Gay     ,2,0,Republican
+1955,Lesbian ,0,0,Republican
+1955,Lesbian ,1,0,Republican
+1955,Lesbian ,2,0,Republican
+1955,Straight,0,95,Republican
+1955,Straight,1,100,Republican
+1955,Straight,2,96,Republican
+1956,Bisexual,0,5,Republican
+1956,Bisexual,1,0,Republican
+1956,Bisexual,2,4,Republican
+1956,Gay     ,0,5,Republican
+1956,Gay     ,1,0,Republican
+1956,Gay     ,2,4,Republican
+1956,Lesbian ,0,0,Republican
+1956,Lesbian ,1,0,Republican
+1956,Lesbian ,2,0,Republican
+1956,Straight,0,90,Republican
+1956,Straight,1,100,Republican
+1956,Straight,2,92,Republican
+1957,Bisexual,0,5,Republican
+1957,Bisexual,1,0,Republican
+1957,Bisexual,2,4,Republican
+1957,Gay     ,0,0,Republican
+1957,Gay     ,1,0,Republican
+1957,Gay     ,2,0,Republican
+1957,Lesbian ,0,0,Republican
+1957,Lesbian ,1,0,Republican
+1957,Lesbian ,2,0,Republican
+1957,Straight,0,95,Republican
+1957,Straight,1,100,Republican
+1957,Straight,2,96,Republican
+1958,Bisexual,0,0,Republican
+1958,Bisexual,1,20,Republican
+1958,Bisexual,2,4,Republican
+1958,Gay     ,0,0,Republican
+1958,Gay     ,1,0,Republican
+1958,Gay     ,2,0,Republican
+1958,Lesbian ,0,0,Republican
+1958,Lesbian ,1,0,Republican
+1958,Lesbian ,2,0,Republican
+1958,Straight,0,100,Republican
+1958,Straight,1,80,Republican
+1958,Straight,2,96,Republican
+1959,Bisexual,0,0,Republican
+1959,Bisexual,1,0,Republican
+1959,Bisexual,2,0,Republican
+1959,Gay     ,0,0,Republican
+1959,Gay     ,1,0,Republican
+1959,Gay     ,2,0,Republican
+1959,Lesbian ,0,0,Republican
+1959,Lesbian ,1,0,Republican
+1959,Lesbian ,2,0,Republican
+1959,Straight,0,100,Republican
+1959,Straight,1,100,Republican
+1959,Straight,2,100,Republican
+1960,Bisexual,0,5,Republican
+1960,Bisexual,1,0,Republican
+1960,Bisexual,2,4,Republican
+1960,Gay     ,0,0,Republican
+1960,Gay     ,1,0,Republican
+1960,Gay     ,2,0,Republican
+1960,Lesbian ,0,0,Republican
+1960,Lesbian ,1,0,Republican
+1960,Lesbian ,2,0,Republican
+1960,Straight,0,95,Republican
+1960,Straight,1,100,Republican
+1960,Straight,2,96,Republican
+1961,Bisexual,0,0,Democratic
+1961,Bisexual,1,0,Democratic
+1961,Bisexual,2,0,Democratic
+1961,Gay     ,0,5,Democratic
+1961,Gay     ,1,20,Democratic
+1961,Gay     ,2,8,Democratic
+1961,Lesbian ,0,0,Democratic
+1961,Lesbian ,1,0,Democratic
+1961,Lesbian ,2,0,Democratic
+1961,Straight,0,95,Democratic
+1961,Straight,1,80,Democratic
+1961,Straight,2,92,Democratic
+1962,Bisexual,0,0,Democratic
+1962,Bisexual,1,0,Democratic
+1962,Bisexual,2,0,Democratic
+1962,Gay     ,0,5,Democratic
+1962,Gay     ,1,0,Democratic
+1962,Gay     ,2,4,Democratic
+1962,Lesbian ,0,0,Democratic
+1962,Lesbian ,1,0,Democratic
+1962,Lesbian ,2,0,Democratic
+1962,Straight,0,95,Democratic
+1962,Straight,1,100,Democratic
+1962,Straight,2,96,Democratic
+1963,Bisexual,0,0,Democratic
+1963,Bisexual,1,20,Democratic
+1963,Bisexual,2,4,Democratic
+1963,Gay     ,0,0,Democratic
+1963,Gay     ,1,0,Democratic
+1963,Gay     ,2,0,Democratic
+1963,Lesbian ,0,0,Democratic
+1963,Lesbian ,1,0,Democratic
+1963,Lesbian ,2,0,Democratic
+1963,Straight,0,100,Democratic
+1963,Straight,1,80,Democratic
+1963,Straight,2,96,Democratic
+1964,Bisexual,0,0,Democratic
+1964,Bisexual,1,0,Democratic
+1964,Bisexual,2,0,Democratic
+1964,Gay     ,0,10,Democratic
+1964,Gay     ,1,20,Democratic
+1964,Gay     ,2,12,Democratic
+1964,Lesbian ,0,0,Democratic
+1964,Lesbian ,1,0,Democratic
+1964,Lesbian ,2,0,Democratic
+1964,Straight,0,90,Democratic
+1964,Straight,1,80,Democratic
+1964,Straight,2,88,Democratic
+1965,Bisexual,0,0,Democratic
+1965,Bisexual,1,0,Democratic
+1965,Bisexual,2,0,Democratic
+1965,Gay     ,0,5,Democratic
+1965,Gay     ,1,0,Democratic
+1965,Gay     ,2,4,Democratic
+1965,Lesbian ,0,0,Democratic
+1965,Lesbian ,1,0,Democratic
+1965,Lesbian ,2,0,Democratic
+1965,Straight,0,95,Democratic
+1965,Straight,1,100,Democratic
+1965,Straight,2,96,Democratic
+1966,Bisexual,0,0,Democratic
+1966,Bisexual,1,20,Democratic
+1966,Bisexual,2,4,Democratic
+1966,Gay     ,0,0,Democratic
+1966,Gay     ,1,0,Democratic
+1966,Gay     ,2,0,Democratic
+1966,Lesbian ,0,0,Democratic
+1966,Lesbian ,1,0,Democratic
+1966,Lesbian ,2,0,Democratic
+1966,Straight,0,100,Democratic
+1966,Straight,1,80,Democratic
+1966,Straight,2,96,Democratic
+1967,Bisexual,0,0,Democratic
+1967,Bisexual,1,0,Democratic
+1967,Bisexual,2,0,Democratic
+1967,Gay     ,0,0,Democratic
+1967,Gay     ,1,0,Democratic
+1967,Gay     ,2,0,Democratic
+1967,Lesbian ,0,0,Democratic
+1967,Lesbian ,1,0,Democratic
+1967,Lesbian ,2,0,Democratic
+1967,Straight,0,100,Democratic
+1967,Straight,1,100,Democratic
+1967,Straight,2,100,Democratic
+1968,Bisexual,0,5,Democratic
+1968,Bisexual,1,0,Democratic
+1968,Bisexual,2,4,Democratic
+1968,Gay     ,0,5,Democratic
+1968,Gay     ,1,0,Democratic
+1968,Gay     ,2,4,Democratic
+1968,Lesbian ,0,0,Democratic
+1968,Lesbian ,1,0,Democratic
+1968,Lesbian ,2,0,Democratic
+1968,Straight,0,90,Democratic
+1968,Straight,1,100,Democratic
+1968,Straight,2,92,Democratic
+1969,Bisexual,0,0,Republican
+1969,Bisexual,1,0,Republican
+1969,Bisexual,2,0,Republican
+1969,Gay     ,0,0,Republican
+1969,Gay     ,1,20,Republican
+1969,Gay     ,2,4,Republican
+1969,Lesbian ,0,0,Republican
+1969,Lesbian ,1,0,Republican
+1969,Lesbian ,2,0,Republican
+1969,Straight,0,100,Republican
+1969,Straight,1,80,Republican
+1969,Straight,2,96,Republican
+1970,Bisexual,0,0,Republican
+1970,Bisexual,1,0,Republican
+1970,Bisexual,2,0,Republican
+1970,Gay     ,0,0,Republican
+1970,Gay     ,1,0,Republican
+1970,Gay     ,2,0,Republican
+1970,Lesbian ,0,0,Republican
+1970,Lesbian ,1,0,Republican
+1970,Lesbian ,2,0,Republican
+1970,Straight,0,100,Republican
+1970,Straight,1,100,Republican
+1970,Straight,2,100,Republican
+1971,Bisexual,0,0,Republican
+1971,Bisexual,1,0,Republican
+1971,Bisexual,2,0,Republican
+1971,Gay     ,0,10,Republican
+1971,Gay     ,1,0,Republican
+1971,Gay     ,2,8,Republican
+1971,Lesbian ,0,0,Republican
+1971,Lesbian ,1,0,Republican
+1971,Lesbian ,2,0,Republican
+1971,Straight,0,90,Republican
+1971,Straight,1,100,Republican
+1971,Straight,2,92,Republican
+1972,Bisexual,0,0,Republican
+1972,Bisexual,1,20,Republican
+1972,Bisexual,2,4,Republican
+1972,Gay     ,0,5,Republican
+1972,Gay     ,1,20,Republican
+1972,Gay     ,2,8,Republican
+1972,Lesbian ,0,0,Republican
+1972,Lesbian ,1,0,Republican
+1972,Lesbian ,2,0,Republican
+1972,Straight,0,95,Republican
+1972,Straight,1,60,Republican
+1972,Straight,2,88,Republican
+1973,Bisexual,0,5,Republican
+1973,Bisexual,1,20,Republican
+1973,Bisexual,2,8,Republican
+1973,Gay     ,0,5,Republican
+1973,Gay     ,1,0,Republican
+1973,Gay     ,2,4,Republican
+1973,Lesbian ,0,0,Republican
+1973,Lesbian ,1,0,Republican
+1973,Lesbian ,2,0,Republican
+1973,Straight,0,90,Republican
+1973,Straight,1,80,Republican
+1973,Straight,2,88,Republican
+1974,Bisexual,0,0,Republican
+1974,Bisexual,1,0,Republican
+1974,Bisexual,2,0,Republican
+1974,Gay     ,0,0,Republican
+1974,Gay     ,1,0,Republican
+1974,Gay     ,2,0,Republican
+1974,Lesbian ,0,0,Republican
+1974,Lesbian ,1,0,Republican
+1974,Lesbian ,2,0,Republican
+1974,Straight,0,100,Republican
+1974,Straight,1,100,Republican
+1974,Straight,2,100,Republican
+1975,Bisexual,0,0,Republican
+1975,Bisexual,1,0,Republican
+1975,Bisexual,2,0,Republican
+1975,Gay     ,0,0,Republican
+1975,Gay     ,1,0,Republican
+1975,Gay     ,2,0,Republican
+1975,Lesbian ,0,5,Republican
+1975,Lesbian ,1,0,Republican
+1975,Lesbian ,2,4,Republican
+1975,Straight,0,95,Republican
+1975,Straight,1,100,Republican
+1975,Straight,2,96,Republican
+1976,Bisexual,0,0,Republican
+1976,Bisexual,1,0,Republican
+1976,Bisexual,2,0,Republican
+1976,Gay     ,0,0,Republican
+1976,Gay     ,1,0,Republican
+1976,Gay     ,2,0,Republican
+1976,Lesbian ,0,5,Republican
+1976,Lesbian ,1,0,Republican
+1976,Lesbian ,2,4,Republican
+1976,Straight,0,95,Republican
+1976,Straight,1,100,Republican
+1976,Straight,2,96,Republican
+1977,Bisexual,0,0,Democratic
+1977,Bisexual,1,0,Democratic
+1977,Bisexual,2,0,Democratic
+1977,Gay     ,0,0,Democratic
+1977,Gay     ,1,0,Democratic
+1977,Gay     ,2,0,Democratic
+1977,Lesbian ,0,0,Democratic
+1977,Lesbian ,1,0,Democratic
+1977,Lesbian ,2,0,Democratic
+1977,Straight,0,100,Democratic
+1977,Straight,1,100,Democratic
+1977,Straight,2,100,Democratic
+1978,Bisexual,0,0,Democratic
+1978,Bisexual,1,0,Democratic
+1978,Bisexual,2,0,Democratic
+1978,Gay     ,0,0,Democratic
+1978,Gay     ,1,0,Democratic
+1978,Gay     ,2,0,Democratic
+1978,Lesbian ,0,0,Democratic
+1978,Lesbian ,1,0,Democratic
+1978,Lesbian ,2,0,Democratic
+1978,Straight,0,100,Democratic
+1978,Straight,1,100,Democratic
+1978,Straight,2,100,Democratic
+1979,Bisexual,0,0,Democratic
+1979,Bisexual,1,0,Democratic
+1979,Bisexual,2,0,Democratic
+1979,Gay     ,0,0,Democratic
+1979,Gay     ,1,0,Democratic
+1979,Gay     ,2,0,Democratic
+1979,Lesbian ,0,0,Democratic
+1979,Lesbian ,1,0,Democratic
+1979,Lesbian ,2,0,Democratic
+1979,Straight,0,100,Democratic
+1979,Straight,1,100,Democratic
+1979,Straight,2,100,Democratic
+1980,Bisexual,0,0,Democratic
+1980,Bisexual,1,0,Democratic
+1980,Bisexual,2,0,Democratic
+1980,Gay     ,0,0,Democratic
+1980,Gay     ,1,0,Democratic
+1980,Gay     ,2,0,Democratic
+1980,Lesbian ,0,5,Democratic
+1980,Lesbian ,1,0,Democratic
+1980,Lesbian ,2,4,Democratic
+1980,Straight,0,95,Democratic
+1980,Straight,1,100,Democratic
+1980,Straight,2,96,Democratic
+1981,Bisexual,0,0,Republican
+1981,Bisexual,1,0,Republican
+1981,Bisexual,2,0,Republican
+1981,Gay     ,0,5,Republican
+1981,Gay     ,1,20,Republican
+1981,Gay     ,2,8,Republican
+1981,Lesbian ,0,0,Republican
+1981,Lesbian ,1,0,Republican
+1981,Lesbian ,2,0,Republican
+1981,Straight,0,95,Republican
+1981,Straight,1,80,Republican
+1981,Straight,2,92,Republican
+1982,Bisexual,0,0,Republican
+1982,Bisexual,1,0,Republican
+1982,Bisexual,2,0,Republican
+1982,Gay     ,0,0,Republican
+1982,Gay     ,1,0,Republican
+1982,Gay     ,2,0,Republican
+1982,Lesbian ,0,0,Republican
+1982,Lesbian ,1,0,Republican
+1982,Lesbian ,2,0,Republican
+1982,Straight,0,100,Republican
+1982,Straight,1,100,Republican
+1982,Straight,2,100,Republican
+1983,Bisexual,0,0,Republican
+1983,Bisexual,1,0,Republican
+1983,Bisexual,2,0,Republican
+1983,Gay     ,0,0,Republican
+1983,Gay     ,1,0,Republican
+1983,Gay     ,2,0,Republican
+1983,Lesbian ,0,0,Republican
+1983,Lesbian ,1,20,Republican
+1983,Lesbian ,2,4,Republican
+1983,Straight,0,100,Republican
+1983,Straight,1,80,Republican
+1983,Straight,2,96,Republican
+1984,Bisexual,0,0,Republican
+1984,Bisexual,1,0,Republican
+1984,Bisexual,2,0,Republican
+1984,Gay     ,0,5,Republican
+1984,Gay     ,1,0,Republican
+1984,Gay     ,2,4,Republican
+1984,Lesbian ,0,0,Republican
+1984,Lesbian ,1,0,Republican
+1984,Lesbian ,2,0,Republican
+1984,Straight,0,95,Republican
+1984,Straight,1,100,Republican
+1984,Straight,2,96,Republican
+1985,Bisexual,0,0,Republican
+1985,Bisexual,1,0,Republican
+1985,Bisexual,2,0,Republican
+1985,Gay     ,0,0,Republican
+1985,Gay     ,1,0,Republican
+1985,Gay     ,2,0,Republican
+1985,Lesbian ,0,0,Republican
+1985,Lesbian ,1,0,Republican
+1985,Lesbian ,2,0,Republican
+1985,Straight,0,100,Republican
+1985,Straight,1,100,Republican
+1985,Straight,2,100,Republican
+1986,Bisexual,0,5,Republican
+1986,Bisexual,1,0,Republican
+1986,Bisexual,2,4,Republican
+1986,Gay     ,0,5,Republican
+1986,Gay     ,1,0,Republican
+1986,Gay     ,2,4,Republican
+1986,Lesbian ,0,0,Republican
+1986,Lesbian ,1,0,Republican
+1986,Lesbian ,2,0,Republican
+1986,Straight,0,90,Republican
+1986,Straight,1,100,Republican
+1986,Straight,2,92,Republican
+1987,Bisexual,0,0,Republican
+1987,Bisexual,1,0,Republican
+1987,Bisexual,2,0,Republican
+1987,Gay     ,0,0,Republican
+1987,Gay     ,1,0,Republican
+1987,Gay     ,2,0,Republican
+1987,Lesbian ,0,0,Republican
+1987,Lesbian ,1,0,Republican
+1987,Lesbian ,2,0,Republican
+1987,Straight,0,100,Republican
+1987,Straight,1,100,Republican
+1987,Straight,2,100,Republican
+1988,Bisexual,0,0,Republican
+1988,Bisexual,1,0,Republican
+1988,Bisexual,2,0,Republican
+1988,Gay     ,0,0,Republican
+1988,Gay     ,1,0,Republican
+1988,Gay     ,2,0,Republican
+1988,Lesbian ,0,0,Republican
+1988,Lesbian ,1,20,Republican
+1988,Lesbian ,2,4,Republican
+1988,Straight,0,100,Republican
+1988,Straight,1,80,Republican
+1988,Straight,2,96,Republican
+1989,Bisexual,0,5,Republican
+1989,Bisexual,1,0,Republican
+1989,Bisexual,2,4,Republican
+1989,Gay     ,0,0,Republican
+1989,Gay     ,1,0,Republican
+1989,Gay     ,2,0,Republican
+1989,Lesbian ,0,0,Republican
+1989,Lesbian ,1,0,Republican
+1989,Lesbian ,2,0,Republican
+1989,Straight,0,95,Republican
+1989,Straight,1,100,Republican
+1989,Straight,2,96,Republican
+1990,Bisexual,0,0,Republican
+1990,Bisexual,1,0,Republican
+1990,Bisexual,2,0,Republican
+1990,Gay     ,0,0,Republican
+1990,Gay     ,1,0,Republican
+1990,Gay     ,2,0,Republican
+1990,Lesbian ,0,0,Republican
+1990,Lesbian ,1,0,Republican
+1990,Lesbian ,2,0,Republican
+1990,Straight,0,100,Republican
+1990,Straight,1,100,Republican
+1990,Straight,2,100,Republican
+1991,Bisexual,0,0,Republican
+1991,Bisexual,1,0,Republican
+1991,Bisexual,2,0,Republican
+1991,Gay     ,0,0,Republican
+1991,Gay     ,1,0,Republican
+1991,Gay     ,2,0,Republican
+1991,Lesbian ,0,0,Republican
+1991,Lesbian ,1,20,Republican
+1991,Lesbian ,2,4,Republican
+1991,Straight,0,100,Republican
+1991,Straight,1,80,Republican
+1991,Straight,2,96,Republican
+1992,Bisexual,0,0,Republican
+1992,Bisexual,1,0,Republican
+1992,Bisexual,2,0,Republican
+1992,Gay     ,0,10,Republican
+1992,Gay     ,1,0,Republican
+1992,Gay     ,2,8,Republican
+1992,Lesbian ,0,0,Republican
+1992,Lesbian ,1,0,Republican
+1992,Lesbian ,2,0,Republican
+1992,Straight,0,90,Republican
+1992,Straight,1,100,Republican
+1992,Straight,2,92,Republican
+1993,Bisexual,0,0,Democratic
+1993,Bisexual,1,20,Democratic
+1993,Bisexual,2,4,Democratic
+1993,Gay     ,0,5,Democratic
+1993,Gay     ,1,0,Democratic
+1993,Gay     ,2,4,Democratic
+1993,Lesbian ,0,0,Democratic
+1993,Lesbian ,1,0,Democratic
+1993,Lesbian ,2,0,Democratic
+1993,Straight,0,95,Democratic
+1993,Straight,1,80,Democratic
+1993,Straight,2,92,Democratic
+1994,Bisexual,0,0,Democratic
+1994,Bisexual,1,0,Democratic
+1994,Bisexual,2,0,Democratic
+1994,Gay     ,0,5,Democratic
+1994,Gay     ,1,0,Democratic
+1994,Gay     ,2,4,Democratic
+1994,Lesbian ,0,5,Democratic
+1994,Lesbian ,1,0,Democratic
+1994,Lesbian ,2,4,Democratic
+1994,Straight,0,90,Democratic
+1994,Straight,1,100,Democratic
+1994,Straight,2,92,Democratic
+1995,Bisexual,0,0,Democratic
+1995,Bisexual,1,0,Democratic
+1995,Bisexual,2,0,Democratic
+1995,Gay     ,0,0,Democratic
+1995,Gay     ,1,20,Democratic
+1995,Gay     ,2,4,Democratic
+1995,Lesbian ,0,0,Democratic
+1995,Lesbian ,1,0,Democratic
+1995,Lesbian ,2,0,Democratic
+1995,Straight,0,100,Democratic
+1995,Straight,1,80,Democratic
+1995,Straight,2,96,Democratic
+1996,Bisexual,0,0,Democratic
+1996,Bisexual,1,0,Democratic
+1996,Bisexual,2,0,Democratic
+1996,Gay     ,0,0,Democratic
+1996,Gay     ,1,0,Democratic
+1996,Gay     ,2,0,Democratic
+1996,Lesbian ,0,0,Democratic
+1996,Lesbian ,1,0,Democratic
+1996,Lesbian ,2,0,Democratic
+1996,Straight,0,100,Democratic
+1996,Straight,1,100,Democratic
+1996,Straight,2,100,Democratic
+1997,Bisexual,0,0,Democratic
+1997,Bisexual,1,0,Democratic
+1997,Bisexual,2,0,Democratic
+1997,Gay     ,0,5,Democratic
+1997,Gay     ,1,0,Democratic
+1997,Gay     ,2,4,Democratic
+1997,Lesbian ,0,0,Democratic
+1997,Lesbian ,1,0,Democratic
+1997,Lesbian ,2,0,Democratic
+1997,Straight,0,95,Democratic
+1997,Straight,1,100,Democratic
+1997,Straight,2,96,Democratic
+1998,Bisexual,0,0,Democratic
+1998,Bisexual,1,0,Democratic
+1998,Bisexual,2,0,Democratic
+1998,Gay     ,0,5,Democratic
+1998,Gay     ,1,0,Democratic
+1998,Gay     ,2,4,Democratic
+1998,Lesbian ,0,0,Democratic
+1998,Lesbian ,1,0,Democratic
+1998,Lesbian ,2,0,Democratic
+1998,Straight,0,95,Democratic
+1998,Straight,1,100,Democratic
+1998,Straight,2,96,Democratic
+1999,Bisexual,0,0,Democratic
+1999,Bisexual,1,20,Democratic
+1999,Bisexual,2,4,Democratic
+1999,Gay     ,0,0,Democratic
+1999,Gay     ,1,20,Democratic
+1999,Gay     ,2,4,Democratic
+1999,Lesbian ,0,0,Democratic
+1999,Lesbian ,1,0,Democratic
+1999,Lesbian ,2,0,Democratic
+1999,Straight,0,100,Democratic
+1999,Straight,1,60,Democratic
+1999,Straight,2,92,Democratic
+2000,Bisexual,0,0,Democratic
+2000,Bisexual,1,0,Democratic
+2000,Bisexual,2,0,Democratic
+2000,Gay     ,0,5,Democratic
+2000,Gay     ,1,0,Democratic
+2000,Gay     ,2,4,Democratic
+2000,Lesbian ,0,0,Democratic
+2000,Lesbian ,1,0,Democratic
+2000,Lesbian ,2,0,Democratic
+2000,Straight,0,95,Democratic
+2000,Straight,1,100,Democratic
+2000,Straight,2,96,Democratic
+2001,Bisexual,0,0,Republican
+2001,Bisexual,1,0,Republican
+2001,Bisexual,2,0,Republican
+2001,Gay     ,0,5,Republican
+2001,Gay     ,1,0,Republican
+2001,Gay     ,2,4,Republican
+2001,Lesbian ,0,0,Republican
+2001,Lesbian ,1,0,Republican
+2001,Lesbian ,2,0,Republican
+2001,Straight,0,95,Republican
+2001,Straight,1,100,Republican
+2001,Straight,2,96,Republican
+2002,Bisexual,0,0,Republican
+2002,Bisexual,1,0,Republican
+2002,Bisexual,2,0,Republican
+2002,Gay     ,0,15,Republican
+2002,Gay     ,1,0,Republican
+2002,Gay     ,2,12,Republican
+2002,Lesbian ,0,0,Republican
+2002,Lesbian ,1,0,Republican
+2002,Lesbian ,2,0,Republican
+2002,Straight,0,85,Republican
+2002,Straight,1,100,Republican
+2002,Straight,2,88,Republican
+2003,Bisexual,0,0,Republican
+2003,Bisexual,1,0,Republican
+2003,Bisexual,2,0,Republican
+2003,Gay     ,0,0,Republican
+2003,Gay     ,1,0,Republican
+2003,Gay     ,2,0,Republican
+2003,Lesbian ,0,0,Republican
+2003,Lesbian ,1,0,Republican
+2003,Lesbian ,2,0,Republican
+2003,Straight,0,100,Republican
+2003,Straight,1,100,Republican
+2003,Straight,2,100,Republican
+2004,Bisexual,0,0,Republican
+2004,Bisexual,1,0,Republican
+2004,Bisexual,2,0,Republican
+2004,Gay     ,0,0,Republican
+2004,Gay     ,1,0,Republican
+2004,Gay     ,2,0,Republican
+2004,Lesbian ,0,0,Republican
+2004,Lesbian ,1,0,Republican
+2004,Lesbian ,2,0,Republican
+2004,Straight,0,100,Republican
+2004,Straight,1,100,Republican
+2004,Straight,2,100,Republican
+2005,Bisexual,0,0,Republican
+2005,Bisexual,1,0,Republican
+2005,Bisexual,2,0,Republican
+2005,Gay     ,0,0,Republican
+2005,Gay     ,1,0,Republican
+2005,Gay     ,2,0,Republican
+2005,Lesbian ,0,0,Republican
+2005,Lesbian ,1,0,Republican
+2005,Lesbian ,2,0,Republican
+2005,Straight,0,100,Republican
+2005,Straight,1,100,Republican
+2005,Straight,2,100,Republican
+2006,Bisexual,0,0,Republican
+2006,Bisexual,1,0,Republican
+2006,Bisexual,2,0,Republican
+2006,Gay     ,0,0,Republican
+2006,Gay     ,1,0,Republican
+2006,Gay     ,2,0,Republican
+2006,Lesbian ,0,0,Republican
+2006,Lesbian ,1,0,Republican
+2006,Lesbian ,2,0,Republican
+2006,Straight,0,100,Republican
+2006,Straight,1,100,Republican
+2006,Straight,2,100,Republican
+2007,Bisexual,0,0,Republican
+2007,Bisexual,1,0,Republican
+2007,Bisexual,2,0,Republican
+2007,Gay     ,0,0,Republican
+2007,Gay     ,1,0,Republican
+2007,Gay     ,2,0,Republican
+2007,Lesbian ,0,5,Republican
+2007,Lesbian ,1,0,Republican
+2007,Lesbian ,2,4,Republican
+2007,Straight,0,95,Republican
+2007,Straight,1,100,Republican
+2007,Straight,2,96,Republican
+2008,Bisexual,0,5,Republican
+2008,Bisexual,1,0,Republican
+2008,Bisexual,2,4,Republican
+2008,Gay     ,0,10,Republican
+2008,Gay     ,1,0,Republican
+2008,Gay     ,2,8,Republican
+2008,Lesbian ,0,0,Republican
+2008,Lesbian ,1,0,Republican
+2008,Lesbian ,2,0,Republican
+2008,Straight,0,85,Republican
+2008,Straight,1,100,Republican
+2008,Straight,2,88,Republican
+2009,Bisexual,0,0,Democratic
+2009,Bisexual,1,0,Democratic
+2009,Bisexual,2,0,Democratic
+2009,Gay     ,0,5,Democratic
+2009,Gay     ,1,0,Democratic
+2009,Gay     ,2,4,Democratic
+2009,Lesbian ,0,0,Democratic
+2009,Lesbian ,1,0,Democratic
+2009,Lesbian ,2,0,Democratic
+2009,Straight,0,95,Democratic
+2009,Straight,1,100,Democratic
+2009,Straight,2,96,Democratic
+2010,Bisexual,0,0,Democratic
+2010,Bisexual,1,0,Democratic
+2010,Bisexual,2,0,Democratic
+2010,Gay     ,0,0,Democratic
+2010,Gay     ,1,0,Democratic
+2010,Gay     ,2,0,Democratic
+2010,Lesbian ,0,0,Democratic
+2010,Lesbian ,1,0,Democratic
+2010,Lesbian ,2,0,Democratic
+2010,Straight,0,100,Democratic
+2010,Straight,1,100,Democratic
+2010,Straight,2,100,Democratic
+2011,Bisexual,0,0,Democratic
+2011,Bisexual,1,0,Democratic
+2011,Bisexual,2,0,Democratic
+2011,Gay     ,0,0,Democratic
+2011,Gay     ,1,0,Democratic

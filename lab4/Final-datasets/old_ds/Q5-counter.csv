@@ -1,0 +1,565 @@
+Year,race_ethnicity,milestone,count
+1928,White,,10
+1929,White,,16
+1930,White,,18
+1931,White,,15
+1932,White,,9
+1933,White,,9
+1934,White,,10
+1935,White,,9
+1935,Asian,,1
+1935,White,,5
+1936,White,,25
+1937,White,,25
+1938,White,,25
+1939,White,,17
+1939,Black,,1
+1939,White,,7
+1940,White,,25
+1941,White,Africanâ€“Americans in WWII                             ,25
+1942,White,,25
+1943,White,,25
+1944,White,,25
+1945,White,,25
+1946,White,,25
+1947,White,Jackie Robinson                                         ,25
+1948,White,,7
+1948,Hispa,,1
+1948,White,,17
+1949,White,,18
+1949,Black,,1
+1949,White,,6
+1950,White,,1
+1950,Hispa,,1
+1950,White,,23
+1951,White,,25
+1952,White,,2
+1952,Hispa,,1
+1952,White,,2
+1952,Hispa,,1
+1952,White,,19
+1953,White,,25
+1954,White,Brown v. Board Of Education                             ,11
+1954,Black,Brown v. Board Of Education                             ,1
+1954,White,Brown v. Board Of Education                             ,6
+1954,Hispa,Brown v. Board Of Education                             ,1
+1954,White,Brown v. Board Of Education                             ,6
+1955,White,Emmett Till                                             ,1
+1955,White,Rosa Parks and the Montgomery Bus Boycott               ,1
+1955,White,Emmett Till                                             ,1
+1955,White,Rosa Parks and the Montgomery Bus Boycott               ,1
+1955,White,Emmett Till                                             ,1
+1955,White,Rosa Parks and the Montgomery Bus Boycott               ,1
+1955,White,Emmett Till                                             ,1
+1955,White,Rosa Parks and the Montgomery Bus Boycott               ,1
+1955,White,Emmett Till                                             ,1
+1955,White,Rosa Parks and the Montgomery Bus Boycott               ,1
+1955,White,Emmett Till                                             ,1
+1955,White,Rosa Parks and the Montgomery Bus Boycott               ,1
+1955,White,Emmett Till                                             ,1
+1955,White,Rosa Parks and the Montgomery Bus Boycott               ,1
+1955,White,Emmett Till                                             ,1
+1955,White,Rosa Parks and the Montgomery Bus Boycott               ,1
+1955,White,Emmett Till                                             ,1
+1955,White,Rosa Parks and the Montgomery Bus Boycott               ,1
+1955,White,Emmett Till                                             ,1
+1955,White,Rosa Parks and the Montgomery Bus Boycott               ,1
+1955,White,Emmett Till                                             ,1
+1955,White,Rosa Parks and the Montgomery Bus Boycott               ,1
+1955,White,Emmett Till                                             ,1
+1955,White,Rosa Parks and the Montgomery Bus Boycott               ,1
+1955,White,Emmett Till                                             ,1
+1955,White,Rosa Parks and the Montgomery Bus Boycott               ,1
+1955,White,Emmett Till                                             ,1
+1955,White,Rosa Parks and the Montgomery Bus Boycott               ,1
+1955,White,Emmett Till                                             ,1
+1955,White,Rosa Parks and the Montgomery Bus Boycott               ,1
+1955,White,Emmett Till                                             ,1
+1955,White,Rosa Parks and the Montgomery Bus Boycott               ,1
+1955,White,Emmett Till                                             ,1
+1955,White,Rosa Parks and the Montgomery Bus Boycott               ,1
+1955,White,Emmett Till                                             ,1
+1955,White,Rosa Parks and the Montgomery Bus Boycott               ,1
+1955,White,Emmett Till                                             ,1
+1955,White,Rosa Parks and the Montgomery Bus Boycott               ,1
+1955,White,Emmett Till                                             ,1
+1955,White,Rosa Parks and the Montgomery Bus Boycott               ,1
+1955,White,Emmett Till                                             ,1
+1955,White,Rosa Parks and the Montgomery Bus Boycott               ,1
+1955,White,Emmett Till                                             ,1
+1955,White,Rosa Parks and the Montgomery Bus Boycott               ,1
+1955,White,Emmett Till                                             ,1
+1955,White,Rosa Parks and the Montgomery Bus Boycott               ,1
+1955,White,Emmett Till                                             ,1
+1955,White,Rosa Parks and the Montgomery Bus Boycott               ,1
+1955,White,Emmett Till                                             ,1
+1955,White,Rosa Parks and the Montgomery Bus Boycott               ,1
+1956,White,,6
+1956,Hispa,,1
+1956,White,,18
+1957,White,Central High School integrated                          ,2
+1957,Hispa,Central High School integrated                          ,1
+1957,White,Central High School integrated                          ,5
+1957,Asian,Central High School integrated                          ,1
+1957,White,Central High School integrated                          ,10
+1957,Asian,Central High School integrated                          ,1
+1957,White,Central High School integrated                          ,5
+1958,White,,2
+1958,Black,,1
+1958,White,,22
+1959,White,,16
+1959,Black,,1
+1959,White,,8
+1960,White,Sitâ€“in movement and founding of SNCC                  ,25
+1961,White,CORE and Freedom Rides                                  ,18
+1961,Hispa,CORE and Freedom Rides                                  ,1
+1961,White,CORE and Freedom Rides                                  ,7
+1962,White,Integration of Ole Miss                                 ,6
+1962,Arab ,Integration of Ole Miss                                 ,1
+1962,White,Integration of Ole Miss                                 ,18
+1963,White,Birmingham church bombed                                ,1
+1963,White,â€œI Have a Dreamâ€?                                    ,1
+1963,White,Birmingham church bombed                                ,1
+1963,White,â€œI Have a Dreamâ€?                                    ,1
+1963,White,Birmingham church bombed                                ,1
+1963,White,â€œI Have a Dreamâ€?                                    ,1
+1963,White,Birmingham church bombed                                ,1
+1963,White,â€œI Have a Dreamâ€?                                    ,1
+1963,Black,Birmingham church bombed                                ,1
+1963,Black,â€œI Have a Dreamâ€?                                    ,1
+1963,White,Birmingham church bombed                                ,1
+1963,White,â€œI Have a Dreamâ€?                                    ,1
+1963,White,Birmingham church bombed                                ,1
+1963,White,â€œI Have a Dreamâ€?                                    ,1
+1963,White,Birmingham church bombed                                ,1
+1963,White,â€œI Have a Dreamâ€?                                    ,1
+1963,White,Birmingham church bombed                                ,1
+1963,White,â€œI Have a Dreamâ€?                                    ,1
+1963,White,Birmingham church bombed                                ,1
+1963,White,â€œI Have a Dreamâ€?                                    ,1
+1963,White,Birmingham church bombed                                ,1
+1963,White,â€œI Have a Dreamâ€?                                    ,1
+1963,White,Birmingham church bombed                                ,1
+1963,White,â€œI Have a Dreamâ€?                                    ,1
+1963,White,Birmingham church bombed                                ,1
+1963,White,â€œI Have a Dreamâ€?                                    ,1
+1963,White,Birmingham church bombed                                ,1
+1963,White,â€œI Have a Dreamâ€?                                    ,1
+1963,White,Birmingham church bombed                                ,1
+1963,White,â€œI Have a Dreamâ€?                                    ,1
+1963,White,Birmingham church bombed                                ,1
+1963,White,â€œI Have a Dreamâ€?                                    ,1
+1963,White,Birmingham church bombed                                ,1
+1963,White,â€œI Have a Dreamâ€?                                    ,1
+1963,White,Birmingham church bombed                                ,1
+1963,White,â€œI Have a Dreamâ€?                                    ,1
+1963,White,Birmingham church bombed                                ,1
+1963,White,â€œI Have a Dreamâ€?                                    ,1
+1963,White,Birmingham church bombed                                ,1
+1963,White,â€œI Have a Dreamâ€?                                    ,1
+1963,White,Birmingham church bombed                                ,1
+1963,White,â€œI Have a Dreamâ€?                                    ,1
+1963,White,Birmingham church bombed                                ,1
+1963,White,â€œI Have a Dreamâ€?                                    ,1
+1963,White,Birmingham church bombed                                ,1
+1963,White,â€œI Have a Dreamâ€?                                    ,1
+1963,White,Birmingham church bombed                                ,1
+1963,White,â€œI Have a Dreamâ€?                                    ,1
+1963,White,Birmingham church bombed                                ,1
+1963,White,â€œI Have a Dreamâ€?                                    ,1
+1964,Hispa,Civil Rights Act of 1964                                ,1
+1964,Hispa,Freedom Summer and the â€œMississippi Burningâ€? murders,1
+1964,White,Civil Rights Act of 1964                                ,1
+1964,White,Freedom Summer and the â€œMississippi Burningâ€? murders,1
+1964,White,Civil Rights Act of 1964                                ,1
+1964,White,Freedom Summer and the â€œMississippi Burningâ€? murders,1
+1964,White,Civil Rights Act of 1964                                ,1
+1964,White,Freedom Summer and the â€œMississippi Burningâ€? murders,1
+1964,White,Civil Rights Act of 1964                                ,1
+1964,White,Freedom Summer and the â€œMississippi Burningâ€? murders,1
+1964,White,Civil Rights Act of 1964                                ,1
+1964,White,Freedom Summer and the â€œMississippi Burningâ€? murders,1
+1964,White,Civil Rights Act of 1964                                ,1
+1964,White,Freedom Summer and the â€œMississippi Burningâ€? murders,1
+1964,White,Civil Rights Act of 1964                                ,1
+1964,White,Freedom Summer and the â€œMississippi Burningâ€? murders,1
+1964,White,Civil Rights Act of 1964                                ,1
+1964,White,Freedom Summer and the â€œMississippi Burningâ€? murders,1
+1964,White,Civil Rights Act of 1964                                ,1
+1964,White,Freedom Summer and the â€œMississippi Burningâ€? murders,1
+1964,White,Civil Rights Act of 1964                                ,1
+1964,White,Freedom Summer and the â€œMississippi Burningâ€? murders,1
+1964,White,Civil Rights Act of 1964                                ,1
+1964,White,Freedom Summer and the â€œMississippi Burningâ€? murders,1
+1964,White,Civil Rights Act of 1964                                ,1
+1964,White,Freedom Summer and the â€œMississippi Burningâ€? murders,1
+1964,White,Civil Rights Act of 1964                                ,1
+1964,White,Freedom Summer and the â€œMississippi Burningâ€? murders,1
+1964,White,Civil Rights Act of 1964                                ,1
+1964,White,Freedom Summer and the â€œMississippi Burningâ€? murders,1
+1964,White,Civil Rights Act of 1964                                ,1
+1964,White,Freedom Summer and the â€œMississippi Burningâ€? murders,1
+1964,White,Civil Rights Act of 1964                                ,1
+1964,White,Freedom Summer and the â€œMississippi Burningâ€? murders,1
+1964,White,Civil Rights Act of 1964                                ,1
+1964,White,Freedom Summer and the â€œMississippi Burningâ€? murders,1
+1964,White,Civil Rights Act of 1964                                ,1
+1964,White,Freedom Summer and the â€œMississippi Burningâ€? murders,1
+1964,White,Civil Rights Act of 1964                                ,1
+1964,White,Freedom Summer and the â€œMississippi Burningâ€? murders,1
+1964,White,Civil Rights Act of 1964                                ,1
+1964,White,Freedom Summer and the â€œMississippi Burningâ€? murders,1
+1964,White,Civil Rights Act of 1964                                ,1
+1964,White,Freedom Summer and the â€œMississippi Burningâ€? murders,1
+1964,White,Civil Rights Act of 1964                                ,1
+1964,White,Freedom Summer and the â€œMississippi Burningâ€? murders,1
+1964,White,Civil Rights Act of 1964                                ,1
+1964,White,Freedom Summer and the â€œMississippi Burningâ€? murders,1
+1964,White,Civil Rights Act of 1964                                ,1
+1964,White,Freedom Summer and the â€œMississippi Burningâ€? murders,1
+1965,White,Selma to Montgomery march                               ,1
+1965,White,Malcolm X shot to death                                 ,1
+1965,White,Voting Rights Act of 1965                               ,1
+1965,White,Selma to Montgomery march                               ,1
+1965,White,Malcolm X shot to death                                 ,1
+1965,White,Voting Rights Act of 1965                               ,1
+1965,White,Selma to Montgomery march                               ,1
+1965,White,Malcolm X shot to death                                 ,1
+1965,White,Voting Rights Act of 1965                               ,1
+1965,White,Selma to Montgomery march                               ,1
+1965,White,Malcolm X shot to death                                 ,1
+1965,White,Voting Rights Act of 1965                               ,1
+1965,White,Selma to Montgomery march                               ,1
+1965,White,Malcolm X shot to death                                 ,1
+1965,White,Voting Rights Act of 1965                               ,1
+1965,White,Selma to Montgomery march                               ,1
+1965,White,Malcolm X shot to death                                 ,1
+1965,White,Voting Rights Act of 1965                               ,1
+1965,White,Selma to Montgomery march                               ,1
+1965,White,Malcolm X shot to death                                 ,1
+1965,White,Voting Rights Act of 1965                               ,1
+1965,White,Selma to Montgomery march                               ,1
+1965,White,Malcolm X shot to death                                 ,1
+1965,White,Voting Rights Act of 1965                               ,1
+1965,White,Selma to Montgomery march                               ,1
+1965,White,Malcolm X shot to death                                 ,1
+1965,White,Voting Rights Act of 1965                               ,1
+1965,White,Selma to Montgomery march                               ,1
+1965,White,Malcolm X shot to death                                 ,1
+1965,White,Voting Rights Act of 1965                               ,1
+1965,White,Selma to Montgomery march                               ,1
+1965,White,Malcolm X shot to death                                 ,1
+1965,White,Voting Rights Act of 1965                               ,1
+1965,White,Selma to Montgomery march                               ,1
+1965,White,Malcolm X shot to death                                 ,1
+1965,White,Voting Rights Act of 1965                               ,1
+1965,White,Selma to Montgomery march                               ,1
+1965,White,Malcolm X shot to death                                 ,1
+1965,White,Voting Rights Act of 1965                               ,1
+1965,White,Selma to Montgomery march                               ,1
+1965,White,Malcolm X shot to death                                 ,1
+1965,White,Voting Rights Act of 1965                               ,1
+1965,White,Selma to Montgomery march                               ,1
+1965,White,Malcolm X shot to death                                 ,1
+1965,White,Voting Rights Act of 1965                               ,1
+1965,White,Selma to Montgomery march                               ,1
+1965,White,Malcolm X shot to death                                 ,1
+1965,White,Voting Rights Act of 1965                               ,1
+1965,White,Selma to Montgomery march                               ,1
+1965,White,Malcolm X shot to death                                 ,1
+1965,White,Voting Rights Act of 1965                               ,1
+1965,White,Selma to Montgomery march                               ,1
+1965,White,Malcolm X shot to death                                 ,1
+1965,White,Voting Rights Act of 1965                               ,1
+1965,White,Selma to Montgomery march                               ,1
+1965,White,Malcolm X shot to death                                 ,1
+1965,White,Voting Rights Act of 1965                               ,1
+1965,White,Selma to Montgomery march                               ,1
+1965,White,Malcolm X shot to death                                 ,1
+1965,White,Voting Rights Act of 1965                               ,1
+1965,White,Selma to Montgomery march                               ,1
+1965,White,Malcolm X shot to death                                 ,1
+1965,White,Voting Rights Act of 1965                               ,1
+1965,Asian,Selma to Montgomery march                               ,1
+1965,Asian,Malcolm X shot to death                                 ,1
+1965,Asian,Voting Rights Act of 1965                               ,1
+1965,White,Selma to Montgomery march                               ,1
+1965,White,Malcolm X shot to death                                 ,1
+1965,White,Voting Rights Act of 1965                               ,1
+1965,White,Selma to Montgomery march                               ,1
+1965,White,Malcolm X shot to death                                 ,1
+1965,White,Voting Rights Act of 1965                               ,1
+1965,White,Selma to Montgomery march                               ,1
+1965,White,Malcolm X shot to death                                 ,1
+1965,White,Voting Rights Act of 1965                               ,1
+1966,White,,7
+1966,Asian,,1
+1966,White,,8
+1966,Indig,,1
+1966,White,,8
+1967,White,,15
+1967,Black,,2
+1967,White,,8
+1968,White,Fair Housing Act                                        ,1
+1968,White,MLK assassinated                                        ,1
+1968,White,Fair Housing Act                                        ,1
+1968,White,MLK assassinated                                        ,1
+1968,White,Fair Housing Act                                        ,1
+1968,White,MLK assassinated                                        ,1
+1968,White,Fair Housing Act                                        ,1
+1968,White,MLK assassinated                                        ,1
+1968,White,Fair Housing Act                                        ,1
+1968,White,MLK assassinated                                        ,1
+1968,White,Fair Housing Act                                        ,1
+1968,White,MLK assassinated                                        ,1
+1968,White,Fair Housing Act                                        ,1
+1968,White,MLK assassinated                                        ,1
+1968,White,Fair Housing Act                                        ,1
+1968,White,MLK assassinated                                        ,1
+1968,White,Fair Housing Act                                        ,1
+1968,White,MLK assassinated                                        ,1
+1968,White,Fair Housing Act                                        ,1
+1968,White,MLK assassinated                                        ,1
+1968,White,Fair Housing Act                                        ,1
+1968,White,MLK assassinated                                        ,1
+1968,White,Fair Housing Act                                        ,1
+1968,White,MLK assassinated                                        ,1
+1968,White,Fair Housing Act                                        ,1
+1968,White,MLK assassinated                                        ,1
+1968,White,Fair Housing Act                                        ,1
+1968,White,MLK assassinated                                        ,1
+1968,White,Fair Housing Act                                        ,1
+1968,White,MLK assassinated                                        ,1
+1968,White,Fair Housing Act                                        ,1
+1968,White,MLK assassinated                                        ,1
+1968,White,Fair Housing Act                                        ,1
+1968,White,MLK assassinated                                        ,1
+1968,White,Fair Housing Act                                        ,1
+1968,White,MLK assassinated                                        ,1
+1968,White,Fair Housing Act                                        ,1
+1968,White,MLK assassinated                                        ,1
+1968,White,Fair Housing Act                                        ,1
+1968,White,MLK assassinated                                        ,1
+1968,White,Fair Housing Act                                        ,1
+1968,White,MLK assassinated                                        ,1
+1968,White,Fair Housing Act                                        ,1
+1968,White,MLK assassinated                                        ,1
+1968,White,Fair Housing Act                                        ,1
+1968,White,MLK assassinated                                        ,1
+1968,White,Fair Housing Act                                        ,1
+1968,White,MLK assassinated                                        ,1
+1968,White,Fair Housing Act                                        ,1
+1968,White,MLK assassinated                                        ,1
+1969,White,,9
+1969,Black,,1
+1969,White,,15
+1970,White,,2
+1970,Black,,1
+1970,White,,2
+1970,Indig,,1
+1970,White,,19
+1971,White,,25
+1972,White,Shirley Chisholm runs for president                     ,3
+1972,Black,Shirley Chisholm runs for president                     ,1
+1972,White,Shirley Chisholm runs for president                     ,6
+1972,Black,Shirley Chisholm runs for president                     ,2
+1972,White,Shirley Chisholm runs for president                     ,13
+1973,White,,25
+1974,White,,10
+1974,Black,,1
+1974,White,,14
+1975,White,,13
+1975,Arab ,,1
+1975,White,,11
+1976,White,,25
+1977,White,,25
+1978,White,The Bakke decision and affirmative action               ,26
+1979,White,,25
+1980,White,,25
+1981,White,,9
+1981,Black,,1
+1981,White,,15
+1982,White,,1
+1982,Asian,,1
+1982,White,,4
+1982,Black,,1
+1982,White,,18
+1983,White,,19
+1983,Black,,1
+1983,White,,5
+1984,White,Jesse Jackson galvanizes black voters                   ,5
+1984,Black,Jesse Jackson galvanizes black voters                   ,1
+1984,White,Jesse Jackson galvanizes black voters                   ,1
+1984,Asian,Jesse Jackson galvanizes black voters                   ,2
+1984,White,Jesse Jackson galvanizes black voters                   ,16
+1985,White,,11
+1985,Black,,1
+1985,White,,3
+1985,Black,,1
+1985,White,,2
+1985,Asian,,1
+1985,Black,,1
+1985,Asian,,1
+1985,Hispa,,1
+1985,White,,3
+1986,Black,Oprah Winfrey launches syndicated talk show             ,1
+1986,White,Oprah Winfrey launches syndicated talk show             ,24
+1987,White,,7
+1987,Black,,1
+1987,White,,1
+1987,Black,,1
+1987,White,,5
+1987,Hispa,,1
+1987,White,,9
+1988,White,,3
+1988,Black,,1
+1988,White,,21
+1989,White,,3
+1989,Black,,1
+1989,White,,5
+1989,Black,,1
+1989,Arab ,,1
+1989,White,,14
+1990,White,,6
+1990,Hispa,,1
+1990,White,,10
+1990,Black,,1
+1990,White,,2
+1990,Arab ,,1
+1990,White,,4
+1991,White,,7
+1991,Asian,,1
+1991,White,,13
+1991,Black,,1
+1991,White,,3
+1992,White,Los Angeles riots                                       ,4
+1992,Black,Los Angeles riots                                       ,2
+1992,White,Los Angeles riots                                       ,17
+1992,Irish,Los Angeles riots                                       ,1
+1992,White,Los Angeles riots                                       ,1
+1993,White,,1
+1993,Black,,1
+1993,White,,8
+1993,Black,,1
+1993,White,,6
+1993,Hispa,,1
+1993,White,,7
+1994,Black,,1
+1994,White,,4
+1994,Black,,1
+1994,White,,12
+1994,Asian,,1
+1994,White,,6
+1995,White,Million Man March                                       ,25
+1996,White,,5
+1996,Black,,1
+1996,White,,13
+1996,Black,,1
+1996,White,,5
+1997,White,,20
+1997,Arab ,,1
+1997,White,,4
+1998,White,,11
+1998,Hispa,,1
+1998,White,,13
+1999,White,,4
+1999,Black,,1
+1999,White,,2
+1999,Black,,1
+1999,White,,13
+1999,Indo ,,1
+1999,White,,3
+2000,White,,7
+2000,Hispa,,1
+2000,White,,12
+2000,Asian,,1
+2000,White,,4
+2001,White,Colin Powell becomes secretary of state                 ,2
+2001,Black,Colin Powell becomes secretary of state                 ,2
+2001,White,Colin Powell becomes secretary of state                 ,3
+2001,Asian,Colin Powell becomes secretary of state                 ,1
+2001,White,Colin Powell becomes secretary of state                 ,2
+2001,Black,Colin Powell becomes secretary of state                 ,1
+2001,White,Colin Powell becomes secretary of state                 ,14
+2002,White,,10
+2002,Hispa,,1
+2002,White,,6
+2002,Black,,1
+2002,White,,7
+2003,White,,1
+2003,Asian,,1
+2003,White,,4
+2003,Hispa,,1
+2003,Black,,1
+2003,White,,1
+2003,Asian,,1
+2003,White,,5
+2003,Arab ,,1
+2003,White,,9
+2004,Black,,1
+2004,White,,3
+2004,Black,,1
+2004,White,,2
+2004,Black,,2
+2004,White,,2
+2004,Hispa,,1
+2004,White,,6
+2004,Black,,1
+2004,White,,6
+2005,White,,1
+2005,Black,,1
+2005,White,,18
+2005,Asian,,1
+2005,White,,4
+2006,White,,3
+2006,Black,,2
+2006,White,,2
+2006,Black,,2
+2006,White,,6
+2006,Hispa,,1
+2006,White,,2
+2006,Black,,1
+2006,Asian,,1
+2006,White,,5
+2007,White,,16
+2007,Black,,1
+2007,White,,8
+2008,White,Barack Obama becomes 44th U.S. president                ,17
+2008,Black,Barack Obama becomes 44th U.S. president                ,2
+2008,White,Barack Obama becomes 44th U.S. president                ,6
+2009,White,,3
+2009,Black,,1
+2009,White,,9
+2009,Black,,1
+2009,White,,5
+2009,Black,,1
+2009,White,,3
+2009,Black,,1
+2009,White,,1
+2010,White,,25
+2011,Hispa,,1
+2011,White,,10
+2011,Black,,1
+2011,White,,3
+2011,Hispa,,1
+2011,White,,3
+2011,Black,,1
+2011,White,,5
+2012,White,,4
+2012,Black,,1
+2012,White,,8
+2012,Black,,1
+2012,White,,6
+2012,Asian,,1
+2012,White,,4
+2013,White,,3
+2013,Black,,1
+2013,White,,1
+2013,Black,,1
+2013,White,,11
+2013,Black,,1
+2013,White,,7
+2014,White,,25
+2015,White,,23
+2015,Irish,,1
+2015,White,,1

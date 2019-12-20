@@ -1,0 +1,430 @@
+Year;Award;Winner;Film;Name
+1928/1929;Directing                   ;;Madame X                                                  ;Lionel Barrymore               
+1928/1929;Directing                   ;;The Broadway Melody                                       ;Harry Beaumont                 
+1928/1929;Directing                   ;;In Old Arizona                                            ;Irving Cummings                
+1928/1929;Directing                   ;1;The Divine Lady                                           ;Frank Lloyd                    
+1928/1929;Directing                   ;;"Drag; and Weary River                                     ";Frank Lloyd                    
+1928/1929;Directing                   ;;The Patriot                                               ;Ernst Lubitsch                 
+1929/1930;Directing                   ;;"Anna Christie; and Romance                                ";Clarence Brown                 
+1929/1930;Directing                   ;;The Divorcee                                              ;Robert Leonard                 
+1929/1930;Directing                   ;;The Love Parade                                           ;Ernst Lubitsch                 
+1929/1930;Directing                   ;1;All Quiet on the Western Front                            ;Lewis Milestone                
+1929/1930;Directing                   ;;Hallelujah    ;King Vidor                                                
+1930/1931;Directing                   ;;Cimarron                       ;Wesley Ruggles                                            
+1930/1931;Directing                   ;;A Free Soul                    ;Clarence Brown                                            
+1930/1931;Directing                   ;;The Front Page                 ;Lewis Milestone                                           
+1930/1931;Directing                   ;;Morocco                        ;Josef Von Sternberg                                       
+1930/1931;Directing                   ;1;Skippy                         ;Norman Taurog                                             
+1931/1932;Directing                   ;1;Bad Girl                       ;Frank Borzage                                             
+1931/1932;Directing                   ;;The Champ                      ;King Vidor                                                
+1931/1932;Directing                   ;;Shanghai Express               ;Josef Von Sternberg                                       
+1932/1933;Directing                   ;1;Cavalcade                      ;Frank Lloyd                                               
+1932/1933;Directing                   ;;Lady for a Day                 ;Frank Capra [Second]                                      
+1932/1933;Directing                   ;;Little Women                   ;George Cukor [Third]                                      
+1934;Directing                   ;1;It Happened One Night          ;Frank Capra                                               
+1934;Directing                   ;;One Night of Love              ;Victor Schertzinger [Third]                               
+1934;Directing                   ;;The Thin Man                   ;W. S. Van Dyke [Second]                                   
+1935;Directing                   ;;Captain Blood                  ;Michael Curtiz [Second]                                   
+1935;Directing                   ;1;The Informer                   ;John Ford                                                 
+1935;Directing                   ;;The Lives of a Bengal Lancer   ;Henry Hathaway [Third]                                    
+1935;Directing                   ;;Mutiny on the Bounty           ;Frank Lloyd                                               
+1936;Directing                   ;;Dodsworth                      ;William Wyler                                             
+1936;Directing                   ;;The Great Ziegfeld             ;Robert Z. Leonard                                         
+1936;Directing                   ;1;Mr. Deeds Goes to Town         ;Frank Capra                                               
+1936;Directing                   ;;My Man Godfrey                 ;Gregory La Cava                                           
+1936;Directing                   ;;San Francisco                  ;W. S. Van Dyke                                            
+1937;Directing                   ;1;The Awful Truth                ;Leo McCarey                                               
+1937;Directing                   ;;The Good Earth                 ;Sidney Franklin                                           
+1937;Directing                   ;;The Life of Emile Zola         ;William Dieterle                                          
+1937;Directing                   ;;Stage Door                     ;Gregory La Cava                                           
+1937;Directing                   ;;A Star Is Born                 ;William Wellman                                           
+1938;Directing                   ;;Angels with Dirty Faces        ;Michael Curtiz                                            
+1938;Directing                   ;;Boys Town                      ;Norman Taurog                                             
+1938;Directing                   ;;The Citadel                    ;King Vidor                                                
+1938;Directing                   ;;Four Daughters                 ;Michael Curtiz                                            
+1938;Directing                   ;1;You Can't Take It with You     ;Frank Capra                                               
+1939;Directing                   ;1;Gone with the Wind             ;Victor Fleming                                            
+1939;Directing                   ;;Goodbye, Mr. Chips             ;Sam Wood                                                  
+1939;Directing                   ;;Mr. Smith Goes to Washington   ;Frank Capra                                               
+1939;Directing                   ;;Stagecoach                     ;John Ford                                                 
+1939;Directing                   ;;Wuthering Heights              ;William Wyler                                             
+1940;Directing                   ;1;The Grapes of Wrath            ;John Ford                                                 
+1940;Directing                   ;;Kitty Foyle                    ;Sam Wood                                                  
+1940;Directing                   ;;The Letter                     ;William Wyler                                             
+1940;Directing                   ;;The Philadelphia Story         ;George Cukor                                              
+1940;Directing                   ;;Rebecca                        ;Alfred Hitchcock                                          
+1941;Directing                   ;;Citizen Kane                   ;Orson Welles                                              
+1941;Directing                   ;;Here Comes Mr. Jordan          ;Alexander Hall                                            
+1941;Directing                   ;1;How Green Was My Valley        ;John Ford                                                 
+1941;Directing                   ;;The Little Foxes               ;William Wyler                                             
+1941;Directing                   ;;Sergeant York                  ;Howard Hawks                                              
+1942;Directing                   ;;Kings Row                      ;Sam Wood                                                  
+1942;Directing                   ;1;Mrs. Miniver                   ;William Wyler                                             
+1942;Directing                   ;;Random Harvest                 ;Mervyn LeRoy                                              
+1942;Directing                   ;;Wake Island                    ;John Farrow                                               
+1942;Directing                   ;;Yankee Doodle Dandy            ;Michael Curtiz                                            
+1943;Directing                   ;1;Casablanca                     ;Michael Curtiz                                            
+1943;Directing                   ;;Heaven Can Wait                ;Ernst Lubitsch                                            
+1943;Directing                   ;;The Human Comedy               ;Clarence Brown                                            
+1943;Directing                   ;;The More the Merrier           ;George Stevens                                            
+1943;Directing                   ;;The Song of Bernadette         ;Henry King                                                
+1944;Directing                   ;;Double Indemnity               ;Billy Wilder                                              
+1944;Directing                   ;1;Going My Way                   ;Leo McCarey                                               
+1944;Directing                   ;;Laura                          ;Otto Preminger                                            
+1944;Directing                   ;;Lifeboat                       ;Alfred Hitchcock                                          
+1944;Directing                   ;;Wilson                         ;Henry King                                                
+1945;Directing                   ;;The Bells of St. Mary's        ;Leo McCarey                                               
+1945;Directing                   ;1;The Lost Weekend               ;Billy Wilder                                              
+1945;Directing                   ;;National Velvet                ;Clarence Brown                                            
+1945;Directing                   ;;The Southerner                 ;Jean Renoir                                               
+1945;Directing                   ;;Spellbound                     ;Alfred Hitchcock                                          
+1946;Directing                   ;1;The Best Years of Our Lives    ;William Wyler                                             
+1946;Directing                   ;;Brief Encounter                ;David Lean                                                
+1946;Directing                   ;;It's a Wonderful Life          ;Frank Capra                                               
+1946;Directing                   ;;The Killers                    ;Robert Siodmak                                            
+1946;Directing                   ;;The Yearling                   ;Clarence Brown                                            
+1947;Directing                   ;;The Bishop's Wife              ;Henry Koster                                              
+1947;Directing                   ;;Crossfire                      ;Edward Dmytryk                                            
+1947;Directing                   ;;A Double Life                  ;George Cukor                                              
+1947;Directing                   ;1;Gentleman's Agreement          ;Elia Kazan                                                
+1947;Directing                   ;;Great Expectations             ;David Lean                                                
+1948;Directing                   ;;Hamlet                         ;Laurence Olivier                                          
+1948;Directing                   ;;Johnny Belinda                 ;Jean Negulesco                                            
+1948;Directing                   ;;The Search                     ;Fred Zinnemann                                            
+1948;Directing                   ;;The Snake Pit                  ;Anatole Litvak                                            
+1948;Directing                   ;1;The Treasure of the Sierra Madr;John Huston                                               
+1949;Directing                   ;;All the King's Men             ;Robert Rossen                                             
+1949;Directing                   ;;Battleground                   ;William A. Wellman                                        
+1949;Directing                   ;;The Fallen Idol                ;Carol Reed                                                
+1949;Directing                   ;;The Heiress                    ;William Wyler                                             
+1949;Directing                   ;1;A Letter to Three Wives        ;Joseph L. Mankiewicz                                      
+1950;Directing                   ;1;All about Eve                  ;Joseph L. Mankiewicz                                      
+1950;Directing                   ;;The Asphalt Jungle             ;John Huston                                               
+1950;Directing                   ;;Born Yesterday                 ;George Cukor                                              
+1950;Directing                   ;;Sunset Blvd.                   ;Billy Wilder                                              
+1950;Directing                   ;;The Third Man                  ;Carol Reed                                                
+1951;Directing                   ;;The African Queen              ;John Huston                                               
+1951;Directing                   ;;An American in Paris           ;Vincente Minnelli                                         
+1951;Directing                   ;;Detective Story                ;William Wyler                                             
+1951;Directing                   ;1;A Place in the Sun             ;George Stevens                                            
+1951;Directing                   ;;A Streetcar Named Desire       ;Elia Kazan                                                
+1952;Directing                   ;;Five Fingers                   ;Joseph L. Mankiewicz                                      
+1952;Directing                   ;;The Greatest Show on Earth     ;Cecil B. DeMille                                          
+1952;Directing                   ;;High Noon                      ;Fred Zinnemann                                            
+1952;Directing                   ;;Moulin Rouge                   ;John Huston                                               
+1952;Directing                   ;1;The Quiet Man                  ;John Ford                                                 
+1953;Directing                   ;1;From Here to Eternity          ;Fred Zinnemann                                            
+1953;Directing                   ;;Lili                           ;Charles Walters                                           
+1953;Directing                   ;;Roman Holiday                  ;William Wyler                                             
+1953;Directing                   ;;Shane                          ;George Stevens                                            
+1953;Directing                   ;;Stalag 17                      ;Billy Wilder                                              
+1954;Directing                   ;;The Country Girl               ;George Seaton                                             
+1954;Directing                   ;;The High and the Mighty        ;William Wellman                                           
+1954;Directing                   ;1;On the Waterfront              ;Elia Kazan                                                
+1954;Directing                   ;;Rear Window                    ;Alfred Hitchcock                                          
+1954;Directing                   ;;Sabrina                        ;Billy Wilder                                              
+1955;Directing                   ;;Bad Day at Black Rock          ;John Sturges                                              
+1955;Directing                   ;;East of Eden                   ;Elia Kazan                                                
+1955;Directing                   ;1;Marty                          ;Delbert Mann                                              
+1955;Directing                   ;;Picnic                         ;Joshua Logan                                              
+1955;Directing                   ;;Summertime                     ;David Lean                                                
+1956;Directing                   ;;Around the World in 80 Days    ;Michael Anderson                                          
+1956;Directing                   ;;Friendly Persuasion            ;William Wyler                                             
+1956;Directing                   ;1;Giant                          ;George Stevens                                            
+1956;Directing                   ;;The King and I                 ;Walter Lang                                               
+1956;Directing                   ;;War and Peace                  ;King Vidor                                                
+1957;Directing                   ;1;The Bridge on the River Kwai   ;David Lean                                                
+1957;Directing                   ;;Peyton Place                   ;Mark Robson                                               
+1957;Directing                   ;;Sayonara                       ;Joshua Logan                                              
+1957;Directing                   ;;12 Angry Men                   ;Sidney Lumet                                              
+1957;Directing                   ;;Witness for the Prosecution    ;Billy Wilder                                              
+1958;Directing                   ;;Cat on a Hot Tin Roof          ;Richard Brooks                                            
+1958;Directing                   ;;The Defiant Ones               ;Stanley Kramer                                            
+1958;Directing                   ;1;Gigi                           ;Vincente Minnelli                                         
+1958;Directing                   ;;I Want to Live!                ;Robert Wise                                               
+1958;Directing                   ;;The Inn of the Sixth Happiness ;Mark Robson                                               
+1959;Directing                   ;1;Ben-Hur                        ;William Wyler                                             
+1959;Directing                   ;;The Diary of Anne Frank        ;George Stevens                                            
+1959;Directing                   ;;The Nun's Story                ;Fred Zinnemann                                            
+1959;Directing                   ;;Room at the Top                ;Jack Clayton                                              
+1959;Directing                   ;;Some Like It Hot               ;Billy Wilder                                              
+1960;Directing                   ;1;The Apartment                  ;Billy Wilder                                              
+1960;Directing                   ;;Never on Sunday                ;Jules Dassin                                              
+1960;Directing                   ;;Psycho                         ;Alfred Hitchcock                                          
+1960;Directing                   ;;Sons and Lovers                ;Jack Cardiff                                              
+1960;Directing                   ;;The Sundowners                 ;Fred Zinnemann                                            
+1961;Directing                   ;;The Guns of Navarone           ;J. Lee Thompson                                           
+1961;Directing                   ;;The Hustler                    ;Robert Rossen                                             
+1961;Directing                   ;;Judgment at Nuremberg          ;Stanley Kramer                                            
+1961;Directing                   ;;La Dolce Vita                  ;Federico Fellini                                          
+1961;Directing                   ;1;West Side Story                ;Robert Wise, Jerome Robbins                               
+1962;Directing                   ;;David and Lisa                 ;Frank Perry                                               
+1962;Directing                   ;;Divorce--Italian Style         ;Pietro Germi                                              
+1962;Directing                   ;1;Lawrence of Arabia             ;David Lean                                                
+1962;Directing                   ;;The Miracle Worker             ;Arthur Penn                                               
+1962;Directing                   ;;To Kill a Mockingbird          ;Robert Mulligan                                           
+1963;Directing                   ;;America America                ;Elia Kazan                                                
+1963;Directing                   ;;The Cardinal                   ;Otto Preminger                                            
+1963;Directing                   ;;Federico Fellini's 8-1/2       ;Federico Fellini                                          
+1963;Directing                   ;;Hud                            ;Martin Ritt                                               
+1963;Directing                   ;1;Tom Jones                      ;Tony Richardson                                           
+1964;Directing                   ;;Becket                         ;Peter Glenville                                           
+1964;Directing                   ;;Dr. Strangelove or: How I Learn;Stanley Kubrick                                           
+1964;Directing                   ;;Mary Poppins                   ;Robert Stevenson                                          
+1964;Directing                   ;1;My Fair Lady                   ;George Cukor                                              
+1964;Directing                   ;;Zorba the Greek                ;Michael Cacoyannis                                        
+1965;Directing                   ;;The Collector                  ;William Wyler                                             
+1965;Directing                   ;;Darling                        ;John Schlesinger                                          
+1965;Directing                   ;;Doctor Zhivago                 ;David Lean                                                
+1965;Directing                   ;1;The Sound of Music             ;Robert Wise                                               
+1965;Directing                   ;;Woman in the Dunes             ;Hiroshi Teshigahara                                       
+1966;Directing                   ;;Blow-Up                        ;Michelangelo Antonioni                                    
+1966;Directing                   ;;A Man and a Woman              ;Claude Lelouch                                            
+1966;Directing                   ;1;A Man for All Seasons          ;Fred Zinnemann                                            
+1966;Directing                   ;;The Professionals              ;Richard Brooks                                            
+1966;Directing                   ;;Who's Afraid of Virginia Woolf?;Mike Nichols                                              
+1967;Directing                   ;;Bonnie and Clyde               ;Arthur Penn                                               
+1967;Directing                   ;1;The Graduate                   ;Mike Nichols                                              
+1967;Directing                   ;;Guess Who's Coming to Dinner   ;Stanley Kramer                                            
+1967;Directing                   ;;In Cold Blood                  ;Richard Brooks                                            
+1967;Directing                   ;;In the Heat of the Night       ;Norman Jewison                                            
+1968;Directing                   ;;The Battle of Algiers          ;Gillo Pontecorvo                                          
+1968;Directing                   ;;The Lion in Winter             ;Anthony Harvey                                            
+1968;Directing                   ;1;Oliver!                        ;Carol Reed                                                
+1968;Directing                   ;;Romeo and Juliet               ;Franco Zeffirelli                                         
+1968;Directing                   ;;2001: A Space Odyssey          ;Stanley Kubrick                                           
+1969;Directing                   ;;Alice's Restaurant             ;Arthur Penn                                               
+1969;Directing                   ;;Butch Cassidy and the Sundance ;George Roy Hill                                           
+1969;Directing                   ;1;Midnight Cowboy                ;John Schlesinger                                          
+1969;Directing                   ;;They Shoot Horses, Don't They? ;Sydney Pollack                                            
+1969;Directing                   ;;Z                              ;Costa-Gavras                                              
+1970;Directing                   ;;Fellini Satyricon              ;Federico Fellini                                          
+1970;Directing                   ;;Love Story                     ;Arthur Hiller                                             
+1970;Directing                   ;1;MA*S*H                         ;Robert Altman                                             
+1970;Directing                   ;1;Patton                         ;Franklin J. Schaffner                                     
+1970;Directing                   ;;Women in Love                  ;Ken Russell                                               
+1971;Directing                   ;;A Clockwork Orange             ;Stanley Kubrick                                           
+1971;Directing                   ;;Fiddler on the Roof            ;Norman Jewison                                            
+1971;Directing                   ;1;The French Connection          ;William Friedkin                                          
+1971;Directing                   ;;The Last Picture Show          ;Peter Bogdanovich                                         
+1971;Directing                   ;;Sunday Bloody Sunday           ;John Schlesinger                                          
+1972;Directing                   ;1;Cabaret                        ;Bob Fosse                                                 
+1972;Directing                   ;;Deliverance                    ;John Boorman                                              
+1972;Directing                   ;;The Emigrants                  ;Jan Troell                                                
+1972;Directing                   ;;The Godfather                  ;Francis Ford Coppola                                      
+1972;Directing                   ;;Sleuth                         ;Joseph L. Mankiewicz                                      
+1973;Directing                   ;;American Graffiti              ;George Lucas                                              
+1973;Directing                   ;;Cries and Whispers             ;Ingmar Bergman                                            
+1973;Directing                   ;;The Exorcist                   ;William Friedkin                                          
+1973;Directing                   ;;Last Tango in Paris            ;Bernardo Bertolucci                                       
+1973;Directing                   ;1;The Sting                      ;George Roy Hill                                           
+1974;Directing                   ;;Chinatown                      ;Roman Polanski                                            
+1974;Directing                   ;;Day for Night                  ;Francois Truffaut                                         
+1974;Directing                   ;1;The Godfather Part II          ;Francis Ford Coppola                                      
+1974;Directing                   ;;Lenny                          ;Bob Fosse                                                 
+1974;Directing                   ;;A Woman under the Influence    ;John Cassavetes                                           
+1975;Directing                   ;;Amarcord                       ;Federico Fellini                                          
+1975;Directing                   ;;Barry Lyndon                   ;Stanley Kubrick                                           
+1975;Directing                   ;;Dog Day Afternoon              ;Sidney Lumet                                              
+1975;Directing                   ;;Nashville                      ;Robert Altman                                             
+1975;Directing                   ;1;One Flew over the Cuckoo's Nest;Milos Forman                                              
+1976;Directing                   ;;All the President's Men        ;Alan J. Pakula                                            
+1976;Directing                   ;;Face to Face                   ;Ingmar Bergman                                            
+1976;Directing                   ;;Network                        ;Sidney Lumet                                              
+1976;Directing                   ;1;Rocky                          ;John G. Avildsen                                          
+1976;Directing                   ;;Seven Beauties                 ;Lina Wertmüller                                          
+1977;Directing                   ;1;Annie Hall                     ;Woody Allen                                               
+1977;Directing                   ;;Close Encounters of the Third K;Steven Spielberg                                          
+1977;Directing                   ;;Julia                          ;Fred Zinnemann                                            
+1977;Directing                   ;;Star Wars                      ;George Lucas                                              
+1977;Directing                   ;;The Turning Point              ;Herbert Ross                                              
+1978;Directing                   ;;Coming Home                    ;Hal Ashby                                                 
+1978;Directing                   ;1;The Deer Hunter                ;Michael Cimino                                            
+1978;Directing                   ;;Heaven Can Wait                ;Warren Beatty, Buck Henry                                 
+1978;Directing                   ;;Interiors                      ;Woody Allen                                               
+1978;Directing                   ;;Midnight Express               ;Alan Parker                                               
+1979;Directing                   ;;All That Jazz                  ;Bob Fosse                                                 
+1979;Directing                   ;;Apocalypse Now                 ;Francis Coppola                                           
+1979;Directing                   ;;Breaking Away                  ;Peter Yates                                               
+1979;Directing                   ;1;Kramer vs. Kramer              ;Robert Benton                                             
+1979;Directing                   ;;La Cage aux Folles             ;Edouard Molinaro                                          
+1980;Directing                   ;;The Elephant Man               ;David Lynch                                               
+1980;Directing                   ;1;Ordinary People                ;Robert Redford                                            
+1980;Directing                   ;;Raging Bull                    ;Martin Scorsese                                           
+1980;Directing                   ;;The Stunt Man                  ;Richard Rush                                              
+1980;Directing                   ;;Tess                           ;Roman Polanski                                            
+1981;Directing                   ;;Atlantic City                  ;Louis Malle                                               
+1981;Directing                   ;;Chariots of Fire               ;Hugh Hudson                                               
+1981;Directing                   ;;On Golden Pond                 ;Mark Rydell                                               
+1981;Directing                   ;;Raiders of the Lost Ark        ;Steven Spielberg                                          
+1981;Directing                   ;1;Reds                           ;Warren Beatty                                             
+1982;Directing                   ;;Das Boot                       ;Wolfgang Petersen                                         
+1982;Directing                   ;;E.T. The Extra-Terrestrial     ;Steven Spielberg                                          
+1982;Directing                   ;1;Gandhi                         ;Richard Attenborough                                      
+1982;Directing                   ;;Tootsie                        ;Sydney Pollack                                            
+1982;Directing                   ;;The Verdict                    ;Sidney Lumet                                              
+1983;Directing                   ;;The Dresser                    ;Peter Yates                                               
+1983;Directing                   ;;Fanny & Alexander              ;Ingmar Bergman                                            
+1983;Directing                   ;;Silkwood                       ;Mike Nichols                                              
+1983;Directing                   ;;Tender Mercies                 ;Bruce Beresford                                           
+1983;Directing                   ;1;Terms of Endearment            ;James L. Brooks                                           
+1984;Directing                   ;1;Amadeus                        ;Milos Forman                                              
+1984;Directing                   ;;Broadway Danny Rose            ;Woody Allen                                               
+1984;Directing                   ;;The Killing Fields             ;Roland Joffé                                             
+1984;Directing                   ;;A Passage to India             ;David Lean                                                
+1984;Directing                   ;;Places in the Heart            ;Robert Benton                                             
+1985;Directing                   ;;Kiss of the Spider Woman       ;Hector Babenco                                            
+1985;Directing                   ;1;Out of Africa                  ;Sydney Pollack                                            
+1985;Directing                   ;;Prizzi's Honor                 ;John Huston                                               
+1985;Directing                   ;;Ran                            ;Akira Kurosawa                                            
+1985;Directing                   ;;Witness                        ;Peter Weir                                                
+1986;Directing                   ;;Blue Velvet                    ;David Lynch                                               
+1986;Directing                   ;;Hannah and Her Sisters         ;Woody Allen                                               
+1986;Directing                   ;;The Mission                    ;Roland Joffé                                             
+1986;Directing                   ;1;Platoon                        ;Oliver Stone                                              
+1986;Directing                   ;;A Room with a View             ;James Ivory                                               
+1987;Directing                   ;;Fatal Attraction               ;Adrian Lyne                                               
+1987;Directing                   ;;Hope and Glory                 ;John Boorman                                              
+1987;Directing                   ;1;The Last Emperor               ;Bernardo Bertolucci                                       
+1987;Directing                   ;;Moonstruck                     ;Norman Jewison                                            
+1987;Directing                   ;;My Life as a Dog               ;Lasse Hallström                                          
+1988;Directing                   ;;A Fish Called Wanda            ;Charles Crichton                                          
+1988;Directing                   ;;The Last Temptation of Christ  ;Martin Scorsese                                           
+1988;Directing                   ;;Mississippi Burning            ;Alan Parker                                               
+1988;Directing                   ;1;Rain Man                       ;Barry Levinson                                            
+1988;Directing                   ;;Working Girl                   ;Mike Nichols                                              
+1989;Directing                   ;1;Born on the Fourth of July     ;Oliver Stone                                              
+1989;Directing                   ;;Crimes and Misdemeanors        ;Woody Allen                                               
+1989;Directing                   ;;Dead Poets Society             ;Peter Weir                                                
+1989;Directing                   ;;Henry V                        ;Kenneth Branagh                                           
+1989;Directing                   ;;My Left Foot                   ;Jim Sheridan                                              
+1990;Directing                   ;1;Dances With Wolves             ;Kevin Costner                                             
+1990;Directing                   ;;The Godfather, Part III        ;Francis Ford Coppola                                      
+1990;Directing                   ;;Good Fellas                    ;Martin Scorsese                                           
+1990;Directing                   ;;The Grifters                   ;Stephen Frears                                            
+1990;Directing                   ;;Reversal of Fortune            ;Barbet Schroeder                                          
+1991;Directing                   ;;Boyz N the Hood                ;John Singleton                                            
+1991;Directing                   ;;Bugsy                          ;Barry Levinson                                            
+1991;Directing                   ;;JFK                            ;Oliver Stone                                              
+1991;Directing                   ;1;The Silence of the Lambs       ;Jonathan Demme                                            
+1991;Directing                   ;;Thelma & Louise                ;Ridley Scott                                              
+1992;Directing                   ;;The Crying Game                ;Neil Jordan                                               
+1992;Directing                   ;;Howards End                    ;James Ivory                                               
+1992;Directing                   ;;The Player                     ;Robert Altman                                             
+1992;Directing                   ;;Scent of a Woman               ;Martin Brest                                              
+1992;Directing                   ;1;Unforgiven                     ;Clint Eastwood                                            
+1993;Directing                   ;;In the Name of the Father      ;Jim Sheridan                                              
+1993;Directing                   ;;The Piano                      ;Jane Campion                                              
+1993;Directing                   ;;The Remains of the Day         ;James Ivory                                               
+1993;Directing                   ;1;Schindler's List               ;Steven Spielberg                                          
+1993;Directing                   ;;Short Cuts                     ;Robert Altman                                             
+1994;Directing                   ;;Bullets over Broadway          ;Woody Allen                                               
+1994;Directing                   ;1;Forrest Gump                   ;Robert Zemeckis                                           
+1994;Directing                   ;;Pulp Fiction                   ;Quentin Tarantino                                         
+1994;Directing                   ;;Quiz Show                      ;Robert Redford                                            
+1994;Directing                   ;;Red                            ;Krzysztof Kieslowski                                      
+1995;Directing                   ;;Babe                           ;Chris Noonan                                              
+1995;Directing                   ;1;Braveheart                     ;Mel Gibson                                                
+1995;Directing                   ;;Dead Man Walking               ;Tim Robbins                                               
+1995;Directing                   ;;Leaving Las Vegas              ;Mike Figgis                                               
+1995;Directing                   ;;The Postman (Il Postino)       ;Michael Radford                                           
+1996;Directing                   ;1;The English Patient            ;Anthony Minghella                                         
+1996;Directing                   ;;Fargo                          ;Joel Coen                                                 
+1996;Directing                   ;;The People vs. Larry Flynt     ;Milos Forman                                              
+1996;Directing                   ;;Secrets & Lies                 ;Mike Leigh                                                
+1996;Directing                   ;;Shine                          ;Scott Hicks                                               
+1997;Directing                   ;;The Full Monty                 ;Peter Cattaneo                                            
+1997;Directing                   ;;Good Will Hunting              ;Gus Van Sant                                              
+1997;Directing                   ;;L.A. Confidential              ;Curtis Hanson                                             
+1997;Directing                   ;;The Sweet Hereafter            ;Atom Egoyan                                               
+1997;Directing                   ;1;Titanic                        ;James Cameron                                             
+1998;Directing                   ;;Life Is Beautiful              ;Roberto Benigni                                           
+1998;Directing                   ;1;Saving Private Ryan            ;Steven Spielberg                                          
+1998;Directing                   ;;Shakespeare in Love            ;John Madden                                               
+1998;Directing                   ;;The Thin Red Line              ;Terrence Malick                                           
+1998;Directing                   ;;The Truman Show                ;Peter Weir                                                
+1999;Directing                   ;1;American Beauty                ;Sam Mendes                                                
+1999;Directing                   ;;Being John Malkovich           ;Spike Jonze                                               
+1999;Directing                   ;;The Cider House Rules          ;Lasse Hallström                                          
+1999;Directing                   ;;The Insider                    ;Michael Mann                                              
+1999;Directing                   ;;The Sixth Sense                ;M. Night Shyamalan                                        
+2000;Directing                   ;;Billy Elliot                   ;Stephen Daldry                                            
+2000;Directing                   ;;Crouching Tiger, Hidden Dragon ;Ang Lee                                                   
+2000;Directing                   ;;Erin Brockovich                ;Steven Soderbergh                                         
+2000;Directing                   ;;Gladiator                      ;Ridley Scott                                              
+2000;Directing                   ;1;Traffic                        ;Steven Soderbergh                                         
+2001;Directing                   ;1;A Beautiful Mind               ;Ron Howard                                                
+2001;Directing                   ;;Black Hawk Down                ;Ridley Scott                                              
+2001;Directing                   ;;Gosford Park                   ;Robert Altman                                             
+2001;Directing                   ;;The Lord of the Rings: The Fell;Peter Jackson                                             
+2001;Directing                   ;;Mulholland Drive               ;David Lynch                                               
+2002;Directing                   ;;Chicago                        ;Rob Marshall                                              
+2002;Directing                   ;;Gangs of New York              ;Martin Scorsese                                           
+2002;Directing                   ;;The Hours                      ;Stephen Daldry                                            
+2002;Directing                   ;1;The Pianist                    ;Roman Polanski                                            
+2002;Directing                   ;;Talk to Her                    ;Pedro Almodóvar                                          
+2003;Directing                   ;;City of God                    ;Fernando Meirelles                                        
+2003;Directing                   ;1;The Lord of the Rings: The Retu;Peter Jackson                                             
+2003;Directing                   ;;Lost in Translation            ;Sofia Coppola                                             
+2003;Directing                   ;;Master and Commander: The Far S;Peter Weir                                                
+2003;Directing                   ;;Mystic River                   ;Clint Eastwood                                            
+2004;Directing                   ;;The Aviator                    ;Martin Scorsese                                           
+2004;Directing                   ;1;Million Dollar Baby            ;Clint Eastwood                                            
+2004;Directing                   ;;Ray                            ;Taylor Hackford                                           
+2004;Directing                   ;;Sideways                       ;Alexander Payne                                           
+2004;Directing                   ;;Vera Drake                     ;Mike Leigh                                                
+2005;Directing                   ;1;Brokeback Mountain             ;Ang Lee                                                   
+2005;Directing                   ;;Capote                         ;Bennett Miller                                            
+2005;Directing                   ;;Crash                          ;Paul Haggis                                               
+2005;Directing                   ;;Good Night, and Good Luck.     ;George Clooney                                            
+2005;Directing                   ;;Munich                         ;Steven Spielberg                                          
+2006;Directing                   ;;Babel                          ;Alejandro González Iñárritu                            
+2006;Directing                   ;1;The Departed                   ;Martin Scorsese                                           
+2006;Directing                   ;;Letters from Iwo Jima          ;Clint Eastwood                                            
+2006;Directing                   ;;The Queen                      ;Stephen Frears                                            
+2006;Directing                   ;;United 93                      ;Paul Greengrass                                           
+2007;Directing                   ;;The Diving Bell and the Butterf;Julian Schnabel                                           
+2007;Directing                   ;;Juno                           ;Jason Reitman                                             
+2007;Directing                   ;;Michael Clayton                ;Tony Gilroy                                               
+2007;Directing                   ;1;No Country for Old Men         ;Joel Coen and Ethan Coen                                  
+2007;Directing                   ;;There Will Be Blood            ;Paul Thomas Anderson                                      
+2008;Directing                   ;;The Curious Case of Benjamin Bu;David Fincher                                             
+2008;Directing                   ;;Frost/Nixon                    ;Ron Howard                                                
+2008;Directing                   ;;Milk                           ;Gus Van Sant                                              
+2008;Directing                   ;;The Reader                     ;Stephen Daldry                                            
+2008;Directing                   ;1;Slumdog Millionaire            ;Danny Boyle                                               
+2009;Directing                   ;;Avatar                         ;James Cameron                                             
+2009;Directing                   ;1;The Hurt Locker                ;Kathryn Bigelow                                           
+2009;Directing                   ;;Inglourious Basterds           ;Quentin Tarantino                                         
+2009;Directing                   ;;Precious: Based on the Novel 'P;Lee Daniels                                               
+2009;Directing                   ;;Up in the Air                  ;Jason Reitman                                             
+2010;Directing                   ;;Black Swan                     ;Darren Aronofsky                                          
+2010;Directing                   ;;The Fighter                    ;David O. Russell                                          
+2010;Directing                   ;1;The King's Speech              ;Tom Hooper                                                
+2010;Directing                   ;;The Social Network             ;David Fincher                                             
+2010;Directing                   ;;True Grit                      ;Joel Coen and Ethan Coen                                  
+2011;Directing                   ;1;The Artist                     ;Michel Hazanavicius                                       
+2011;Directing                   ;;The Descendants                ;Alexander Payne                                           
+2011;Directing                   ;;Hugo                           ;Martin Scorsese                                           
+2011;Directing                   ;;Midnight in Paris              ;Woody Allen                                               
+2011;Directing                   ;;The Tree of Life               ;Terrence Malick                                           
+2012;Directing                   ;;Amour                          ;Michael Haneke                                            
+2012;Directing                   ;;Beasts of the Southern Wild    ;Benh Zeitlin                                              
+2012;Directing                   ;1;Life of Pi                     ;Ang Lee                                                   
+2012;Directing                   ;;Lincoln                        ;Steven Spielberg                                          
+2012;Directing                   ;;Silver Linings Playbook        ;David O. Russell                                          
+2013;Directing                   ;;American Hustle                ;David O. Russell                                          
+2013;Directing                   ;1;Gravity                        ;Alfonso Cuarón                                           
+2013;Directing                   ;;Nebraska                       ;Alexander Payne                                           
+2013;Directing                   ;;12 Years a Slave               ;Steve McQueen                                             
+2013;Directing                   ;;The Wolf of Wall Street        ;Martin Scorsese                                           
+2014;Directing                   ;1;Birdman or (The Unexpected Virt;Alejandro G. Iñárritu                                   
+2014;Directing                   ;;Boyhood                        ;Richard Linklater                                         
+2014;Directing                   ;;Foxcatcher                     ;Bennett Miller                                            
+2014;Directing                   ;;The Grand Budapest Hotel       ;Wes Anderson                                              
+2014;Directing                   ;;The Imitation Game             ;Morten Tyldum                                             
+2015;Directing                   ;;The Big Short                  ;Adam McKay                                                
+2015;Directing                   ;;Mad Max: Fury Road             ;George Miller                                             
+2015;Directing                   ;1;The Revenant                   ;Alejandro G. Iñárritu                                   
+2015;Directing                   ;;Room                           ;Lenny Abrahamson                                          
+2015;Directing                   ;;Spotlight                      ;Tom McCarthy                                              

@@ -1,0 +1,89 @@
+political_party,year,milestone,sentiment
+Republican,1928,-1,-1
+Republican,1929,-1,-1
+Republican,1930,-1,-1
+Republican,1931,-1,-1
+Republican,1932,-1,-1
+Republican,1933,-1,-1
+Democratic,1934,-1,-1
+Democratic,1935,-1,-1
+Democratic,1936,-1,-1
+Democratic,1937,-1,-1
+Democratic,1938,-1,-1
+Democratic,1939,-1,-1
+Democratic,1940,-1,-1
+Democratic,1941,African–Americans in WWII                             ,Acceptance
+Democratic,1942,-1,-1
+Democratic,1943,-1,-1
+Democratic,1944,-1,-1
+Democratic,1945,-1,-1
+Democratic,1946,-1,-1
+Democratic,1947,Jackie Robinson                                         ,Acceptance
+Democratic,1948,-1,-1
+Democratic,1949,-1,-1
+Democratic,1950,-1,-1
+Democratic,1951,-1,-1
+Democratic,1952,-1,-1
+Republican,1953,-1,-1
+Republican,1954,"Brown v. Board Of Education, May 17, 1954",Acceptance
+Republican,1955,"Emmett Till|Rosa Parks and the Montgomery Bus Boycott, December 1955",Protest|Protest
+Republican,1956,-1,-1
+Republican,1957,"Central High School integrated, September 1957",Acceptance
+Republican,1958,-1,-1
+Republican,1959,-1,-1
+Republican,1960,"Sit–in movement and founding of SNCC, 1960",Protest
+Democratic,1961,"CORE and Freedom Rides, May 1961",Acceptance
+Democratic,1962,"Integration of Ole Miss, September 1962",Acceptance
+Democratic,1963,"Birmingham church bombed, 1963|“I Have a Dream”, 1963",Protest|Acceptance
+Democratic,1964,"Civil Rights Act of 1964, July 1964|Freedom Summer and the “Mississippi Burning” murders, June 1964",Acceptance|Acceptance
+Democratic,1965,"Selma to Montgomery march, March 1965|Malcolm X shot to death, February 1965|Voting Rights Act of 1965, August 1965",Protest|Protest|Acceptance
+Democratic,1966,-1,-1
+Democratic,1967,-1,-1
+Democratic,1968,"Fair Housing Act, April 1968|MLK assassinated, April 4, 1968",Acceptance|Protest
+Republican,1969,-1,-1
+Republican,1970,-1,-1
+Republican,1971,-1,-1
+Republican,1972,"Shirley Chisholm runs for president, 1972",Acceptance
+Republican,1973,-1,-1
+Republican,1974,-1,-1
+Republican,1975,-1,-1
+Republican,1976,-1,-1
+Democratic,1977,-1,-1
+Democratic,1978,"The Bakke decision and affirmative action, 1978",Protest
+Democratic,1979,-1,-1
+Democratic,1980,-1,-1
+Republican,1981,-1,-1
+Republican,1982,-1,-1
+Republican,1983,-1,-1
+Republican,1984,"Jesse Jackson galvanizes black voters, 1984",Acceptance
+Republican,1985,-1,-1
+Republican,1986,"Oprah Winfrey launches syndicated talk show, 1986",Acceptance
+Republican,1987,-1,-1
+Republican,1988,-1,-1
+Republican,1989,-1,-1
+Republican,1990,-1,-1
+Republican,1991,-1,-1
+Republican,1992,"Los Angeles riots, 1992",Protest
+Democratic,1993,-1,-1
+Democratic,1994,-1,-1
+Democratic,1995,"Million Man March, 1995",Acceptance
+Democratic,1996,-1,-1
+Democratic,1997,-1,-1
+Democratic,1998,-1,-1
+Democratic,1999,-1,-1
+Democratic,2000,-1,-1
+Republican,2001,"Colin Powell becomes secretary of state, 2001",Acceptance
+Republican,2002,-1,-1
+Republican,2003,-1,-1
+Republican,2004,-1,-1
+Republican,2005,-1,-1
+Republican,2006,-1,-1
+Republican,2007,-1,-1
+Republican,2008,"Barack Obama becomes 44th U.S. president, 2008",Acceptance
+Democratic,2009,-1,-1
+Democratic,2010,-1,-1
+Democratic,2011,-1,-1
+Democratic,2012,-1,-1
+Democratic,2013,-1,-1
+Democratic,2014,-1,-1
+Democratic,2015,-1,-1

@@ -1,0 +1,63 @@
+birthplace;party;count;Country
+Australia  ;Democratic                                   ;3;Oceania
+Australia  ;Republican                                   ;1;Oceania
+Austria    ;Democratic                                   ;8;Europe
+Austria    ;Republican                                   ;1;Europe
+Belgium    ;Republican                                   ;1;Europe
+Cambodia   ;Republican                                   ;1;Asia
+Canada     ;Democratic                                   ;5;North America
+Canada     ;Republican                                   ;3;North America
+Czechoslovakia;Republican                                   ;2;Europe
+England    ;Democratic                                   ;32;Europe
+England    ;Republican                                   ;26;Europe
+France     ;Democratic                                   ;6;Europe
+France     ;Republican                                   ;3;Europe
+Germany    ;Democratic                                   ;2;Europe
+Germany    ;Republican                                   ;2;Europe
+Greece     ;Democratic                                   ;1;Europe
+Hungary    ;Democratic                                   ;2;Europe
+India      ;Democratic                                   ;3;Asia
+Ireland    ;Democratic                                   ;1;Europe
+Ireland    ;Republican                                   ;1;Europe
+Israel     ;Democratic                                   ;1;Asia
+Italy      ;Democratic                                   ;5;Europe
+Italy      ;Republican                                   ;2;Europe
+Japan      ;Democratic                                   ;3;Asia
+Japan      ;Republican                                   ;2;Asia
+Mexico     ;Democratic                                   ;1;South America
+Mexico     ;Republican                                   ;2;South America
+Moldova    ;Republican                                   ;2;Europe
+New Zealand;Republican                                   ;2;Oceania
+Puerto Rico;Democratic                                   ;2;North America
+Puerto Rico;Republican                                   ;1;North America
+Romania    ;Republican                                   ;1;Europe
+Russia     ;Democratic                                   ;2;Asia
+Russia     ;Republican                                   ;1;Asia
+Scotland   ;Democratic                                   ;1;Europe
+Scotland   ;Republican                                   ;2;Europe
+South Afric;Republican                                   ;1;Africa
+Spain      ;Democratic                                   ;1;Europe
+Spain      ;Republican                                   ;1;Europe
+Sweden     ;Democratic                                   ;1;Europe
+Sweden     ;Republican                                   ;2;Europe
+Switzerland;Republican                                   ;1;Europe
+Taiwan     ;Democratic                                   ;1;Asia
+Taiwan     ;Republican                                   ;1;Asia
+Turkey     ;Democratic                                   ;1;Asia
+Turkey     ;Republican                                   ;1;Asia
+Ukraine    ;Democratic                                   ;1;Asia
+USA        ;Democratic                                   ;144;North America
+USA        ;Republican                                   ;142;North America
+Wales      ;Democratic                                   ;3;Europe
+Wales      ;Republican                                   ;3;Europe
+Asia;Democratic                                   ;12;
+Asia;Republican                                   ;6;
+Africa;Republican                                   ;1;
+North America;Democratic                                   ;151;
+North America;Republican                                   ;146;
+South America;Democratic                                   ;1;
+South America;Republican                                   ;2;
+Europe;Democratic                                   ;60;
+Europe  ;Republican                                   ;47;
+Oceania;Democratic                                   ;3;
+Oceania;Republican                                   ;3;

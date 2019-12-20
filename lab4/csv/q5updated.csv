@@ -1,0 +1,173 @@
+,year,count,milestone,race_ethnicity,sentiment,ratio
+0,1928,10,-1,white,-1,1.0
+1,1929,16,-1,white,-1,1.0
+2,1930,18,-1,white,-1,1.0
+3,1931,15,-1,white,-1,1.0
+4,1932,9,-1,white,-1,1.0
+5,1933,9,-1,white,-1,1.0
+6,1934,10,-1,white,-1,1.0
+7,1935,14,-1,white,-1,0.9333333333333333
+8,1935,1,-1,asian,-1,0.06666666666666667
+9,1936,25,-1,white,-1,1.0
+10,1937,25,-1,white,-1,1.0
+11,1938,25,-1,white,-1,1.0
+12,1939,24,-1,white,-1,0.96
+13,1939,1,-1,black,-1,0.04
+14,1940,25,-1,white,-1,1.0
+15,1941,25,African–Americans in WWII                             ,white,Acceptance,1.0
+16,1942,25,-1,white,-1,1.0
+17,1943,25,-1,white,-1,1.0
+18,1944,25,-1,white,-1,1.0
+19,1945,25,-1,white,-1,1.0
+20,1946,25,-1,white,-1,1.0
+21,1947,25,Jackie Robinson                                         ,white,Acceptance,1.0
+22,1948,24,-1,white,-1,0.96
+23,1948,1,-1,hispan,-1,0.04
+24,1949,24,-1,white,-1,0.96
+25,1949,1,-1,black,-1,0.04
+26,1950,24,-1,white,-1,0.96
+27,1950,1,-1,hispan,-1,0.04
+28,1951,25,-1,white,-1,1.0
+29,1952,23,-1,white,-1,0.92
+30,1952,2,-1,hispan,-1,0.08
+31,1953,25,-1,white,-1,1.0
+32,1954,23,"Brown v. Board Of Education, May 17, 1954",white,Acceptance,0.92
+33,1954,1,"Brown v. Board Of Education, May 17, 1954",black,Acceptance,0.04
+34,1954,1,"Brown v. Board Of Education, May 17, 1954",hispan,Acceptance,0.04
+35,1955,25,"Emmett Till|Rosa Parks and the Montgomery Bus Boycott, December 1955",white,Protest|Protest,1.0
+36,1956,24,-1,white,-1,0.96
+37,1956,1,-1,hispan,-1,0.04
+38,1957,22,"Central High School integrated, September 1957",white,Acceptance,0.88
+39,1957,2,"Central High School integrated, September 1957",asian,Acceptance,0.08
+40,1957,1,"Central High School integrated, September 1957",hispan,Acceptance,0.04
+41,1958,24,-1,white,-1,0.96
+42,1958,1,-1,black,-1,0.04
+43,1959,24,-1,white,-1,0.96
+44,1959,1,-1,black,-1,0.04
+45,1960,25,"Sit–in movement and founding of SNCC, 1960",white,Protest,1.0
+46,1961,25,"CORE and Freedom Rides, May 1961",white,Acceptance,0.9615384615384616
+47,1961,1,"CORE and Freedom Rides, May 1961",hispan,Acceptance,0.038461538461538464
+48,1962,24,"Integration of Ole Miss, September 1962",white,Acceptance,0.96
+49,1962,1,"Integration of Ole Miss, September 1962",arab,Acceptance,0.04
+50,1963,24,"Birmingham church bombed, 1963|“I Have a Dream”, 1963",white,Protest|Acceptance,0.96
+51,1963,1,"Birmingham church bombed, 1963|“I Have a Dream”, 1963",black,Protest|Acceptance,0.04
+52,1964,24,"Civil Rights Act of 1964, July 1964|Freedom Summer and the “Mississippi Burning” murders, June 1964",white,Acceptance|Acceptance,0.96
+53,1964,1,"Civil Rights Act of 1964, July 1964|Freedom Summer and the “Mississippi Burning” murders, June 1964",hispan,Acceptance|Acceptance,0.04
+54,1965,24,"Selma to Montgomery march, March 1965|Malcolm X shot to death, February 1965|Voting Rights Act of 1965, August 1965
+
+",white,Protest|Protest|Acceptance,0.96
+55,1965,1,"Selma to Montgomery march, March 1965|Malcolm X shot to death, February 1965|Voting Rights Act of 1965, August 1965
+",asian,Protest|Protest|Acceptance,0.04
+56,1966,23,-1,white,-1,0.92
+57,1966,1,-1,asian,-1,0.04
+58,1966,1,-1,indig,-1,0.04
+59,1967,23,-1,white,-1,0.92
+60,1967,2,-1,black,-1,0.08
+61,1968,25,"Fair Housing Act, April 1968|MLK assassinated, April 4, 1968
+",white,Acceptance|Protest,1.0
+62,1969,24,-1,white,-1,0.96
+63,1969,1,-1,black,-1,0.04
+64,1970,23,-1,white,-1,0.92
+65,1970,1,-1,black,-1,0.04
+66,1970,1,-1,indig,-1,0.04
+67,1971,25,-1,white,-1,1.0
+68,1972,22,"Shirley Chisholm runs for president, 1972",white,Acceptance,0.88
+69,1972,3,"Shirley Chisholm runs for president, 1972",black,Acceptance,0.12
+70,1973,25,-1,white,-1,1.0
+71,1974,24,-1,white,-1,0.96
+72,1974,1,-1,black,-1,0.04
+73,1975,24,-1,white,-1,0.96
+74,1975,1,-1,arab,-1,0.04
+75,1976,25,-1,white,-1,1.0
+76,1977,25,-1,white,-1,1.0
+77,1978,26,"The Bakke decision and affirmative action, 1978",white,Protest,1.0
+78,1979,25,-1,white,-1,1.0
+79,1980,25,-1,white,-1,1.0
+80,1981,24,-1,white,-1,0.96
+81,1981,1,-1,black,-1,0.04
+82,1982,23,-1,white,-1,0.92
+83,1982,1,-1,black,-1,0.04
+84,1982,1,-1,asian,-1,0.04
+85,1983,24,-1,white,-1,0.96
+86,1983,1,-1,black,-1,0.04
+87,1984,22,"Jesse Jackson galvanizes black voters, 1984",white,Acceptance,0.88
+88,1984,1,"Jesse Jackson galvanizes black voters, 1984",black,Acceptance,0.04
+89,1984,2,"Jesse Jackson galvanizes black voters, 1984",asian,Acceptance,0.08
+90,1985,19,-1,white,-1,0.76
+91,1985,3,-1,black,-1,0.12
+92,1985,2,-1,asian,-1,0.08
+93,1985,1,-1,hispan,-1,0.04
+94,1986,24,"Oprah Winfrey launches syndicated talk show, 1986",white,Acceptance,0.96
+95,1986,1,"Oprah Winfrey launches syndicated talk show, 1986",black,Acceptance,0.04
+96,1987,22,-1,white,-1,0.88
+97,1987,2,-1,black,-1,0.08
+98,1987,1,-1,hispan,-1,0.04
+99,1988,24,-1,white,-1,0.96
+100,1988,1,-1,black,-1,0.04
+101,1989,22,-1,white,-1,0.88
+102,1989,2,-1,black,-1,0.08
+103,1989,1,-1,arab,-1,0.04
+104,1990,23,-1,white,-1,0.92
+105,1990,1,-1,black,-1,0.04
+106,1990,1,-1,hispan,-1,0.04
+107,1991,23,-1,white,-1,0.92
+108,1991,1,-1,black,-1,0.04
+109,1991,1,-1,asian,-1,0.04
+110,1992,23,"Los Angeles riots, 1992",white,Protest,0.92
+111,1992,2,"Los Angeles riots, 1992",black,Protest,0.08
+112,1993,22,-1,white,-1,0.88
+113,1993,2,-1,black,-1,0.08
+114,1993,1,-1,hispan,-1,0.04
+115,1994,22,-1,white,-1,0.88
+116,1994,2,-1,black,-1,0.08
+117,1994,1,-1,asian,-1,0.04
+118,1995,25,"Million Man March, 1995",white,Acceptance,1.0
+119,1996,23,-1,white,-1,0.92
+120,1996,2,-1,black,-1,0.08
+121,1997,24,-1,white,-1,0.96
+122,1997,1,-1,arab,-1,0.04
+123,1998,24,-1,white,-1,0.96
+124,1998,1,-1,hispan,-1,0.04
+125,1999,22,-1,white,-1,0.88
+126,1999,2,-1,black,-1,0.08
+127,1999,1,-1,asian,-1,0.04
+128,2000,23,-1,white,-1,0.92
+129,2000,2,-1,asian,-1,0.08
+130,2001,21,"Colin Powell becomes secretary of state, 2001",white,Acceptance,0.84
+131,2001,3,"Colin Powell becomes secretary of state, 2001",black,Acceptance,0.12
+132,2001,1,"Colin Powell becomes secretary of state, 2001",asian,Acceptance,0.04
+133,2002,23,-1,white,-1,0.92
+134,2002,1,-1,black,-1,0.04
+135,2002,1,-1,hispan,-1,0.04
+136,2003,20,-1,white,-1,0.8
+137,2003,1,-1,black,-1,0.04
+138,2003,2,-1,asian,-1,0.08
+139,2003,1,-1,hispan,-1,0.04
+140,2003,1,-1,arab,-1,0.04
+141,2004,19,-1,white,-1,0.76
+142,2004,5,-1,black,-1,0.2
+143,2004,1,-1,hispan,-1,0.04
+144,2005,23,-1,white,-1,0.92
+145,2005,1,-1,black,-1,0.04
+146,2005,1,-1,asian,-1,0.04
+147,2006,18,-1,white,-1,0.72
+148,2006,5,-1,black,-1,0.2
+149,2006,1,-1,asian,-1,0.04
+150,2006,1,-1,hispan,-1,0.04
+151,2007,24,-1,white,-1,0.96
+152,2007,1,-1,black,-1,0.04
+153,2008,23,"Barack Obama becomes 44th U.S. president, 2008",white,Acceptance,0.92
+154,2008,2,"Barack Obama becomes 44th U.S. president, 2008",black,Acceptance,0.08
+155,2009,21,-1,white,-1,0.84
+156,2009,4,-1,black,-1,0.16
+157,2010,25,-1,white,-1,1.0
+158,2011,21,-1,white,-1,0.84
+159,2011,3,-1,black,-1,0.12
+160,2011,1,-1,hispan,-1,0.04
+161,2012,22,-1,white,-1,0.88
+162,2012,2,-1,black,-1,0.08
+163,2012,1,-1,asian,-1,0.04
+164,2013,22,-1,white,-1,0.88
+165,2013,3,-1,black,-1,0.12
+166,2014,25,-1,white,-1,1.0
+167,2015,25,-1,white,-1,1.0

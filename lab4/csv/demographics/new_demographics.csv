@@ -1,0 +1,442 @@
+count,award,birthplace,person,year_of_award
+0,Best Director,Moldova,Lewis Milestone,1927
+87,Best Actor,Switzerland,Emil Jannings,1929
+251,Best Actress,USA,Janet Gaynor,1929
+1,Best Director,Scotland,Frank Lloyd,1930
+89,Best Actor,England,George Arliss,1930
+88,Best Actor,USA,Warner Baxter,1930
+252,Best Actress,Canada,Mary Pickford,1930
+253,Best Actress,Canada,Norma Shearer,1930
+2,Best Director,Moldova,Lewis Milestone,1931
+254,Best Actress,Canada,Marie Dressler,1931
+90,Best Actor,USA,Lionel Barrymore,1931
+255,Best Actress,USA,Helen Hayes,1932
+91,Best Actor,USA,Wallace Beery,1932
+3,Best Director,USA,Norman Taurog,1932
+4,Best Director,USA,Frank Borzage,1933
+256,Best Actress,USA,Katharine Hepburn,1934
+5,Best Director,Scotland,Frank Lloyd,1934
+92,Best Actor,England,Charles Laughton,1934
+257,Best Actress,France,Claudette Colbert,1935
+6,Best Director,Italy,Frank Capra,1935
+93,Best Actor,USA,Clark Gable,1935
+258,Best Actress,USA,Bette Davis,1936
+7,Best Director,USA,John Ford,1936
+94,Best Actor,England,Victor McLaglen,1936
+95,Best Actor,Ukraine,Paul Muni,1937
+259,Best Actress,Germany,Luise Rainer,1937
+338,Best Supporting Actress,USA,Gale Sondergaard,1937
+8,Best Director,Italy,Frank Capra,1937
+96,Best Actor,USA,Spencer Tracy,1938
+260,Best Actress,Germany,Luise Rainer,1938
+173,Best Supporting Actor,USA,Walter Brennan,1938
+174,Best Supporting Actor,Austria,Joseph Schildkraut,1938
+9,Best Director,USA,Leo McCarey,1938
+339,Best Supporting Actress,USA,Alice Brady,1938
+10,Best Director,Italy,Frank Capra,1939
+261,Best Actress,USA,Bette Davis,1939
+175,Best Supporting Actor,USA,Walter Brennan,1939
+97,Best Actor,USA,Spencer Tracy,1939
+340,Best Supporting Actress,USA,Fay Bainter,1939
+262,Best Actress,India,Vivien Leigh,1940
+176,Best Supporting Actor,USA,Thomas Mitchell,1940
+98,Best Actor,England,Robert Donat,1940
+264,Best Actress,Japan,Joan Fontaine,1940
+11,Best Director,USA,Victor Fleming,1940
+341,Best Supporting Actress,USA,Hattie McDaniel,1940
+177,Best Supporting Actor,USA,Walter Brennan,1941
+12,Best Director,USA,John Ford,1941
+99,Best Actor,USA,Jimmy Stewart,1941
+263,Best Actress,USA,Ginger Rogers,1941
+417,Best Actress,USA,Ginger Rogers,1941
+342,Best Supporting Actress,USA,Jane Darwell,1941
+13,Best Director,USA,John Ford,1942
+420,Best Supporting Actress,USA,Mary Astor,1942
+343,Best Supporting Actress,USA,Mary Astor,1942
+100,Best Actor,USA,Gary Cooper,1942
+265,Best Actress,England,Greer Garson,1942
+178,Best Supporting Actor,England,Donald Crisp,1942
+14,Best Director,France,William Wyler,1943
+425,Best Supporting Actor,USA,Van Heflin,1943
+344,Best Supporting Actress,USA,Teresa Wright,1943
+101,Best Actor,USA,James Cagney,1943
+179,Best Supporting Actor,USA,Van Heflin,1943
+15,Best Director,Hungary,Michael Curtiz,1944
+102,Best Actor,Hungary,Paul Lukas,1944
+345,Best Supporting Actress,Greece,Katina Paxinou,1944
+266,Best Actress,USA,Jennifer Jones,1944
+180,Best Supporting Actor,USA,Charles Coburn,1944
+181,Best Supporting Actor,Ireland,Barry Fitzgerald,1945
+346,Best Supporting Actress,USA,Ethel Barrymore,1945
+16,Best Director,USA,Leo McCarey,1945
+267,Best Actress,Sweden,Ingrid Bergman,1945
+103,Best Actor,USA,Bing Crosby,1945
+18,Best Director,Austria,Billy Wilder,1946
+104,Best Actor,Wales,Ray Milland,1946
+268,Best Actress,USA,Joan Crawford,1946
+182,Best Supporting Actor,USA,James Dunn,1946
+347,Best Supporting Actress,USA,Anne Revere,1946
+423,Best Supporting Actress,USA,Anne Revere,1946
+19,Best Director,France,William Wyler,1947
+183,Best Supporting Actor,Canada,Harold Russell,1947
+348,Best Supporting Actress,USA,Anne Baxter,1947
+269,Best Actress,Japan,Olivia de Havilland,1947
+105,Best Actor,USA,Fredric March,1947
+349,Best Supporting Actress,USA,Celeste Holm,1948
+270,Best Actress,USA,Loretta Young,1948
+184,Best Supporting Actor,Wales,Edmund Gwenn,1948
+106,Best Actor,England,Ronald Colman,1948
+20,Best Director,Turkey,Elia Kazan,1948
+271,Best Actress,USA,Jane Wyman,1949
+350,Best Supporting Actress,USA,Claire Trevor,1949
+107,Best Actor,England,Laurence Olivier,1949
+185,Best Supporting Actor,Canada,Walter Huston,1949
+440,Best Director,USA,John Huston,1949
+21,Best Director,USA,John Huston,1949
+108,Best Actor,USA,Broderick Crawford,1950
+186,Best Supporting Actor,USA,Dean Jagger,1950
+351,Best Supporting Actress,USA,Mercedes McCambridge,1950
+272,Best Actress,Japan,Olivia de Havilland,1950
+22,Best Director,USA,Joseph L. Mankiewicz,1950
+109,Best Actor,Puerto Rico,Jose Ferrer,1951
+187,Best Supporting Actor,Russia,George Sanders,1951
+273,Best Actress,USA,Judy Holliday,1951
+352,Best Supporting Actress,USA,Josephine Hull,1951
+23,Best Director,USA,Joseph L. Mankiewicz,1951
+353,Best Supporting Actress,USA,Kim Hunter,1952
+274,Best Actress,India,Vivien Leigh,1952
+188,Best Supporting Actor,USA,Karl Malden,1952
+24,Best Director,USA,George Stevens,1952
+110,Best Actor,USA,Humphrey Bogart,1952
+354,Best Supporting Actress,USA,Gloria Grahame,1953
+111,Best Actor,USA,Gary Cooper,1953
+189,Best Supporting Actor,Mexico,Anthony Quinn,1953
+25,Best Director,USA,John Ford,1953
+427,Best Actor,USA,Gary Cooper,1953
+275,Best Actress,USA,Shirley Booth,1953
+112,Best Actor,USA,William Holden,1954
+355,Best Supporting Actress,USA,Donna Reed,1954
+276,Best Actress,Belgium,Audrey Hepburn,1954
+190,Best Supporting Actor,USA,Frank Sinatra,1954
+26,Best Director,Austria,Fred Zinnemann,1954
+113,Best Actor,USA,Marlon Brando,1955
+27,Best Director,Turkey,Elia Kazan,1955
+356,Best Supporting Actress,USA,Eva Marie Saint,1955
+277,Best Actress,USA,Grace Kelly,1955
+191,Best Supporting Actor,USA,Edmond O'Brien,1955
+28,Best Director,USA,Delbert Mann,1956
+278,Best Actress,Italy,Anna Magnani,1956
+357,Best Supporting Actress,USA,Jo Van Fleet,1956
+192,Best Supporting Actor,USA,Jack Lemmon,1956
+114,Best Actor,USA,Ernest Borgnine,1956
+193,Best Supporting Actor,Mexico,Anthony Quinn,1957
+115,Best Actor,Russia,Yul Brynner,1957
+358,Best Supporting Actress,USA,Dorothy Malone,1957
+279,Best Actress,Sweden,Ingrid Bergman,1957
+29,Best Director,USA,George Stevens,1957
+359,Best Supporting Actress,Japan,Miyoshi Umeki,1958
+194,Best Supporting Actor,USA,Red Buttons,1958
+116,Best Actor,England,Alec Guinness,1958
+280,Best Actress,USA,Joanne Woodward,1958
+426,Best Actress,USA,Joanne Woodward,1958
+30,Best Director,England,David Lean,1958
+31,Best Director,USA,Vincente Minnelli,1959
+360,Best Supporting Actress,England,Wendy Hiller,1959
+195,Best Supporting Actor,USA,Burl Ives,1959
+117,Best Actor,England,David Niven,1959
+281,Best Actress,USA,Susan Hayward,1959
+196,Best Supporting Actor,Wales,Hugh Griffith,1960
+282,Best Actress,Germany,Simone Signoret,1960
+361,Best Supporting Actress,USA,Shelley Winters,1960
+32,Best Director,France,William Wyler,1960
+118,Best Actor,USA,Charlton Heston,1960
+33,Best Director,Austria,Billy Wilder,1961
+34,Best Director,USA,Robert Wise,1961
+362,Best Supporting Actress,USA,Shirley Jones,1961
+119,Best Actor,USA,Burt Lancaster,1961
+416,Best Director,Austria,Billy Wilder,1961
+283,Best Actress,England,Elizabeth Taylor,1961
+197,Best Supporting Actor,England,Peter Ustinov,1961
+198,Best Supporting Actor,USA,George Chakiris,1962
+284,Best Actress,Italy,Sophia Loren,1962
+363,Best Supporting Actress,Puerto Rico,Rita Moreno,1962
+120,Best Actor,Austria,Maximilian Schell,1962
+17,Best Director,USA,Jerome Robbins,1962
+35,Best Director,England,David Lean,1963
+"199,Best Supporting Actor,USA,""Ed Begley, Sr."",1963"
+285,Best Actress,USA,Anne Bancroft,1963
+364,Best Supporting Actress,USA,Patty Duke,1963
+121,Best Actor,USA,Gregory Peck,1963
+286,Best Actress,USA,Patricia Neal,1964
+200,Best Supporting Actor,USA,Melvyn Douglas,1964
+122,Best Actor,USA,Sidney Poitier,1964
+365,Best Supporting Actress,England,Margaret Rutherford,1964
+36,Best Director,England,Tony Richardson,1964
+123,Best Actor,England,Rex Harrison,1965
+287,Best Actress,England,Julie Andrews,1965
+366,Best Supporting Actress,Russia,Lila Kedrova,1965
+201,Best Supporting Actor,England,Peter Ustinov,1965
+37,Best Director,USA,George Cukor,1965
+38,Best Director,USA,Robert Wise,1966
+124,Best Actor,USA,Lee Marvin,1966
+288,Best Actress,India,Julie Christie,1966
+202,Best Supporting Actor,USA,Martin Balsam,1966
+367,Best Supporting Actress,USA,Shelley Winters,1966
+203,Best Supporting Actor,USA,Walter Matthau,1967
+368,Best Supporting Actress,USA,Sandy Dennis,1967
+289,Best Actress,England,Elizabeth Taylor,1967
+125,Best Actor,England,Paul Scofield,1967
+428,Best Actress,England,Elizabeth Taylor,1967
+39,Best Director,Austria,Fred Zinnemann,1967
+369,Best Supporting Actress,USA,Estelle Parsons,1968
+126,Best Actor,USA,Rod Steiger,1968
+290,Best Actress,USA,Katharine Hepburn,1968
+204,Best Supporting Actor,USA,George Kennedy,1968
+40,Best Director,Germany,Mike Nichols,1968
+205,Best Supporting Actor,USA,Jack Albertson,1969
+291,Best Actress,USA,Barbra Streisand,1969
+292,Best Actress,USA,Katharine Hepburn,1969
+42,Best Director,England,Carol Reed,1969
+127,Best Actor,USA,Cliff Robertson,1969
+370,Best Supporting Actress,USA,Ruth Gordon,1969
+432,Best Supporting Actor,USA,Jack Albertson,1969
+43,Best Director,England,John Schlesinger,1969
+128,Best Actor,USA,John Wayne,1970
+293,Best Actress,England,Maggie Smith,1970
+206,Best Supporting Actor,USA,Gig Young,1970
+371,Best Supporting Actress,USA,Goldie Hawn,1970
+435,Best Actress,England,Maggie Smith,1970
+44,Best Director,Japan,Franklin J. Schaffner,1970
+129,Best Actor,USA,George C. Scott,1971
+294,Best Actress,England,Glenda Jackson,1971
+372,Best Supporting Actress,USA,Helen Hayes,1971
+207,Best Supporting Actor,England,John Mills,1971
+295,Best Actress,USA,Jane Fonda,1972
+373,Best Supporting Actress,USA,Cloris Leachman,1972
+45,Best Director,USA,William Friedkin,1972
+130,Best Actor,USA,Gene Hackman,1972
+208,Best Supporting Actor,USA,Ben Johnson,1972
+46,Best Director,USA,Bob Fosse,1973
+296,Best Actress,USA,Liza Minnelli,1973
+131,Best Actor,USA,Marlon Brando,1973
+374,Best Supporting Actress,USA,Eileen Heckart,1973
+209,Best Supporting Actor,USA,Joel Grey,1973
+47,Best Director,USA,George Roy Hill,1973
+132,Best Actor,USA,Jack Lemmon,1974
+375,Best Supporting Actress,USA,Tatum O'Neal,1974
+297,Best Actress,England,Glenda Jackson,1974
+210,Best Supporting Actor,Romania,John Houseman,1974
+211,Best Supporting Actor,USA,Robert De Niro,1975
+376,Best Supporting Actress,Sweden,Ingrid Bergman,1975
+298,Best Actress,USA,Ellen Burstyn,1975
+133,Best Actor,USA,Art Carney,1975
+48,Best Director,USA,Francis Ford Coppola,1975
+422,Best Supporting Actress,USA,Lee Grant,1976
+49,Best Director,Czechoslovakia,Milos Forman,1976
+50,Best Director,USA,John G. Avildsen,1976
+377,Best Supporting Actress,USA,Lee Grant,1976
+134,Best Actor,USA,Jack Nicholson,1976
+212,Best Supporting Actor,USA,George Burns,1976
+299,Best Actress,USA,Louise Fletcher,1976
+300,Best Actress,USA,Faye Dunaway,1977
+438,Best Supporting Actor,USA,Jason Robards,1977
+424,Best Actress,USA,Faye Dunaway,1977
+135,Best Actor,England,Peter Finch,1977
+213,Best Supporting Actor,USA,Jason Robards,1977
+378,Best Supporting Actress,USA,Beatrice Straight,1977
+379,Best Supporting Actress,England,Vanessa Redgrave,1978
+136,Best Actor,USA,Richard Dreyfuss,1978
+51,Best Director,USA,Woody Allen,1978
+214,Best Supporting Actor,USA,Jason Robards,1978
+301,Best Actress,USA,Diane Keaton,1978
+302,Best Actress,USA,Jane Fonda,1979
+380,Best Supporting Actress,England,Maggie Smith,1979
+52,Best Director,USA,Michael Cimino,1979
+215,Best Supporting Actor,USA,Christopher Walken,1979
+137,Best Actor,USA,Jon Voight,1979
+419,Best Director,USA,Michael Cimino,1979
+381,Best Supporting Actress,USA,Meryl Streep,1980
+303,Best Actress,USA,Sally Field,1980
+138,Best Actor,USA,Dustin Hoffman,1980
+216,Best Supporting Actor,USA,Melvyn Douglas,1980
+54,Best Director,USA,Robert Redford,1980
+53,Best Director,USA,Robert Benton,1980
+304,Best Actress,USA,Sissy Spacek,1981
+217,Best Supporting Actor,USA,Timothy Hutton,1981
+139,Best Actor,USA,Robert De Niro,1981
+55,Best Director,USA,Warren Beatty,1981
+382,Best Supporting Actress,USA,Mary Steenburgen,1981
+305,Best Actress,USA,Katharine Hepburn,1982
+56,Best Director,England,Richard Attenborough,1982
+383,Best Supporting Actress,USA,Maureen Stapleton,1982
+140,Best Actor,USA,Henry Fonda,1982
+218,Best Supporting Actor,England,John Gielgud,1982
+306,Best Actress,USA,Meryl Streep,1983
+141,Best Actor,England,Ben Kingsley,1983
+57,Best Director,USA,James L. Brooks,1983
+"219,Best Supporting Actor,USA,""Lou Gossett, Jr."",1983"
+384,Best Supporting Actress,USA,Jessica Lange,1983
+307,Best Actress,USA,Shirley MacLaine,1984
+385,Best Supporting Actress,USA,Linda Hunt,1984
+220,Best Supporting Actor,USA,Jack Nicholson,1984
+142,Best Actor,USA,Robert Duvall,1984
+221,Best Supporting Actor,Cambodia,Haing S. Ngor,1985
+58,Best Director,Czechoslovakia,Milos Forman,1985
+386,Best Supporting Actress,England,Peggy Ashcroft,1985
+143,Best Actor,USA,F. Murray Abraham,1985
+308,Best Actress,USA,Sally Field,1985
+309,Best Actress,USA,Geraldine Page,1986
+59,Best Director,USA,Sydney Pollack,1986
+387,Best Supporting Actress,USA,Anjelica Huston,1986
+222,Best Supporting Actor,USA,Don Ameche,1986
+144,Best Actor,USA,William Hurt,1986
+310,Best Actress,USA,Marlee Matlin,1987
+223,Best Supporting Actor,England,Michael Caine,1987
+145,Best Actor,USA,Paul Newman,1987
+388,Best Supporting Actress,USA,Dianne Wiest,1987
+311,Best Actress,USA,Cher,1988
+224,Best Supporting Actor,Scotland,Sean Connery,1988
+146,Best Actor,USA,Michael Douglas,1988
+389,Best Supporting Actress,USA,Olympia Dukakis,1988
+61,Best Director,Italy,Bernardo Bertolucci,1988
+312,Best Actress,USA,Jodie Foster,1989
+225,Best Supporting Actor,USA,Kevin Kline,1989
+147,Best Actor,USA,Dustin Hoffman,1989
+390,Best Supporting Actress,USA,Geena Davis,1989
+62,Best Director,USA,Barry Levinson,1989
+63,Best Director,USA,Oliver Stone,1990
+226,Best Supporting Actor,USA,Denzel Washington,1990
+391,Best Supporting Actress,Ireland,Brenda Fricker,1990
+313,Best Actress,England,Jessica Tandy,1990
+148,Best Actor,England,Daniel Day-Lewis,1990
+60,Best Director,USA,Oliver Stone,1990
+314,Best Actress,USA,Kathy Bates,1991
+227,Best Supporting Actor,USA,Joe Pesci,1991
+392,Best Supporting Actress,USA,Whoopi Goldberg,1991
+149,Best Actor,England,Jeremy Irons,1991
+64,Best Director,USA,Kevin Costner,1991
+65,Best Director,USA,Jonathan Demme,1992
+315,Best Actress,USA,Jodie Foster,1992
+393,Best Supporting Actress,USA,Mercedes Ruehl,1992
+150,Best Actor,Wales,Anthony Hopkins,1992
+228,Best Supporting Actor,USA,Jack Palance,1992
+394,Best Supporting Actress,USA,Marisa Tomei,1993
+151,Best Actor,USA,Al Pacino,1993
+229,Best Supporting Actor,USA,Gene Hackman,1993
+66,Best Director,USA,Clint Eastwood,1993
+316,Best Actress,England,Emma Thompson,1993
+152,Best Actor,USA,Tom Hanks,1994
+230,Best Supporting Actor,USA,Tommy Lee Jones,1994
+418,Best Actor,USA,Tom Hanks,1994
+67,Best Director,USA,Steven Spielberg,1994
+395,Best Supporting Actress,Canada,Anna Paquin,1994
+317,Best Actress,USA,Holly Hunter,1994
+68,Best Director,USA,Robert Zemeckis,1995
+231,Best Supporting Actor,USA,Martin Landau,1995
+153,Best Actor,USA,Tom Hanks,1995
+396,Best Supporting Actress,USA,Dianne Wiest,1995
+318,Best Actress,USA,Jessica Lange,1995
+397,Best Supporting Actress,USA,Mira Sorvino,1996
+154,Best Actor,USA,Nicolas Cage,1996
+69,Best Director,USA,Mel Gibson,1996
+319,Best Actress,USA,Susan Sarandon,1996
+232,Best Supporting Actor,USA,Kevin Spacey,1996
+155,Best Actor,Australia,Geoffrey Rush,1997
+70,Best Director,England,Anthony Minghella,1997
+"233,Best Supporting Actor,USA,""Cuba Gooding, Jr."",1997"
+398,Best Supporting Actress,France,Juliette Binoche,1997
+320,Best Actress,USA,Frances McDormand,1997
+156,Best Actor,USA,Jack Nicholson,1997
+71,Best Director,Canada,James Cameron,1998
+321,Best Actress,USA,Helen Hunt,1998
+399,Best Supporting Actress,USA,Kim Basinger,1998
+234,Best Supporting Actor,USA,Robin Williams,1998
+322,Best Actress,USA,Gwyneth Paltrow,1999
+157,Best Actor,Italy,Roberto Benigni,1999
+400,Best Supporting Actress,England,Judi Dench,1999
+431,Best Actress,USA,Gwyneth Paltrow,1999
+439,Best Supporting Actor,USA,James Coburn,1999
+72,Best Director,USA,Steven Spielberg,1999
+235,Best Supporting Actor,USA,James Coburn,1999
+323,Best Actress,USA,Hilary Swank,2000
+158,Best Actor,USA,Kevin Spacey,2000
+236,Best Supporting Actor,England,Michael Caine,2000
+73,Best Director,England,Sam Mendes,2000
+421,Best Supporting Actress,USA,Angelina Jolie,2000
+401,Best Supporting Actress,USA,Angelina Jolie,2000
+237,Best Supporting Actor,Puerto Rico,Benicio Del Toro,2001
+74,Best Director,USA,Steven Soderbergh,2001
+402,Best Supporting Actress,USA,Marcia Gay Harden,2001
+434,Best Supporting Actress,USA,Marcia Gay Harden,2001
+324,Best Actress,USA,Julia Roberts,2001
+159,Best Actor,New Zealand,Russell Crowe,2001
+160,Best Actor,USA,Denzel Washington,2002
+75,Best Director,USA,Ron Howard,2002
+403,Best Supporting Actress,USA,Jennifer Connelly,2002
+325,Best Actress,USA,Halle Berry,2002
+238,Best Supporting Actor,England,Jim Broadbent,2002
+76,Best Director,France,Roman Polanski,2003
+404,Best Supporting Actress,Wales,Catherine Zeta-Jones,2003
+239,Best Supporting Actor,USA,Chris Cooper,2003
+326,Best Actress,USA,Nicole Kidman,2003
+162,Best Actor,USA,Sean Penn,2003
+161,Best Actor,USA,Adrien Brody,2003
+327,Best Actress,South Africa,Charlize Theron,2004
+240,Best Supporting Actor,USA,Tim Robbins,2004
+405,Best Supporting Actress,USA,RenÌ©e Zellweger,2004
+77,Best Director,New Zealand,Peter Jackson,2004
+429,Best Actress,USA,Hilary Swank,2005
+241,Best Supporting Actor,USA,Morgan Freeman,2005
+406,Best Supporting Actress,Australia,Cate Blanchett,2005
+78,Best Director,USA,Clint Eastwood,2005
+430,Best Actress,USA,Hilary Swank,2005
+163,Best Actor,USA,Jamie Foxx,2005
+328,Best Actress,USA,Hilary Swank,2005
+407,Best Supporting Actress,England,Rachel Weisz,2006
+79,Best Director,Taiwan,Ang Lee,2006
+242,Best Supporting Actor,USA,George Clooney,2006
+164,Best Actor,USA,Philip Seymour Hoffman,2006
+436,Best Supporting Actress,England,Rachel Weisz,2006
+329,Best Actress,USA,Reese Witherspoon,2006
+243,Best Supporting Actor,USA,Alan Arkin,2007
+80,Best Director,USA,Martin Scorsese,2007
+330,Best Actress,England,Helen Mirren,2007
+408,Best Supporting Actress,USA,Jennifer Hudson,2007
+409,Best Supporting Actress,England,Tilda Swinton,2007
+165,Best Actor,USA,Forest Whitaker,2007
+41,Best Director,USA,Joel Coen,2008
+244,Best Supporting Actor,Spain,Javier Bardem,2008
+166,Best Actor,England,Daniel Day-Lewis,2008
+81,Best Director,USA,Ethan Coen,2008
+331,Best Actress,France,Marion Cotillard,2008
+245,Best Supporting Actor,Australia,Heath Ledger,2009
+437,Best Director,England,Danny Boyle,2009
+410,Best Supporting Actress,Spain,Penelope Cruz,2009
+332,Best Actress,England,Kate Winslet,2009
+83,Best Director,USA,Kathryn Bigelow,2009
+82,Best Director,England,Danny Boyle,2009
+167,Best Actor,USA,Sean Penn,2009
+411,Best Supporting Actress,USA,Mo'Nique,2010
+333,Best Actress,USA,Sandra Bullock,2010
+433,Best Supporting Actress,USA,Mo'Nique,2010
+246,Best Supporting Actor,Austria,Christoph Waltz,2010
+168,Best Actor,USA,Jeff Bridges,2010
+334,Best Actress,Israel,Natalie Portman,2011
+247,Best Supporting Actor,Wales,Christian Bale,2011
+169,Best Actor,England,Colin Firth,2011
+84,Best Director,England,Tom Hooper,2011
+412,Best Supporting Actress,USA,Melissa Leo,2011
+85,Best Director,France,Michel Hazanavicius,2012
+413,Best Supporting Actress,USA,Octavia Spencer,2012
+170,Best Actor,France,Jean Dujardin,2012
+335,Best Actress,USA,Meryl Streep,2012
+248,Best Supporting Actor,Canada,Christopher Plummer,2012
+414,Best Supporting Actress,USA,Anne Hathaway,2013
+171,Best Actor,England,Daniel Day-Lewis,2013
+336,Best Actress,USA,Jennifer Lawrence,2013
+249,Best Supporting Actor,Austria,Christoph Waltz,2013
+86,Best Director,Taiwan,Ang Lee,2013
+172,Best Actor,USA,Matthew McConaughey,2014
+337,Best Actress,Australia,Cate Blanchett,2014
+250,Best Supporting Actor,USA,Jared Leto,2014
+415,Best Supporting Actress,Mexico,Lupita Nyong'o,2014
