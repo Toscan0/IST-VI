@@ -1,0 +1,99 @@
+<html>
+    <head>
+        <title>G14</title>
+        <meta charset="UTF-8">
+
+        <link rel="stylesheet" href="index-style.css">
+        <link rel="shortcut icon" type="image/png" href="img/oscars-favicon.png"/>
+
+        <!-- d3 js local run -->
+        <script src="d3/d3.js" charset="utf-8"></script>
+        <script src="d3/d3-simple-slider.js" charset="utf-8"></script>
+        <!-- js files -->
+        <script src="groupedbars.js" type="module"></script>
+        <script src="lollipop.js" type="module"></script>
+        <script src="treemap.js" type="module"></script>
+        <script src="linechart.js" type="module"></script>
+        <script src="starplot.js" type="module"></script>
+        <script src="controls.js" type="module"></script>
+    </head>
+    <body>
+        <h1 id="main-title"> Sociopolitical Impact At The Oscars </h1>
+            <section id="grid-container">
+                <div id="lollipop" class="graph grid-cell">
+                    <p class="idiom-title"> Black History Milestones </p>
+                </div>
+                <div id="treemap" class="graph grid-cell">
+                    <p class="idiom-title"> Oscar's Nominees Birthplace </p>
+                </div>
+                <div id="groupedbars" class="graph grid-cell">
+                    <p class="idiom-title"> Political Parties In Power Impact On Sexual Orientation </p>
+                </div>
+                <div id="linechart" class="graph grid-cell">
+                    <p class="idiom-title"> Ethnicity Percentage Over The Years </p>
+                </div>
+                <div id="starplot" class="graph grid-cell">
+                    <p class="idiom-title"> Ethnicity Percentage Per Political Party In Power </p>
+                </div>
+
+                <!-- controls -->
+                <div id="control-container">
+                    <div id="title-container">
+                        <p class="idiom-title"> Controls </p>
+                    </div>
+                    <div id="list-control" class="list-container grid-cell">
+                        <ul class="list">
+                            <li class="first-element"> Ethnicity </li>
+                            <li>
+                                <input type="checkbox" id="Asian-box" name="b" value="Asian" checked>
+                                <label class="list-label"> Asian </label>
+                            </li>
+                            <li>
+                                <input type="checkbox" id="Black-box" name="b" value="Black" checked>
+                                <label class="list-label"> Black </label>
+                            </li>
+                            <li>
+                                <input type="checkbox" id="Hispanic-box" name="b" value="Hispanic" checked>
+                                <label class="list-label"> Hispanic </label>
+                            </li>
+                            <li>
+                                <input type="checkbox" id="White-box" name="b" value="White" checked>
+                                <label class="list-label"> White </label>
+                            </li>
+                        </ul>
+                        <ul class="list small-2-list">
+                            <li class="first-element"> Political Party </li>
+                            <li>
+                                <input type="checkbox" id="Democratic-box" name="b" value="Democratic" checked>
+                                <label class="list-label"> Democratic </label>
+                            </li>
+                        <li>
+                            <input type="checkbox" id="Republican-box" name="b" value="republican" checked>
+                            <label class="list-label"> Republican </label>
+                        </li>
+                        </ul>
+                        <ul class="list small-2-list">
+                            <li class="first-element"> Category </li>
+                            <li>
+                                <input type="checkbox" id="Winners-box" name="b" value="Winners"  checked>
+                                <label class="list-label"> Winners </label>
+                            </li>
+                            <li>
+                                <input type="checkbox" id="Nominees-box" name="b" value="Nominees" checked>
+                                <label class="list-label"> Nominees </label>
+                            </li>
+                        </ul>
+                    </div>
+                    <!-- slide range -->
+                    <div id="slide-control" class="slider-container row align-items-center grid-cell">
+                        <div class="col-sm-2">
+                            <p id="value-range"></p>
+                        </div>
+                        <div class="col-sm">
+                            <div id="slider-range"></div>
+                        </div>
+                    </div>
+                </div>
+        </section>
+    </body>
+</html>

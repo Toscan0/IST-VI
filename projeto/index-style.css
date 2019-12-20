@@ -1,0 +1,354 @@
+body{
+    margin: 0px;
+    background-color:  #2A2A2E;
+
+}
+
+#main-title { /* ocupa 24.5 */
+    font-family: arial, sans serif;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    margin-top:  10.5px;
+    margin-bottom: 0.5px;
+    margin-left: 0px;
+    margin-right: 0px;
+
+    position: relative;
+    left: -84.50px;
+}
+
+
+.axis path, .axis line {
+    fill: none;
+    stroke: white;
+
+}
+
+.col-sm g text{
+    fill: white;
+    transform: translate(0,-10px);
+}
+
+.btn {
+	width: 100px;
+	font-family: calibri, sans serif;
+	padding: 10px;
+	border: solid 1px black;
+	color: white;
+}
+
+/* text */
+.text{
+    fill: white;
+    color: white;
+}
+
+/* Idiom */
+.idiom-title{
+    font-family: arial, sans serif;
+    font-size: 16px;
+    font-weight: bold;
+    fill: white;
+    color: white;
+    text-align: center;
+
+    margin-top:  1px;
+    margin-bottom: 0.5px;
+    margin-left: 0px;
+    margin-right: 0px;
+
+}
+
+/* Axis */
+.hiddenaxis{
+	color: #2A2A2E;
+}
+.axis{
+    font-family: calibri, sans serif;
+    font-size: 14px;
+    fill: white;
+    color: white;
+}
+
+.axis-label{
+    font-family: Verdana, sans serif;
+    font-size: 12px;
+    fill: white;
+}
+
+/* Legend */
+.legend-text{
+    font-family: Verdana, sans serif;
+    font-size: 12px;
+    fill: white;
+}
+
+.legend-square{
+    width: 16px;
+    height: 16px;
+    stroke-width: 2px;
+}
+
+
+/* All the objects that are interactable should have the following class */
+.interactable{
+    cursor: pointer;
+}
+
+/***********************/
+/* Grid */
+#grid-container {
+   transform: translate(0px, 10px);
+}
+
+.grid-cell{
+    margin: 2px;
+}
+
+#lollipop {
+  /*background-color: khaki;*/
+  width: 600px;
+  height: 200px; /* 300 - 24.5 */
+  position: fixed;
+  left: 0px;
+  top: 500px;
+
+}
+
+#linechart {
+  /*background-color: lightblue;*/
+  width: 600px;
+  height: 500px;
+  position: fixed;
+  left: 0px;
+  top: 0px; /* 300px */
+}
+
+#treemap {
+  /*background-color: white;*/
+  width: 500px;
+  height: 400px;
+  position: fixed;
+  left: 600px;
+  top: 0px;
+}
+
+
+#groupedbars {
+  /*background-color: khaki;*/
+  width: 500px;
+  height: 425.5px;
+  position: fixed;
+  left: 1115px;
+  top: 0px;
+
+}
+
+#starplot {
+    /*background-color: brown;*/
+    width: 500px;
+    height: 450px;
+    position: fixed;
+    left: 1100px;
+    top: 450px;
+}
+
+/*#slide-control {
+
+    width: 600px;
+    height: 50px;
+    position: fixed;
+    left: -10px;
+    top: 150px;
+}*/
+
+#control-container {
+    /* background-color: purple; */
+    width: 500px;
+    height: 375px; /* 300 - 24.5 */
+    position: fixed;
+    left: 607px;
+    top: 453px;  /* 500 - 47 */
+}
+
+
+/* *** Controls *** */
+/* list */
+#title-container{
+    padding: 5px;
+    border:1px solid #ffffff;
+    position: relative;
+}
+
+.list-container{
+    position: relative;
+    top: 15px;
+    left: 0px;
+    /* transform: translate(30px, 10px); */
+}
+
+.list{
+    list-style: none;
+    display: inline-block;
+    font-family: Verdana, sans serif;
+    font-size: 12px;
+    color: white;
+}
+
+.first-element{
+    font-weight: bold;
+    position: relative;
+    left: 3px;
+    /*text-decoration: underline;*/
+    font-family: Arial, sans serif;
+    font-size: 16px;
+}
+
+.list-label{
+    position: relative;
+    top: -2px;
+}
+
+.small-2-list{
+   position: relative;
+    top: -37px;
+}
+
+/* slide
+.slider-container{
+    text-align: center;
+    margin: 0;
+    transform: translate(30px, 0px);
+} */
+
+
+.col-sm{
+	position: relative;
+	top: 30px;
+    left: -20px;
+    color: white;
+    fill: white;
+}
+
+.col-sm-2{ /* div with range */ /* 171 de cada lado */
+    padding: 5px;
+    display: inline-block;
+    border: 1px solid #ffffff;
+    position: relative;
+    left: 207px;
+    top: 15px;
+}
+
+.slide-values{
+    fill: white;
+    color: white;
+    text-align: center;
+    margin: 0;
+}
+
+/* Lollipop */
+.lollipop-line{
+    fill: white;
+}
+
+/* Linechart */
+.line-linechart{
+    fill: none;
+    /*stroke: steelblue;
+    stroke-width: 1px;*/
+    /*opacity: 0.1;*/
+}
+
+.circle-linechart{
+    /*opacity: 0.85;*/
+}
+
+/* TREEMAP */
+.treemap_svg{
+    transform: translate(5px, 16px);
+}
+
+.fill_opacity_new_view{
+    fill-opacity : 1;
+}
+
+
+
+
+.grandparent text {
+    font-weight: bold;
+}
+
+.legend-text-treemap{
+    font-family: Verdana, sans serif;
+    font-size: 12px;
+    fill: black;
+}
+
+
+rect.parent,
+.grandparent rect {
+    stroke-width: 3px;
+}
+
+
+
+.grandparent rect {
+    fill: #7d67a7;
+}
+
+
+
+.children rect.parent,
+.grandparent rect {
+    cursor: pointer;
+}
+
+/*
+
+.children rect.parent {
+fill: #bbb;
+fill-opacity: .5;
+}
+
+.children:hover rect.child {
+fill: #bbb;
+}
+
+*/
+
+
+/*.tooltip {
+    background: black;
+    background-color: black;
+    color: black;
+    font-size: 22px;
+    line-height: 15px;
+    left: 30px;
+
+    position: absolute;
+    z-index: 1000;
+}*/
+
+.my-tooltip {
+    position: absolute;
+    text-align: center;
+
+    border: 0px;
+    border-radius: 8px;
+    pointer-events: none;
+
+    opacity: 0.9;
+    background: black;
+    color: white;
+    fill: white;
+
+    font-family: Verdana, sans serif;
+    font-size: 12px;
+
+    padding: 9px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: white;
+}

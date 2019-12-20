@@ -1,0 +1,4225 @@
+year,orientation,ethnicity,winner,ratio,party
+1928,Bisexual,Asian,0,0,Republican
+1928,Bisexual,Black,0,0,Republican
+1928,Bisexual,Hispanic,0,0,Republican
+1928,Bisexual,White,0,0,Republican
+1928,Bisexual,Asian,1,0,Republican
+1928,Bisexual,Black,1,0,Republican
+1928,Bisexual,Hispanic,1,0,Republican
+1928,Bisexual,White,1,0,Republican
+1928,Bisexual,Asian,2,0,Republican
+1928,Bisexual,Black,2,0,Republican
+1928,Bisexual,Hispanic,2,0,Republican
+1928,Bisexual,White,2,0,Republican
+1928,Gay     ,Asian,0,0,Republican
+1928,Gay     ,Black,0,0,Republican
+1928,Gay     ,Hispanic,0,0,Republican
+1928,Gay     ,White,0,0,Republican
+1928,Gay     ,Asian,1,0,Republican
+1928,Gay     ,Black,1,0,Republican
+1928,Gay     ,Hispanic,1,0,Republican
+1928,Gay     ,White,1,0,Republican
+1928,Gay     ,Asian,2,0,Republican
+1928,Gay     ,Black,2,0,Republican
+1928,Gay     ,Hispanic,2,0,Republican
+1928,Gay     ,White,2,0,Republican
+1928,Lesbian ,Asian,0,0,Republican
+1928,Lesbian ,Black,0,0,Republican
+1928,Lesbian ,Hispanic,0,0,Republican
+1928,Lesbian ,White,0,0,Republican
+1928,Lesbian ,Asian,1,0,Republican
+1928,Lesbian ,Black,1,0,Republican
+1928,Lesbian ,Hispanic,1,0,Republican
+1928,Lesbian ,White,1,0,Republican
+1928,Lesbian ,Asian,2,0,Republican
+1928,Lesbian ,Black,2,0,Republican
+1928,Lesbian ,Hispanic,2,0,Republican
+1928,Lesbian ,White,2,0,Republican
+1928,Straight,Asian,0,0,Republican
+1928,Straight,Black,0,0,Republican
+1928,Straight,Hispanic,0,0,Republican
+1928,Straight,White,0,100,Republican
+1928,Straight,Asian,1,0,Republican
+1928,Straight,Black,1,0,Republican
+1928,Straight,Hispanic,1,0,Republican
+1928,Straight,White,1,100,Republican
+1928,Straight,Asian,2,0,Republican
+1928,Straight,Black,2,0,Republican
+1928,Straight,Hispanic,2,0,Republican
+1928,Straight,White,2,100,Republican
+1929,Bisexual,Asian,0,0,Republican
+1929,Bisexual,Black,0,0,Republican
+1929,Bisexual,Hispanic,0,0,Republican
+1929,Bisexual,White,0,15.2,Republican
+1929,Bisexual,Asian,1,0,Republican
+1929,Bisexual,Black,1,0,Republican
+1929,Bisexual,Hispanic,1,0,Republican
+1929,Bisexual,White,1,0,Republican
+1929,Bisexual,Asian,2,0,Republican
+1929,Bisexual,Black,2,0,Republican
+1929,Bisexual,Hispanic,2,0,Republican
+1929,Bisexual,White,2,12.5,Republican
+1929,Gay     ,Asian,0,0,Republican
+1929,Gay     ,Black,0,0,Republican
+1929,Gay     ,Hispanic,0,0,Republican
+1929,Gay     ,White,0,0,Republican
+1929,Gay     ,Asian,1,0,Republican
+1929,Gay     ,Black,1,0,Republican
+1929,Gay     ,Hispanic,1,0,Republican
+1929,Gay     ,White,1,0,Republican
+1929,Gay     ,Asian,2,0,Republican
+1929,Gay     ,Black,2,0,Republican
+1929,Gay     ,Hispanic,2,0,Republican
+1929,Gay     ,White,2,0,Republican
+1929,Lesbian ,Asian,0,0,Republican
+1929,Lesbian ,Black,0,0,Republican
+1929,Lesbian ,Hispanic,0,0,Republican
+1929,Lesbian ,White,0,0,Republican
+1929,Lesbian ,Asian,1,0,Republican
+1929,Lesbian ,Black,1,0,Republican
+1929,Lesbian ,Hispanic,1,0,Republican
+1929,Lesbian ,White,1,0,Republican
+1929,Lesbian ,Asian,2,0,Republican
+1929,Lesbian ,Black,2,0,Republican
+1929,Lesbian ,Hispanic,2,0,Republican
+1929,Lesbian ,White,2,0,Republican
+1929,Straight,Asian,0,0,Republican
+1929,Straight,Black,0,0,Republican
+1929,Straight,Hispanic,0,0,Republican
+1929,Straight,White,0,84.8,Republican
+1929,Straight,Asian,1,0,Republican
+1929,Straight,Black,1,0,Republican
+1929,Straight,Hispanic,1,0,Republican
+1929,Straight,White,1,100,Republican
+1929,Straight,Asian,2,0,Republican
+1929,Straight,Black,2,0,Republican
+1929,Straight,Hispanic,2,0,Republican
+1929,Straight,White,2,87.5,Republican
+1930,Bisexual,Asian,0,0,Republican
+1930,Bisexual,Black,0,0,Republican
+1930,Bisexual,Hispanic,0,0,Republican
+1930,Bisexual,White,0,6.7,Republican
+1930,Bisexual,Asian,1,0,Republican
+1930,Bisexual,Black,1,0,Republican
+1930,Bisexual,Hispanic,1,0,Republican
+1930,Bisexual,White,1,0,Republican
+1930,Bisexual,Asian,2,0,Republican
+1930,Bisexual,Black,2,0,Republican
+1930,Bisexual,Hispanic,2,0,Republican
+1930,Bisexual,White,2,5.56,Republican
+1930,Gay     ,Asian,0,0,Republican
+1930,Gay     ,Black,0,0,Republican
+1930,Gay     ,Hispanic,0,0,Republican
+1930,Gay     ,White,0,0,Republican
+1930,Gay     ,Asian,1,0,Republican
+1930,Gay     ,Black,1,0,Republican
+1930,Gay     ,Hispanic,1,0,Republican
+1930,Gay     ,White,1,0,Republican
+1930,Gay     ,Asian,2,0,Republican
+1930,Gay     ,Black,2,0,Republican
+1930,Gay     ,Hispanic,2,0,Republican
+1930,Gay     ,White,2,0,Republican
+1930,Lesbian ,Asian,0,0,Republican
+1930,Lesbian ,Black,0,0,Republican
+1930,Lesbian ,Hispanic,0,0,Republican
+1930,Lesbian ,White,0,0,Republican
+1930,Lesbian ,Asian,1,0,Republican
+1930,Lesbian ,Black,1,0,Republican
+1930,Lesbian ,Hispanic,1,0,Republican
+1930,Lesbian ,White,1,0,Republican
+1930,Lesbian ,Asian,2,0,Republican
+1930,Lesbian ,Black,2,0,Republican
+1930,Lesbian ,Hispanic,2,0,Republican
+1930,Lesbian ,White,2,0,Republican
+1930,Straight,Asian,0,0,Republican
+1930,Straight,Black,0,0,Republican
+1930,Straight,Hispanic,0,0,Republican
+1930,Straight,White,0,93.3,Republican
+1930,Straight,Asian,1,0,Republican
+1930,Straight,Black,1,0,Republican
+1930,Straight,Hispanic,1,0,Republican
+1930,Straight,White,1,100,Republican
+1930,Straight,Asian,2,0,Republican
+1930,Straight,Black,2,0,Republican
+1930,Straight,Hispanic,2,0,Republican
+1930,Straight,White,2,94.4,Republican
+1931,Bisexual,Asian,0,0,Republican
+1931,Bisexual,Black,0,0,Republican
+1931,Bisexual,Hispanic,0,0,Republican
+1931,Bisexual,White,0,0,Republican
+1931,Bisexual,Asian,1,0,Republican
+1931,Bisexual,Black,1,0,Republican
+1931,Bisexual,Hispanic,1,0,Republican
+1931,Bisexual,White,1,0,Republican
+1931,Bisexual,Asian,2,0,Republican
+1931,Bisexual,Black,2,0,Republican
+1931,Bisexual,Hispanic,2,0,Republican
+1931,Bisexual,White,2,0,Republican
+1931,Gay     ,Asian,0,0,Republican
+1931,Gay     ,Black,0,0,Republican
+1931,Gay     ,Hispanic,0,0,Republican
+1931,Gay     ,White,0,0,Republican
+1931,Gay     ,Asian,1,0,Republican
+1931,Gay     ,Black,1,0,Republican
+1931,Gay     ,Hispanic,1,0,Republican
+1931,Gay     ,White,1,0,Republican
+1931,Gay     ,Asian,2,0,Republican
+1931,Gay     ,Black,2,0,Republican
+1931,Gay     ,Hispanic,2,0,Republican
+1931,Gay     ,White,2,0,Republican
+1931,Lesbian ,Asian,0,0,Republican
+1931,Lesbian ,Black,0,0,Republican
+1931,Lesbian ,Hispanic,0,0,Republican
+1931,Lesbian ,White,0,0,Republican
+1931,Lesbian ,Asian,1,0,Republican
+1931,Lesbian ,Black,1,0,Republican
+1931,Lesbian ,Hispanic,1,0,Republican
+1931,Lesbian ,White,1,0,Republican
+1931,Lesbian ,Asian,2,0,Republican
+1931,Lesbian ,Black,2,0,Republican
+1931,Lesbian ,Hispanic,2,0,Republican
+1931,Lesbian ,White,2,0,Republican
+1931,Straight,Asian,0,0,Republican
+1931,Straight,Black,0,0,Republican
+1931,Straight,Hispanic,0,0,Republican
+1931,Straight,White,0,100,Republican
+1931,Straight,Asian,1,0,Republican
+1931,Straight,Black,1,0,Republican
+1931,Straight,Hispanic,1,0,Republican
+1931,Straight,White,1,100,Republican
+1931,Straight,Asian,2,0,Republican
+1931,Straight,Black,2,0,Republican
+1931,Straight,Hispanic,2,0,Republican
+1931,Straight,White,2,100,Republican
+1932,Bisexual,Asian,0,0,Republican
+1932,Bisexual,Black,0,0,Republican
+1932,Bisexual,Hispanic,0,0,Republican
+1932,Bisexual,White,0,0,Republican
+1932,Bisexual,Asian,1,0,Republican
+1932,Bisexual,Black,1,0,Republican
+1932,Bisexual,Hispanic,1,0,Republican
+1932,Bisexual,White,1,0,Republican
+1932,Bisexual,Asian,2,0,Republican
+1932,Bisexual,Black,2,0,Republican
+1932,Bisexual,Hispanic,2,0,Republican
+1932,Bisexual,White,2,0,Republican
+1932,Gay     ,Asian,0,0,Republican
+1932,Gay     ,Black,0,0,Republican
+1932,Gay     ,Hispanic,0,0,Republican
+1932,Gay     ,White,0,0,Republican
+1932,Gay     ,Asian,1,0,Republican
+1932,Gay     ,Black,1,0,Republican
+1932,Gay     ,Hispanic,1,0,Republican
+1932,Gay     ,White,1,0,Republican
+1932,Gay     ,Asian,2,0,Republican
+1932,Gay     ,Black,2,0,Republican
+1932,Gay     ,Hispanic,2,0,Republican
+1932,Gay     ,White,2,0,Republican
+1932,Lesbian ,Asian,0,0,Republican
+1932,Lesbian ,Black,0,0,Republican
+1932,Lesbian ,Hispanic,0,0,Republican
+1932,Lesbian ,White,0,0,Republican
+1932,Lesbian ,Asian,1,0,Republican
+1932,Lesbian ,Black,1,0,Republican
+1932,Lesbian ,Hispanic,1,0,Republican
+1932,Lesbian ,White,1,0,Republican
+1932,Lesbian ,Asian,2,0,Republican
+1932,Lesbian ,Black,2,0,Republican
+1932,Lesbian ,Hispanic,2,0,Republican
+1932,Lesbian ,White,2,0,Republican
+1932,Straight,Asian,0,0,Republican
+1932,Straight,Black,0,0,Republican
+1932,Straight,Hispanic,0,0,Republican
+1932,Straight,White,0,100,Republican
+1932,Straight,Asian,1,0,Republican
+1932,Straight,Black,1,0,Republican
+1932,Straight,Hispanic,1,0,Republican
+1932,Straight,White,1,100,Republican
+1932,Straight,Asian,2,0,Republican
+1932,Straight,Black,2,0,Republican
+1932,Straight,Hispanic,2,0,Republican
+1932,Straight,White,2,100,Republican
+1933,Bisexual,Asian,0,0,Democratic
+1933,Bisexual,Black,0,0,Democratic
+1933,Bisexual,Hispanic,0,0,Democratic
+1933,Bisexual,White,0,0,Democratic
+1933,Bisexual,Asian,1,0,Democratic
+1933,Bisexual,Black,1,0,Democratic
+1933,Bisexual,Hispanic,1,0,Democratic
+1933,Bisexual,White,1,0,Democratic
+1933,Bisexual,Asian,2,0,Democratic
+1933,Bisexual,Black,2,0,Democratic
+1933,Bisexual,Hispanic,2,0,Democratic
+1933,Bisexual,White,2,0,Democratic
+1933,Gay     ,Asian,0,0,Democratic
+1933,Gay     ,Black,0,0,Democratic
+1933,Gay     ,Hispanic,0,0,Democratic
+1933,Gay     ,White,0,6.7,Democratic
+1933,Gay     ,Asian,1,0,Democratic
+1933,Gay     ,Black,1,0,Democratic
+1933,Gay     ,Hispanic,1,0,Democratic
+1933,Gay     ,White,1,0,Democratic
+1933,Gay     ,Asian,2,0,Democratic
+1933,Gay     ,Black,2,0,Democratic
+1933,Gay     ,Hispanic,2,0,Democratic
+1933,Gay     ,White,2,5.56,Democratic
+1933,Lesbian ,Asian,0,0,Democratic
+1933,Lesbian ,Black,0,0,Democratic
+1933,Lesbian ,Hispanic,0,0,Democratic
+1933,Lesbian ,White,0,0,Democratic
+1933,Lesbian ,Asian,1,0,Democratic
+1933,Lesbian ,Black,1,0,Democratic
+1933,Lesbian ,Hispanic,1,0,Democratic
+1933,Lesbian ,White,1,0,Democratic
+1933,Lesbian ,Asian,2,0,Democratic
+1933,Lesbian ,Black,2,0,Democratic
+1933,Lesbian ,Hispanic,2,0,Democratic
+1933,Lesbian ,White,2,0,Democratic
+1933,Straight,Asian,0,0,Democratic
+1933,Straight,Black,0,0,Democratic
+1933,Straight,Hispanic,0,0,Democratic
+1933,Straight,White,0,93.3,Democratic
+1933,Straight,Asian,1,0,Democratic
+1933,Straight,Black,1,0,Democratic
+1933,Straight,Hispanic,1,0,Democratic
+1933,Straight,White,1,100,Democratic
+1933,Straight,Asian,2,0,Democratic
+1933,Straight,Black,2,0,Democratic
+1933,Straight,Hispanic,2,0,Democratic
+1933,Straight,White,2,94.4,Democratic
+1934,Bisexual,Asian,0,0,Democratic
+1934,Bisexual,Black,0,0,Democratic
+1934,Bisexual,Hispanic,0,0,Democratic
+1934,Bisexual,White,0,0,Democratic
+1934,Bisexual,Asian,1,0,Democratic
+1934,Bisexual,Black,1,0,Democratic
+1934,Bisexual,Hispanic,1,0,Democratic
+1934,Bisexual,White,1,0,Democratic
+1934,Bisexual,Asian,2,0,Democratic
+1934,Bisexual,Black,2,0,Democratic
+1934,Bisexual,Hispanic,2,0,Democratic
+1934,Bisexual,White,2,0,Democratic
+1934,Gay     ,Asian,0,0,Democratic
+1934,Gay     ,Black,0,0,Democratic
+1934,Gay     ,Hispanic,0,0,Democratic
+1934,Gay     ,White,0,0,Democratic
+1934,Gay     ,Asian,1,0,Democratic
+1934,Gay     ,Black,1,0,Democratic
+1934,Gay     ,Hispanic,1,0,Democratic
+1934,Gay     ,White,1,0,Democratic
+1934,Gay     ,Asian,2,0,Democratic
+1934,Gay     ,Black,2,0,Democratic
+1934,Gay     ,Hispanic,2,0,Democratic
+1934,Gay     ,White,2,0,Democratic
+1934,Lesbian ,Asian,0,0,Democratic
+1934,Lesbian ,Black,0,0,Democratic
+1934,Lesbian ,Hispanic,0,0,Democratic
+1934,Lesbian ,White,0,0,Democratic
+1934,Lesbian ,Asian,1,0,Democratic
+1934,Lesbian ,Black,1,0,Democratic
+1934,Lesbian ,Hispanic,1,0,Democratic
+1934,Lesbian ,White,1,0,Democratic
+1934,Lesbian ,Asian,2,0,Democratic
+1934,Lesbian ,Black,2,0,Democratic
+1934,Lesbian ,Hispanic,2,0,Democratic
+1934,Lesbian ,White,2,0,Democratic
+1934,Straight,Asian,0,0,Democratic
+1934,Straight,Black,0,0,Democratic
+1934,Straight,Hispanic,0,0,Democratic
+1934,Straight,White,0,100,Democratic
+1934,Straight,Asian,1,0,Democratic
+1934,Straight,Black,1,0,Democratic
+1934,Straight,Hispanic,1,0,Democratic
+1934,Straight,White,1,100,Democratic
+1934,Straight,Asian,2,0,Democratic
+1934,Straight,Black,2,0,Democratic
+1934,Straight,Hispanic,2,0,Democratic
+1934,Straight,White,2,100,Democratic
+1935,Bisexual,Asian,0,0,Democratic
+1935,Bisexual,Black,0,0,Democratic
+1935,Bisexual,Hispanic,0,0,Democratic
+1935,Bisexual,White,0,0,Democratic
+1935,Bisexual,Asian,1,0,Democratic
+1935,Bisexual,Black,1,0,Democratic
+1935,Bisexual,Hispanic,1,0,Democratic
+1935,Bisexual,White,1,0,Democratic
+1935,Bisexual,Asian,2,0,Democratic
+1935,Bisexual,Black,2,0,Democratic
+1935,Bisexual,Hispanic,2,0,Democratic
+1935,Bisexual,White,2,0,Democratic
+1935,Gay     ,Asian,0,0,Democratic
+1935,Gay     ,Black,0,0,Democratic
+1935,Gay     ,Hispanic,0,0,Democratic
+1935,Gay     ,White,0,0,Democratic
+1935,Gay     ,Asian,1,0,Democratic
+1935,Gay     ,Black,1,0,Democratic
+1935,Gay     ,Hispanic,1,0,Democratic
+1935,Gay     ,White,1,0,Democratic
+1935,Gay     ,Asian,2,0,Democratic
+1935,Gay     ,Black,2,0,Democratic
+1935,Gay     ,Hispanic,2,0,Democratic
+1935,Gay     ,White,2,0,Democratic
+1935,Lesbian ,Asian,0,0,Democratic
+1935,Lesbian ,Black,0,0,Democratic
+1935,Lesbian ,Hispanic,0,0,Democratic
+1935,Lesbian ,White,0,0,Democratic
+1935,Lesbian ,Asian,1,0,Democratic
+1935,Lesbian ,Black,1,0,Democratic
+1935,Lesbian ,Hispanic,1,0,Democratic
+1935,Lesbian ,White,1,0,Democratic
+1935,Lesbian ,Asian,2,0,Democratic
+1935,Lesbian ,Black,2,0,Democratic
+1935,Lesbian ,Hispanic,2,0,Democratic
+1935,Lesbian ,White,2,0,Democratic
+1935,Straight,Asian,0,8.33,Democratic
+1935,Straight,Black,0,0,Democratic
+1935,Straight,Hispanic,0,0,Democratic
+1935,Straight,White,0,91.67,Democratic
+1935,Straight,Asian,1,0,Democratic
+1935,Straight,Black,1,0,Democratic
+1935,Straight,Hispanic,1,0,Democratic
+1935,Straight,White,1,100,Democratic
+1935,Straight,Asian,2,6.664,Democratic
+1935,Straight,Black,2,0,Democratic
+1935,Straight,Hispanic,2,0,Democratic
+1935,Straight,White,2,93.336,Democratic
+1936,Bisexual,Asian,0,0,Democratic
+1936,Bisexual,Black,0,0,Democratic
+1936,Bisexual,Hispanic,0,0,Democratic
+1936,Bisexual,White,0,0,Democratic
+1936,Bisexual,Asian,1,0,Democratic
+1936,Bisexual,Black,1,0,Democratic
+1936,Bisexual,Hispanic,1,0,Democratic
+1936,Bisexual,White,1,0,Democratic
+1936,Bisexual,Asian,2,0,Democratic
+1936,Bisexual,Black,2,0,Democratic
+1936,Bisexual,Hispanic,2,0,Democratic
+1936,Bisexual,White,2,0,Democratic
+1936,Gay     ,Asian,0,0,Democratic
+1936,Gay     ,Black,0,0,Democratic
+1936,Gay     ,Hispanic,0,0,Democratic
+1936,Gay     ,White,0,0,Democratic
+1936,Gay     ,Asian,1,0,Democratic
+1936,Gay     ,Black,1,0,Democratic
+1936,Gay     ,Hispanic,1,0,Democratic
+1936,Gay     ,White,1,0,Democratic
+1936,Gay     ,Asian,2,0,Democratic
+1936,Gay     ,Black,2,0,Democratic
+1936,Gay     ,Hispanic,2,0,Democratic
+1936,Gay     ,White,2,0,Democratic
+1936,Lesbian ,Asian,0,0,Democratic
+1936,Lesbian ,Black,0,0,Democratic
+1936,Lesbian ,Hispanic,0,0,Democratic
+1936,Lesbian ,White,0,0,Democratic
+1936,Lesbian ,Asian,1,0,Democratic
+1936,Lesbian ,Black,1,0,Democratic
+1936,Lesbian ,Hispanic,1,0,Democratic
+1936,Lesbian ,White,1,0,Democratic
+1936,Lesbian ,Asian,2,0,Democratic
+1936,Lesbian ,Black,2,0,Democratic
+1936,Lesbian ,Hispanic,2,0,Democratic
+1936,Lesbian ,White,2,0,Democratic
+1936,Straight,Asian,0,0,Democratic
+1936,Straight,Black,0,0,Democratic
+1936,Straight,Hispanic,0,0,Democratic
+1936,Straight,White,0,100,Democratic
+1936,Straight,Asian,1,0,Democratic
+1936,Straight,Black,1,0,Democratic
+1936,Straight,Hispanic,1,0,Democratic
+1936,Straight,White,1,100,Democratic
+1936,Straight,Asian,2,0,Democratic
+1936,Straight,Black,2,0,Democratic
+1936,Straight,Hispanic,2,0,Democratic
+1936,Straight,White,2,100,Democratic
+1937,Bisexual,Asian,0,0,Democratic
+1937,Bisexual,Black,0,0,Democratic
+1937,Bisexual,Hispanic,0,0,Democratic
+1937,Bisexual,White,0,5,Democratic
+1937,Bisexual,Asian,1,0,Democratic
+1937,Bisexual,Black,1,0,Democratic
+1937,Bisexual,Hispanic,1,0,Democratic
+1937,Bisexual,White,1,0,Democratic
+1937,Bisexual,Asian,2,0,Democratic
+1937,Bisexual,Black,2,0,Democratic
+1937,Bisexual,Hispanic,2,0,Democratic
+1937,Bisexual,White,2,4,Democratic
+1937,Gay     ,Asian,0,0,Democratic
+1937,Gay     ,Black,0,0,Democratic
+1937,Gay     ,Hispanic,0,0,Democratic
+1937,Gay     ,White,0,0,Democratic
+1937,Gay     ,Asian,1,0,Democratic
+1937,Gay     ,Black,1,0,Democratic
+1937,Gay     ,Hispanic,1,0,Democratic
+1937,Gay     ,White,1,0,Democratic
+1937,Gay     ,Asian,2,0,Democratic
+1937,Gay     ,Black,2,0,Democratic
+1937,Gay     ,Hispanic,2,0,Democratic
+1937,Gay     ,White,2,0,Democratic
+1937,Lesbian ,Asian,0,0,Democratic
+1937,Lesbian ,Black,0,0,Democratic
+1937,Lesbian ,Hispanic,0,0,Democratic
+1937,Lesbian ,White,0,0,Democratic
+1937,Lesbian ,Asian,1,0,Democratic
+1937,Lesbian ,Black,1,0,Democratic
+1937,Lesbian ,Hispanic,1,0,Democratic
+1937,Lesbian ,White,1,0,Democratic
+1937,Lesbian ,Asian,2,0,Democratic
+1937,Lesbian ,Black,2,0,Democratic
+1937,Lesbian ,Hispanic,2,0,Democratic
+1937,Lesbian ,White,2,0,Democratic
+1937,Straight,Asian,0,0,Democratic
+1937,Straight,Black,0,0,Democratic
+1937,Straight,Hispanic,0,0,Democratic
+1937,Straight,White,0,95,Democratic
+1937,Straight,Asian,1,0,Democratic
+1937,Straight,Black,1,0,Democratic
+1937,Straight,Hispanic,1,0,Democratic
+1937,Straight,White,1,100,Democratic
+1937,Straight,Asian,2,0,Democratic
+1937,Straight,Black,2,0,Democratic
+1937,Straight,Hispanic,2,0,Democratic
+1937,Straight,White,2,96,Democratic
+1938,Bisexual,Asian,0,0,Democratic
+1938,Bisexual,Black,0,0,Democratic
+1938,Bisexual,Hispanic,0,0,Democratic
+1938,Bisexual,White,0,0,Democratic
+1938,Bisexual,Asian,1,0,Democratic
+1938,Bisexual,Black,1,0,Democratic
+1938,Bisexual,Hispanic,1,0,Democratic
+1938,Bisexual,White,1,0,Democratic
+1938,Bisexual,Asian,2,0,Democratic
+1938,Bisexual,Black,2,0,Democratic
+1938,Bisexual,Hispanic,2,0,Democratic
+1938,Bisexual,White,2,0,Democratic
+1938,Gay     ,Asian,0,0,Democratic
+1938,Gay     ,Black,0,0,Democratic
+1938,Gay     ,Hispanic,0,0,Democratic
+1938,Gay     ,White,0,0,Democratic
+1938,Gay     ,Asian,1,0,Democratic
+1938,Gay     ,Black,1,0,Democratic
+1938,Gay     ,Hispanic,1,0,Democratic
+1938,Gay     ,White,1,0,Democratic
+1938,Gay     ,Asian,2,0,Democratic
+1938,Gay     ,Black,2,0,Democratic
+1938,Gay     ,Hispanic,2,0,Democratic
+1938,Gay     ,White,2,0,Democratic
+1938,Lesbian ,Asian,0,0,Democratic
+1938,Lesbian ,Black,0,0,Democratic
+1938,Lesbian ,Hispanic,0,0,Democratic
+1938,Lesbian ,White,0,5,Democratic
+1938,Lesbian ,Asian,1,0,Democratic
+1938,Lesbian ,Black,1,0,Democratic
+1938,Lesbian ,Hispanic,1,0,Democratic
+1938,Lesbian ,White,1,0,Democratic
+1938,Lesbian ,Asian,2,0,Democratic
+1938,Lesbian ,Black,2,0,Democratic
+1938,Lesbian ,Hispanic,2,0,Democratic
+1938,Lesbian ,White,2,4,Democratic
+1938,Straight,Asian,0,0,Democratic
+1938,Straight,Black,0,0,Democratic
+1938,Straight,Hispanic,0,0,Democratic
+1938,Straight,White,0,95,Democratic
+1938,Straight,Asian,1,0,Democratic
+1938,Straight,Black,1,0,Democratic
+1938,Straight,Hispanic,1,0,Democratic
+1938,Straight,White,1,100,Democratic
+1938,Straight,Asian,2,0,Democratic
+1938,Straight,Black,2,0,Democratic
+1938,Straight,Hispanic,2,0,Democratic
+1938,Straight,White,2,96,Democratic
+1939,Bisexual,Asian,0,0,Democratic
+1939,Bisexual,Black,0,0,Democratic
+1939,Bisexual,Hispanic,0,0,Democratic
+1939,Bisexual,White,0,5,Democratic
+1939,Bisexual,Asian,1,0,Democratic
+1939,Bisexual,Black,1,0,Democratic
+1939,Bisexual,Hispanic,1,0,Democratic
+1939,Bisexual,White,1,0,Democratic
+1939,Bisexual,Asian,2,0,Democratic
+1939,Bisexual,Black,2,0,Democratic
+1939,Bisexual,Hispanic,2,0,Democratic
+1939,Bisexual,White,2,4,Democratic
+1939,Gay     ,Asian,0,0,Democratic
+1939,Gay     ,Black,0,0,Democratic
+1939,Gay     ,Hispanic,0,0,Democratic
+1939,Gay     ,White,0,0,Democratic
+1939,Gay     ,Asian,1,0,Democratic
+1939,Gay     ,Black,1,0,Democratic
+1939,Gay     ,Hispanic,1,0,Democratic
+1939,Gay     ,White,1,0,Democratic
+1939,Gay     ,Asian,2,0,Democratic
+1939,Gay     ,Black,2,0,Democratic
+1939,Gay     ,Hispanic,2,0,Democratic
+1939,Gay     ,White,2,0,Democratic
+1939,Lesbian ,Asian,0,0,Democratic
+1939,Lesbian ,Black,0,0,Democratic
+1939,Lesbian ,Hispanic,0,0,Democratic
+1939,Lesbian ,White,0,0,Democratic
+1939,Lesbian ,Asian,1,0,Democratic
+1939,Lesbian ,Black,1,0,Democratic
+1939,Lesbian ,Hispanic,1,0,Democratic
+1939,Lesbian ,White,1,0,Democratic
+1939,Lesbian ,Asian,2,0,Democratic
+1939,Lesbian ,Black,2,0,Democratic
+1939,Lesbian ,Hispanic,2,0,Democratic
+1939,Lesbian ,White,2,0,Democratic
+1939,Straight,Asian,0,0,Democratic
+1939,Straight,Black,0,0,Democratic
+1939,Straight,Hispanic,0,0,Democratic
+1939,Straight,White,0,95,Democratic
+1939,Straight,Asian,1,0,Democratic
+1939,Straight,Black,1,20,Democratic
+1939,Straight,Hispanic,1,0,Democratic
+1939,Straight,White,1,80,Democratic
+1939,Straight,Asian,2,0,Democratic
+1939,Straight,Black,2,4,Democratic
+1939,Straight,Hispanic,2,0,Democratic
+1939,Straight,White,2,96,Democratic
+1940,Bisexual,Asian,0,0,Democratic
+1940,Bisexual,Black,0,0,Democratic
+1940,Bisexual,Hispanic,0,0,Democratic
+1940,Bisexual,White,0,0,Democratic
+1940,Bisexual,Asian,1,0,Democratic
+1940,Bisexual,Black,1,0,Democratic
+1940,Bisexual,Hispanic,1,0,Democratic
+1940,Bisexual,White,1,0,Democratic
+1940,Bisexual,Asian,2,0,Democratic
+1940,Bisexual,Black,2,0,Democratic
+1940,Bisexual,Hispanic,2,0,Democratic
+1940,Bisexual,White,2,0,Democratic
+1940,Gay     ,Asian,0,0,Democratic
+1940,Gay     ,Black,0,0,Democratic
+1940,Gay     ,Hispanic,0,0,Democratic
+1940,Gay     ,White,0,5,Democratic
+1940,Gay     ,Asian,1,0,Democratic
+1940,Gay     ,Black,1,0,Democratic
+1940,Gay     ,Hispanic,1,0,Democratic
+1940,Gay     ,White,1,0,Democratic
+1940,Gay     ,Asian,2,0,Democratic
+1940,Gay     ,Black,2,0,Democratic
+1940,Gay     ,Hispanic,2,0,Democratic
+1940,Gay     ,White,2,4,Democratic
+1940,Lesbian ,Asian,0,0,Democratic
+1940,Lesbian ,Black,0,0,Democratic
+1940,Lesbian ,Hispanic,0,0,Democratic
+1940,Lesbian ,White,0,0,Democratic
+1940,Lesbian ,Asian,1,0,Democratic
+1940,Lesbian ,Black,1,0,Democratic
+1940,Lesbian ,Hispanic,1,0,Democratic
+1940,Lesbian ,White,1,0,Democratic
+1940,Lesbian ,Asian,2,0,Democratic
+1940,Lesbian ,Black,2,0,Democratic
+1940,Lesbian ,Hispanic,2,0,Democratic
+1940,Lesbian ,White,2,0,Democratic
+1940,Straight,Asian,0,0,Democratic
+1940,Straight,Black,0,0,Democratic
+1940,Straight,Hispanic,0,0,Democratic
+1940,Straight,White,0,95,Democratic
+1940,Straight,Asian,1,0,Democratic
+1940,Straight,Black,1,0,Democratic
+1940,Straight,Hispanic,1,0,Democratic
+1940,Straight,White,1,100,Democratic
+1940,Straight,Asian,2,0,Democratic
+1940,Straight,Black,2,0,Democratic
+1940,Straight,Hispanic,2,0,Democratic
+1940,Straight,White,2,96,Democratic
+1941,Bisexual,Asian,0,0,Democratic
+1941,Bisexual,Black,0,0,Democratic
+1941,Bisexual,Hispanic,0,0,Democratic
+1941,Bisexual,White,0,0,Democratic
+1941,Bisexual,Asian,1,0,Democratic
+1941,Bisexual,Black,1,0,Democratic
+1941,Bisexual,Hispanic,1,0,Democratic
+1941,Bisexual,White,1,0,Democratic
+1941,Bisexual,Asian,2,0,Democratic
+1941,Bisexual,Black,2,0,Democratic
+1941,Bisexual,Hispanic,2,0,Democratic
+1941,Bisexual,White,2,0,Democratic
+1941,Gay     ,Asian,0,0,Democratic
+1941,Gay     ,Black,0,0,Democratic
+1941,Gay     ,Hispanic,0,0,Democratic
+1941,Gay     ,White,0,0,Democratic
+1941,Gay     ,Asian,1,0,Democratic
+1941,Gay     ,Black,1,0,Democratic
+1941,Gay     ,Hispanic,1,0,Democratic
+1941,Gay     ,White,1,0,Democratic
+1941,Gay     ,Asian,2,0,Democratic
+1941,Gay     ,Black,2,0,Democratic
+1941,Gay     ,Hispanic,2,0,Democratic
+1941,Gay     ,White,2,0,Democratic
+1941,Lesbian ,Asian,0,0,Democratic
+1941,Lesbian ,Black,0,0,Democratic
+1941,Lesbian ,Hispanic,0,0,Democratic
+1941,Lesbian ,White,0,0,Democratic
+1941,Lesbian ,Asian,1,0,Democratic
+1941,Lesbian ,Black,1,0,Democratic
+1941,Lesbian ,Hispanic,1,0,Democratic
+1941,Lesbian ,White,1,0,Democratic
+1941,Lesbian ,Asian,2,0,Democratic
+1941,Lesbian ,Black,2,0,Democratic
+1941,Lesbian ,Hispanic,2,0,Democratic
+1941,Lesbian ,White,2,0,Democratic
+1941,Straight,Asian,0,0,Democratic
+1941,Straight,Black,0,0,Democratic
+1941,Straight,Hispanic,0,0,Democratic
+1941,Straight,White,0,100,Democratic
+1941,Straight,Asian,1,0,Democratic
+1941,Straight,Black,1,0,Democratic
+1941,Straight,Hispanic,1,0,Democratic
+1941,Straight,White,1,100,Democratic
+1941,Straight,Asian,2,0,Democratic
+1941,Straight,Black,2,0,Democratic
+1941,Straight,Hispanic,2,0,Democratic
+1941,Straight,White,2,100,Democratic
+1942,Bisexual,Asian,0,0,Democratic
+1942,Bisexual,Black,0,0,Democratic
+1942,Bisexual,Hispanic,0,0,Democratic
+1942,Bisexual,White,0,0,Democratic
+1942,Bisexual,Asian,1,0,Democratic
+1942,Bisexual,Black,1,0,Democratic
+1942,Bisexual,Hispanic,1,0,Democratic
+1942,Bisexual,White,1,0,Democratic
+1942,Bisexual,Asian,2,0,Democratic
+1942,Bisexual,Black,2,0,Democratic
+1942,Bisexual,Hispanic,2,0,Democratic
+1942,Bisexual,White,2,0,Democratic
+1942,Gay     ,Asian,0,0,Democratic
+1942,Gay     ,Black,0,0,Democratic
+1942,Gay     ,Hispanic,0,0,Democratic
+1942,Gay     ,White,0,5,Democratic
+1942,Gay     ,Asian,1,0,Democratic
+1942,Gay     ,Black,1,0,Democratic
+1942,Gay     ,Hispanic,1,0,Democratic
+1942,Gay     ,White,1,0,Democratic
+1942,Gay     ,Asian,2,0,Democratic
+1942,Gay     ,Black,2,0,Democratic
+1942,Gay     ,Hispanic,2,0,Democratic
+1942,Gay     ,White,2,4,Democratic
+1942,Lesbian ,Asian,0,0,Democratic
+1942,Lesbian ,Black,0,0,Democratic
+1942,Lesbian ,Hispanic,0,0,Democratic
+1942,Lesbian ,White,0,0,Democratic
+1942,Lesbian ,Asian,1,0,Democratic
+1942,Lesbian ,Black,1,0,Democratic
+1942,Lesbian ,Hispanic,1,0,Democratic
+1942,Lesbian ,White,1,0,Democratic
+1942,Lesbian ,Asian,2,0,Democratic
+1942,Lesbian ,Black,2,0,Democratic
+1942,Lesbian ,Hispanic,2,0,Democratic
+1942,Lesbian ,White,2,0,Democratic
+1942,Straight,Asian,0,0,Democratic
+1942,Straight,Black,0,0,Democratic
+1942,Straight,Hispanic,0,0,Democratic
+1942,Straight,White,0,95,Democratic
+1942,Straight,Asian,1,0,Democratic
+1942,Straight,Black,1,0,Democratic
+1942,Straight,Hispanic,1,0,Democratic
+1942,Straight,White,1,100,Democratic
+1942,Straight,Asian,2,0,Democratic
+1942,Straight,Black,2,0,Democratic
+1942,Straight,Hispanic,2,0,Democratic
+1942,Straight,White,2,96,Democratic
+1943,Bisexual,Asian,0,0,Democratic
+1943,Bisexual,Black,0,0,Democratic
+1943,Bisexual,Hispanic,0,0,Democratic
+1943,Bisexual,White,0,0,Democratic
+1943,Bisexual,Asian,1,0,Democratic
+1943,Bisexual,Black,1,0,Democratic
+1943,Bisexual,Hispanic,1,0,Democratic
+1943,Bisexual,White,1,0,Democratic
+1943,Bisexual,Asian,2,0,Democratic
+1943,Bisexual,Black,2,0,Democratic
+1943,Bisexual,Hispanic,2,0,Democratic
+1943,Bisexual,White,2,0,Democratic
+1943,Gay     ,Asian,0,0,Democratic
+1943,Gay     ,Black,0,0,Democratic
+1943,Gay     ,Hispanic,0,0,Democratic
+1943,Gay     ,White,0,0,Democratic
+1943,Gay     ,Asian,1,0,Democratic
+1943,Gay     ,Black,1,0,Democratic
+1943,Gay     ,Hispanic,1,0,Democratic
+1943,Gay     ,White,1,0,Democratic
+1943,Gay     ,Asian,2,0,Democratic
+1943,Gay     ,Black,2,0,Democratic
+1943,Gay     ,Hispanic,2,0,Democratic
+1943,Gay     ,White,2,0,Democratic
+1943,Lesbian ,Asian,0,0,Democratic
+1943,Lesbian ,Black,0,0,Democratic
+1943,Lesbian ,Hispanic,0,0,Democratic
+1943,Lesbian ,White,0,0,Democratic
+1943,Lesbian ,Asian,1,0,Democratic
+1943,Lesbian ,Black,1,0,Democratic
+1943,Lesbian ,Hispanic,1,0,Democratic
+1943,Lesbian ,White,1,0,Democratic
+1943,Lesbian ,Asian,2,0,Democratic
+1943,Lesbian ,Black,2,0,Democratic
+1943,Lesbian ,Hispanic,2,0,Democratic
+1943,Lesbian ,White,2,0,Democratic
+1943,Straight,Asian,0,0,Democratic
+1943,Straight,Black,0,0,Democratic
+1943,Straight,Hispanic,0,0,Democratic
+1943,Straight,White,0,100,Democratic
+1943,Straight,Asian,1,0,Democratic
+1943,Straight,Black,1,0,Democratic
+1943,Straight,Hispanic,1,0,Democratic
+1943,Straight,White,1,100,Democratic
+1943,Straight,Asian,2,0,Democratic
+1943,Straight,Black,2,0,Democratic
+1943,Straight,Hispanic,2,0,Democratic
+1943,Straight,White,2,100,Democratic
+1944,Bisexual,Asian,0,0,Democratic
+1944,Bisexual,Black,0,0,Democratic
+1944,Bisexual,Hispanic,0,0,Democratic
+1944,Bisexual,White,0,0,Democratic
+1944,Bisexual,Asian,1,0,Democratic
+1944,Bisexual,Black,1,0,Democratic
+1944,Bisexual,Hispanic,1,0,Democratic
+1944,Bisexual,White,1,0,Democratic
+1944,Bisexual,Asian,2,0,Democratic
+1944,Bisexual,Black,2,0,Democratic
+1944,Bisexual,Hispanic,2,0,Democratic
+1944,Bisexual,White,2,0,Democratic
+1944,Gay     ,Asian,0,0,Democratic
+1944,Gay     ,Black,0,0,Democratic
+1944,Gay     ,Hispanic,0,0,Democratic
+1944,Gay     ,White,0,10,Democratic
+1944,Gay     ,Asian,1,0,Democratic
+1944,Gay     ,Black,1,0,Democratic
+1944,Gay     ,Hispanic,1,0,Democratic
+1944,Gay     ,White,1,0,Democratic
+1944,Gay     ,Asian,2,0,Democratic
+1944,Gay     ,Black,2,0,Democratic
+1944,Gay     ,Hispanic,2,0,Democratic
+1944,Gay     ,White,2,8,Democratic
+1944,Lesbian ,Asian,0,0,Democratic
+1944,Lesbian ,Black,0,0,Democratic
+1944,Lesbian ,Hispanic,0,0,Democratic
+1944,Lesbian ,White,0,0,Democratic
+1944,Lesbian ,Asian,1,0,Democratic
+1944,Lesbian ,Black,1,0,Democratic
+1944,Lesbian ,Hispanic,1,0,Democratic
+1944,Lesbian ,White,1,0,Democratic
+1944,Lesbian ,Asian,2,0,Democratic
+1944,Lesbian ,Black,2,0,Democratic
+1944,Lesbian ,Hispanic,2,0,Democratic
+1944,Lesbian ,White,2,0,Democratic
+1944,Straight,Asian,0,0,Democratic
+1944,Straight,Black,0,0,Democratic
+1944,Straight,Hispanic,0,0,Democratic
+1944,Straight,White,0,90,Democratic
+1944,Straight,Asian,1,0,Democratic
+1944,Straight,Black,1,0,Democratic
+1944,Straight,Hispanic,1,0,Democratic
+1944,Straight,White,1,100,Democratic
+1944,Straight,Asian,2,0,Democratic
+1944,Straight,Black,2,0,Democratic
+1944,Straight,Hispanic,2,0,Democratic
+1944,Straight,White,2,92,Democratic
+1945,Bisexual,Asian,0,0,Democratic
+1945,Bisexual,Black,0,0,Democratic
+1945,Bisexual,Hispanic,0,0,Democratic
+1945,Bisexual,White,0,0,Democratic
+1945,Bisexual,Asian,1,0,Democratic
+1945,Bisexual,Black,1,0,Democratic
+1945,Bisexual,Hispanic,1,0,Democratic
+1945,Bisexual,White,1,0,Democratic
+1945,Bisexual,Asian,2,0,Democratic
+1945,Bisexual,Black,2,0,Democratic
+1945,Bisexual,Hispanic,2,0,Democratic
+1945,Bisexual,White,2,0,Democratic
+1945,Gay     ,Asian,0,0,Democratic
+1945,Gay     ,Black,0,0,Democratic
+1945,Gay     ,Hispanic,0,0,Democratic
+1945,Gay     ,White,0,0,Democratic
+1945,Gay     ,Asian,1,0,Democratic
+1945,Gay     ,Black,1,0,Democratic
+1945,Gay     ,Hispanic,1,0,Democratic
+1945,Gay     ,White,1,0,Democratic
+1945,Gay     ,Asian,2,0,Democratic
+1945,Gay     ,Black,2,0,Democratic
+1945,Gay     ,Hispanic,2,0,Democratic
+1945,Gay     ,White,2,0,Democratic
+1945,Lesbian ,Asian,0,0,Democratic
+1945,Lesbian ,Black,0,0,Democratic
+1945,Lesbian ,Hispanic,0,0,Democratic
+1945,Lesbian ,White,0,0,Democratic
+1945,Lesbian ,Asian,1,0,Democratic
+1945,Lesbian ,Black,1,0,Democratic
+1945,Lesbian ,Hispanic,1,0,Democratic
+1945,Lesbian ,White,1,0,Democratic
+1945,Lesbian ,Asian,2,0,Democratic
+1945,Lesbian ,Black,2,0,Democratic
+1945,Lesbian ,Hispanic,2,0,Democratic
+1945,Lesbian ,White,2,0,Democratic
+1945,Straight,Asian,0,0,Democratic
+1945,Straight,Black,0,0,Democratic
+1945,Straight,Hispanic,0,0,Democratic
+1945,Straight,White,0,100,Democratic
+1945,Straight,Asian,1,0,Democratic
+1945,Straight,Black,1,0,Democratic
+1945,Straight,Hispanic,1,0,Democratic
+1945,Straight,White,1,100,Democratic
+1945,Straight,Asian,2,0,Democratic
+1945,Straight,Black,2,0,Democratic
+1945,Straight,Hispanic,2,0,Democratic
+1945,Straight,White,2,100,Democratic
+1946,Bisexual,Asian,0,0,Democratic
+1946,Bisexual,Black,0,0,Democratic
+1946,Bisexual,Hispanic,0,0,Democratic
+1946,Bisexual,White,0,0,Democratic
+1946,Bisexual,Asian,1,0,Democratic
+1946,Bisexual,Black,1,0,Democratic
+1946,Bisexual,Hispanic,1,0,Democratic
+1946,Bisexual,White,1,0,Democratic
+1946,Bisexual,Asian,2,0,Democratic
+1946,Bisexual,Black,2,0,Democratic
+1946,Bisexual,Hispanic,2,0,Democratic
+1946,Bisexual,White,2,0,Democratic
+1946,Gay     ,Asian,0,0,Democratic
+1946,Gay     ,Black,0,0,Democratic
+1946,Gay     ,Hispanic,0,0,Democratic
+1946,Gay     ,White,0,5,Democratic
+1946,Gay     ,Asian,1,0,Democratic
+1946,Gay     ,Black,1,0,Democratic
+1946,Gay     ,Hispanic,1,0,Democratic
+1946,Gay     ,White,1,0,Democratic
+1946,Gay     ,Asian,2,0,Democratic
+1946,Gay     ,Black,2,0,Democratic
+1946,Gay     ,Hispanic,2,0,Democratic
+1946,Gay     ,White,2,4,Democratic
+1946,Lesbian ,Asian,0,0,Democratic
+1946,Lesbian ,Black,0,0,Democratic
+1946,Lesbian ,Hispanic,0,0,Democratic
+1946,Lesbian ,White,0,0,Democratic
+1946,Lesbian ,Asian,1,0,Democratic
+1946,Lesbian ,Black,1,0,Democratic
+1946,Lesbian ,Hispanic,1,0,Democratic
+1946,Lesbian ,White,1,0,Democratic
+1946,Lesbian ,Asian,2,0,Democratic
+1946,Lesbian ,Black,2,0,Democratic
+1946,Lesbian ,Hispanic,2,0,Democratic
+1946,Lesbian ,White,2,0,Democratic
+1946,Straight,Asian,0,0,Democratic
+1946,Straight,Black,0,0,Democratic
+1946,Straight,Hispanic,0,0,Democratic
+1946,Straight,White,0,95,Democratic
+1946,Straight,Asian,1,0,Democratic
+1946,Straight,Black,1,0,Democratic
+1946,Straight,Hispanic,1,0,Democratic
+1946,Straight,White,1,100,Democratic
+1946,Straight,Asian,2,0,Democratic
+1946,Straight,Black,2,0,Democratic
+1946,Straight,Hispanic,2,0,Democratic
+1946,Straight,White,2,96,Democratic
+1947,Bisexual,Asian,0,0,Democratic
+1947,Bisexual,Black,0,0,Democratic
+1947,Bisexual,Hispanic,0,0,Democratic
+1947,Bisexual,White,0,5,Democratic
+1947,Bisexual,Asian,1,0,Democratic
+1947,Bisexual,Black,1,0,Democratic
+1947,Bisexual,Hispanic,1,0,Democratic
+1947,Bisexual,White,1,0,Democratic
+1947,Bisexual,Asian,2,0,Democratic
+1947,Bisexual,Black,2,0,Democratic
+1947,Bisexual,Hispanic,2,0,Democratic
+1947,Bisexual,White,2,4,Democratic
+1947,Gay     ,Asian,0,0,Democratic
+1947,Gay     ,Black,0,0,Democratic
+1947,Gay     ,Hispanic,0,0,Democratic
+1947,Gay     ,White,0,5,Democratic
+1947,Gay     ,Asian,1,0,Democratic
+1947,Gay     ,Black,1,0,Democratic
+1947,Gay     ,Hispanic,1,0,Democratic
+1947,Gay     ,White,1,0,Democratic
+1947,Gay     ,Asian,2,0,Democratic
+1947,Gay     ,Black,2,0,Democratic
+1947,Gay     ,Hispanic,2,0,Democratic
+1947,Gay     ,White,2,4,Democratic
+1947,Lesbian ,Asian,0,0,Democratic
+1947,Lesbian ,Black,0,0,Democratic
+1947,Lesbian ,Hispanic,0,0,Democratic
+1947,Lesbian ,White,0,0,Democratic
+1947,Lesbian ,Asian,1,0,Democratic
+1947,Lesbian ,Black,1,0,Democratic
+1947,Lesbian ,Hispanic,1,0,Democratic
+1947,Lesbian ,White,1,0,Democratic
+1947,Lesbian ,Asian,2,0,Democratic
+1947,Lesbian ,Black,2,0,Democratic
+1947,Lesbian ,Hispanic,2,0,Democratic
+1947,Lesbian ,White,2,0,Democratic
+1947,Straight,Asian,0,0,Democratic
+1947,Straight,Black,0,0,Democratic
+1947,Straight,Hispanic,0,0,Democratic
+1947,Straight,White,0,90,Democratic
+1947,Straight,Asian,1,0,Democratic
+1947,Straight,Black,1,0,Democratic
+1947,Straight,Hispanic,1,0,Democratic
+1947,Straight,White,1,100,Democratic
+1947,Straight,Asian,2,0,Democratic
+1947,Straight,Black,2,0,Democratic
+1947,Straight,Hispanic,2,0,Democratic
+1947,Straight,White,2,92,Democratic
+1948,Bisexual,Asian,0,0,Democratic
+1948,Bisexual,Black,0,0,Democratic
+1948,Bisexual,Hispanic,0,0,Democratic
+1948,Bisexual,White,0,0,Democratic
+1948,Bisexual,Asian,1,0,Democratic
+1948,Bisexual,Black,1,0,Democratic
+1948,Bisexual,Hispanic,1,0,Democratic
+1948,Bisexual,White,1,0,Democratic
+1948,Bisexual,Asian,2,0,Democratic
+1948,Bisexual,Black,2,0,Democratic
+1948,Bisexual,Hispanic,2,0,Democratic
+1948,Bisexual,White,2,0,Democratic
+1948,Gay     ,Asian,0,0,Democratic
+1948,Gay     ,Black,0,0,Democratic
+1948,Gay     ,Hispanic,0,0,Democratic
+1948,Gay     ,White,0,10,Democratic
+1948,Gay     ,Asian,1,0,Democratic
+1948,Gay     ,Black,1,0,Democratic
+1948,Gay     ,Hispanic,1,0,Democratic
+1948,Gay     ,White,1,0,Democratic
+1948,Gay     ,Asian,2,0,Democratic
+1948,Gay     ,Black,2,0,Democratic
+1948,Gay     ,Hispanic,2,0,Democratic
+1948,Gay     ,White,2,8,Democratic
+1948,Lesbian ,Asian,0,0,Democratic
+1948,Lesbian ,Black,0,0,Democratic
+1948,Lesbian ,Hispanic,0,0,Democratic
+1948,Lesbian ,White,0,0,Democratic
+1948,Lesbian ,Asian,1,0,Democratic
+1948,Lesbian ,Black,1,0,Democratic
+1948,Lesbian ,Hispanic,1,0,Democratic
+1948,Lesbian ,White,1,0,Democratic
+1948,Lesbian ,Asian,2,0,Democratic
+1948,Lesbian ,Black,2,0,Democratic
+1948,Lesbian ,Hispanic,2,0,Democratic
+1948,Lesbian ,White,2,0,Democratic
+1948,Straight,Asian,0,0,Democratic
+1948,Straight,Black,0,0,Democratic
+1948,Straight,Hispanic,0,4.5,Democratic
+1948,Straight,White,0,85.5,Democratic
+1948,Straight,Asian,1,0,Democratic
+1948,Straight,Black,1,0,Democratic
+1948,Straight,Hispanic,1,0,Democratic
+1948,Straight,White,1,100,Democratic
+1948,Straight,Asian,2,0,Democratic
+1948,Straight,Black,2,0,Democratic
+1948,Straight,Hispanic,2,4.6,Democratic
+1948,Straight,White,2,87.4,Democratic
+1949,Bisexual,Asian,0,0,Democratic
+1949,Bisexual,Black,0,0,Democratic
+1949,Bisexual,Hispanic,0,0,Democratic
+1949,Bisexual,White,0,0,Democratic
+1949,Bisexual,Asian,1,0,Democratic
+1949,Bisexual,Black,1,0,Democratic
+1949,Bisexual,Hispanic,1,0,Democratic
+1949,Bisexual,White,1,0,Democratic
+1949,Bisexual,Asian,2,0,Democratic
+1949,Bisexual,Black,2,0,Democratic
+1949,Bisexual,Hispanic,2,0,Democratic
+1949,Bisexual,White,2,0,Democratic
+1949,Gay     ,Asian,0,0,Democratic
+1949,Gay     ,Black,0,0,Democratic
+1949,Gay     ,Hispanic,0,0,Democratic
+1949,Gay     ,White,0,0,Democratic
+1949,Gay     ,Asian,1,0,Democratic
+1949,Gay     ,Black,1,0,Democratic
+1949,Gay     ,Hispanic,1,0,Democratic
+1949,Gay     ,White,1,0,Democratic
+1949,Gay     ,Asian,2,0,Democratic
+1949,Gay     ,Black,2,0,Democratic
+1949,Gay     ,Hispanic,2,0,Democratic
+1949,Gay     ,White,2,0,Democratic
+1949,Lesbian ,Asian,0,0,Democratic
+1949,Lesbian ,Black,0,0,Democratic
+1949,Lesbian ,Hispanic,0,0,Democratic
+1949,Lesbian ,White,0,0,Democratic
+1949,Lesbian ,Asian,1,0,Democratic
+1949,Lesbian ,Black,1,0,Democratic
+1949,Lesbian ,Hispanic,1,0,Democratic
+1949,Lesbian ,White,1,0,Democratic
+1949,Lesbian ,Asian,2,0,Democratic
+1949,Lesbian ,Black,2,0,Democratic
+1949,Lesbian ,Hispanic,2,0,Democratic
+1949,Lesbian ,White,2,0,Democratic
+1949,Straight,Asian,0,0,Democratic
+1949,Straight,Black,0,5,Democratic
+1949,Straight,Hispanic,0,0,Democratic
+1949,Straight,White,0,95,Democratic
+1949,Straight,Asian,1,0,Democratic
+1949,Straight,Black,1,0,Democratic
+1949,Straight,Hispanic,1,0,Democratic
+1949,Straight,White,1,100,Democratic
+1949,Straight,Asian,2,0,Democratic
+1949,Straight,Black,2,4,Democratic
+1949,Straight,Hispanic,2,0,Democratic
+1949,Straight,White,2,96,Democratic
+1950,Bisexual,Asian,0,0,Democratic
+1950,Bisexual,Black,0,0,Democratic
+1950,Bisexual,Hispanic,0,0,Democratic
+1950,Bisexual,White,0,0,Democratic
+1950,Bisexual,Asian,1,0,Democratic
+1950,Bisexual,Black,1,0,Democratic
+1950,Bisexual,Hispanic,1,0,Democratic
+1950,Bisexual,White,1,0,Democratic
+1950,Bisexual,Asian,2,0,Democratic
+1950,Bisexual,Black,2,0,Democratic
+1950,Bisexual,Hispanic,2,0,Democratic
+1950,Bisexual,White,2,0,Democratic
+1950,Gay     ,Asian,0,0,Democratic
+1950,Gay     ,Black,0,0,Democratic
+1950,Gay     ,Hispanic,0,0,Democratic
+1950,Gay     ,White,0,5,Democratic
+1950,Gay     ,Asian,1,0,Democratic
+1950,Gay     ,Black,1,0,Democratic
+1950,Gay     ,Hispanic,1,0,Democratic
+1950,Gay     ,White,1,0,Democratic
+1950,Gay     ,Asian,2,0,Democratic
+1950,Gay     ,Black,2,0,Democratic
+1950,Gay     ,Hispanic,2,0,Democratic
+1950,Gay     ,White,2,4,Democratic
+1950,Lesbian ,Asian,0,0,Democratic
+1950,Lesbian ,Black,0,0,Democratic
+1950,Lesbian ,Hispanic,0,0,Democratic
+1950,Lesbian ,White,0,0,Democratic
+1950,Lesbian ,Asian,1,0,Democratic
+1950,Lesbian ,Black,1,0,Democratic
+1950,Lesbian ,Hispanic,1,0,Democratic
+1950,Lesbian ,White,1,0,Democratic
+1950,Lesbian ,Asian,2,0,Democratic
+1950,Lesbian ,Black,2,0,Democratic
+1950,Lesbian ,Hispanic,2,0,Democratic
+1950,Lesbian ,White,2,0,Democratic
+1950,Straight,Asian,0,0,Democratic
+1950,Straight,Black,0,0,Democratic
+1950,Straight,Hispanic,0,0,Democratic
+1950,Straight,White,0,95,Democratic
+1950,Straight,Asian,1,0,Democratic
+1950,Straight,Black,1,0,Democratic
+1950,Straight,Hispanic,1,20,Democratic
+1950,Straight,White,1,80,Democratic
+1950,Straight,Asian,2,0,Democratic
+1950,Straight,Black,2,0,Democratic
+1950,Straight,Hispanic,2,4,Democratic
+1950,Straight,White,2,92,Democratic
+1951,Bisexual,Asian,0,0,Democratic
+1951,Bisexual,Black,0,0,Democratic
+1951,Bisexual,Hispanic,0,0,Democratic
+1951,Bisexual,White,0,10,Democratic
+1951,Bisexual,Asian,1,0,Democratic
+1951,Bisexual,Black,1,0,Democratic
+1951,Bisexual,Hispanic,1,0,Democratic
+1951,Bisexual,White,1,0,Democratic
+1951,Bisexual,Asian,2,0,Democratic
+1951,Bisexual,Black,2,0,Democratic
+1951,Bisexual,Hispanic,2,0,Democratic
+1951,Bisexual,White,2,8,Democratic
+1951,Gay     ,Asian,0,0,Democratic
+1951,Gay     ,Black,0,0,Democratic
+1951,Gay     ,Hispanic,0,0,Democratic
+1951,Gay     ,White,0,5,Democratic
+1951,Gay     ,Asian,1,0,Democratic
+1951,Gay     ,Black,1,0,Democratic
+1951,Gay     ,Hispanic,1,0,Democratic
+1951,Gay     ,White,1,0,Democratic
+1951,Gay     ,Asian,2,0,Democratic
+1951,Gay     ,Black,2,0,Democratic
+1951,Gay     ,Hispanic,2,0,Democratic
+1951,Gay     ,White,2,4,Democratic
+1951,Lesbian ,Asian,0,0,Democratic
+1951,Lesbian ,Black,0,0,Democratic
+1951,Lesbian ,Hispanic,0,0,Democratic
+1951,Lesbian ,White,0,0,Democratic
+1951,Lesbian ,Asian,1,0,Democratic
+1951,Lesbian ,Black,1,0,Democratic
+1951,Lesbian ,Hispanic,1,0,Democratic
+1951,Lesbian ,White,1,0,Democratic
+1951,Lesbian ,Asian,2,0,Democratic
+1951,Lesbian ,Black,2,0,Democratic
+1951,Lesbian ,Hispanic,2,0,Democratic
+1951,Lesbian ,White,2,0,Democratic
+1951,Straight,Asian,0,0,Democratic
+1951,Straight,Black,0,0,Democratic
+1951,Straight,Hispanic,0,0,Democratic
+1951,Straight,White,0,85,Democratic
+1951,Straight,Asian,1,0,Democratic
+1951,Straight,Black,1,0,Democratic
+1951,Straight,Hispanic,1,0,Democratic
+1951,Straight,White,1,100,Democratic
+1951,Straight,Asian,2,0,Democratic
+1951,Straight,Black,2,0,Democratic
+1951,Straight,Hispanic,2,0,Democratic
+1951,Straight,White,2,88,Democratic
+1952,Bisexual,Asian,0,0,Democratic
+1952,Bisexual,Black,0,0,Democratic
+1952,Bisexual,Hispanic,0,0,Democratic
+1952,Bisexual,White,0,5,Democratic
+1952,Bisexual,Asian,1,0,Democratic
+1952,Bisexual,Black,1,0,Democratic
+1952,Bisexual,Hispanic,1,0,Democratic
+1952,Bisexual,White,1,0,Democratic
+1952,Bisexual,Asian,2,0,Democratic
+1952,Bisexual,Black,2,0,Democratic
+1952,Bisexual,Hispanic,2,0,Democratic
+1952,Bisexual,White,2,4,Democratic
+1952,Gay     ,Asian,0,0,Democratic
+1952,Gay     ,Black,0,0,Democratic
+1952,Gay     ,Hispanic,0,0,Democratic
+1952,Gay     ,White,0,0,Democratic
+1952,Gay     ,Asian,1,0,Democratic
+1952,Gay     ,Black,1,0,Democratic
+1952,Gay     ,Hispanic,1,0,Democratic
+1952,Gay     ,White,1,0,Democratic
+1952,Gay     ,Asian,2,0,Democratic
+1952,Gay     ,Black,2,0,Democratic
+1952,Gay     ,Hispanic,2,0,Democratic
+1952,Gay     ,White,2,0,Democratic
+1952,Lesbian ,Asian,0,0,Democratic
+1952,Lesbian ,Black,0,0,Democratic
+1952,Lesbian ,Hispanic,0,0,Democratic
+1952,Lesbian ,White,0,0,Democratic
+1952,Lesbian ,Asian,1,0,Democratic
+1952,Lesbian ,Black,1,0,Democratic
+1952,Lesbian ,Hispanic,1,0,Democratic
+1952,Lesbian ,White,1,0,Democratic
+1952,Lesbian ,Asian,2,0,Democratic
+1952,Lesbian ,Black,2,0,Democratic
+1952,Lesbian ,Hispanic,2,0,Democratic
+1952,Lesbian ,White,2,0,Democratic
+1952,Straight,Asian,0,0,Democratic
+1952,Straight,Black,0,0,Democratic
+1952,Straight,Hispanic,0,4.75,Democratic
+1952,Straight,White,0,90.25,Democratic
+1952,Straight,Asian,1,0,Democratic
+1952,Straight,Black,1,0,Democratic
+1952,Straight,Hispanic,1,20,Democratic
+1952,Straight,White,1,80,Democratic
+1952,Straight,Asian,2,0,Democratic
+1952,Straight,Black,2,0,Democratic
+1952,Straight,Hispanic,2,7.68,Democratic
+1952,Straight,White,2,88.32,Democratic
+1953,Bisexual,Asian,0,0,Republican
+1953,Bisexual,Black,0,0,Republican
+1953,Bisexual,Hispanic,0,0,Republican
+1953,Bisexual,White,0,5,Republican
+1953,Bisexual,Asian,1,0,Republican
+1953,Bisexual,Black,1,0,Republican
+1953,Bisexual,Hispanic,1,0,Republican
+1953,Bisexual,White,1,0,Republican
+1953,Bisexual,Asian,2,0,Republican
+1953,Bisexual,Black,2,0,Republican
+1953,Bisexual,Hispanic,2,0,Republican
+1953,Bisexual,White,2,4,Republican
+1953,Gay     ,Asian,0,0,Republican
+1953,Gay     ,Black,0,0,Republican
+1953,Gay     ,Hispanic,0,0,Republican
+1953,Gay     ,White,0,10,Republican
+1953,Gay     ,Asian,1,0,Republican
+1953,Gay     ,Black,1,0,Republican
+1953,Gay     ,Hispanic,1,0,Republican
+1953,Gay     ,White,1,0,Republican
+1953,Gay     ,Asian,2,0,Republican
+1953,Gay     ,Black,2,0,Republican
+1953,Gay     ,Hispanic,2,0,Republican
+1953,Gay     ,White,2,8,Republican
+1953,Lesbian ,Asian,0,0,Republican
+1953,Lesbian ,Black,0,0,Republican
+1953,Lesbian ,Hispanic,0,0,Republican
+1953,Lesbian ,White,0,0,Republican
+1953,Lesbian ,Asian,1,0,Republican
+1953,Lesbian ,Black,1,0,Republican
+1953,Lesbian ,Hispanic,1,0,Republican
+1953,Lesbian ,White,1,0,Republican
+1953,Lesbian ,Asian,2,0,Republican
+1953,Lesbian ,Black,2,0,Republican
+1953,Lesbian ,Hispanic,2,0,Republican
+1953,Lesbian ,White,2,0,Republican
+1953,Straight,Asian,0,0,Republican
+1953,Straight,Black,0,0,Republican
+1953,Straight,Hispanic,0,0,Republican
+1953,Straight,White,0,85,Republican
+1953,Straight,Asian,1,0,Republican
+1953,Straight,Black,1,0,Republican
+1953,Straight,Hispanic,1,0,Republican
+1953,Straight,White,1,100,Republican
+1953,Straight,Asian,2,0,Republican
+1953,Straight,Black,2,0,Republican
+1953,Straight,Hispanic,2,0,Republican
+1953,Straight,White,2,88,Republican
+1954,Bisexual,Asian,0,0,Republican
+1954,Bisexual,Black,0,0,Republican
+1954,Bisexual,Hispanic,0,0,Republican
+1954,Bisexual,White,0,0,Republican
+1954,Bisexual,Asian,1,0,Republican
+1954,Bisexual,Black,1,0,Republican
+1954,Bisexual,Hispanic,1,0,Republican
+1954,Bisexual,White,1,20,Republican
+1954,Bisexual,Asian,2,0,Republican
+1954,Bisexual,Black,2,0,Republican
+1954,Bisexual,Hispanic,2,0,Republican
+1954,Bisexual,White,2,4,Republican
+1954,Gay     ,Asian,0,0,Republican
+1954,Gay     ,Black,0,0,Republican
+1954,Gay     ,Hispanic,0,0,Republican
+1954,Gay     ,White,0,0,Republican
+1954,Gay     ,Asian,1,0,Republican
+1954,Gay     ,Black,1,0,Republican
+1954,Gay     ,Hispanic,1,0,Republican
+1954,Gay     ,White,1,0,Republican
+1954,Gay     ,Asian,2,0,Republican
+1954,Gay     ,Black,2,0,Republican
+1954,Gay     ,Hispanic,2,0,Republican
+1954,Gay     ,White,2,0,Republican
+1954,Lesbian ,Asian,0,0,Republican
+1954,Lesbian ,Black,0,0,Republican
+1954,Lesbian ,Hispanic,0,0,Republican
+1954,Lesbian ,White,0,0,Republican
+1954,Lesbian ,Asian,1,0,Republican
+1954,Lesbian ,Black,1,0,Republican
+1954,Lesbian ,Hispanic,1,0,Republican
+1954,Lesbian ,White,1,0,Republican
+1954,Lesbian ,Asian,2,0,Republican
+1954,Lesbian ,Black,2,0,Republican
+1954,Lesbian ,Hispanic,2,0,Republican
+1954,Lesbian ,White,2,0,Republican
+1954,Straight,Asian,0,0,Republican
+1954,Straight,Black,0,5,Republican
+1954,Straight,Hispanic,0,5,Republican
+1954,Straight,White,0,90,Republican
+1954,Straight,Asian,1,0,Republican
+1954,Straight,Black,1,0,Republican
+1954,Straight,Hispanic,1,0,Republican
+1954,Straight,White,1,80,Republican
+1954,Straight,Asian,2,0,Republican
+1954,Straight,Black,2,3.84,Republican
+1954,Straight,Hispanic,2,3.84,Republican
+1954,Straight,White,2,88.32,Republican
+1955,Bisexual,Asian,0,0,Republican
+1955,Bisexual,Black,0,0,Republican
+1955,Bisexual,Hispanic,0,0,Republican
+1955,Bisexual,White,0,5,Republican
+1955,Bisexual,Asian,1,0,Republican
+1955,Bisexual,Black,1,0,Republican
+1955,Bisexual,Hispanic,1,0,Republican
+1955,Bisexual,White,1,0,Republican
+1955,Bisexual,Asian,2,0,Republican
+1955,Bisexual,Black,2,0,Republican
+1955,Bisexual,Hispanic,2,0,Republican
+1955,Bisexual,White,2,4,Republican
+1955,Gay     ,Asian,0,0,Republican
+1955,Gay     ,Black,0,0,Republican
+1955,Gay     ,Hispanic,0,0,Republican
+1955,Gay     ,White,0,0,Republican
+1955,Gay     ,Asian,1,0,Republican
+1955,Gay     ,Black,1,0,Republican
+1955,Gay     ,Hispanic,1,0,Republican
+1955,Gay     ,White,1,0,Republican
+1955,Gay     ,Asian,2,0,Republican
+1955,Gay     ,Black,2,0,Republican
+1955,Gay     ,Hispanic,2,0,Republican
+1955,Gay     ,White,2,0,Republican
+1955,Lesbian ,Asian,0,0,Republican
+1955,Lesbian ,Black,0,0,Republican
+1955,Lesbian ,Hispanic,0,0,Republican
+1955,Lesbian ,White,0,0,Republican
+1955,Lesbian ,Asian,1,0,Republican
+1955,Lesbian ,Black,1,0,Republican
+1955,Lesbian ,Hispanic,1,0,Republican
+1955,Lesbian ,White,1,0,Republican
+1955,Lesbian ,Asian,2,0,Republican
+1955,Lesbian ,Black,2,0,Republican
+1955,Lesbian ,Hispanic,2,0,Republican
+1955,Lesbian ,White,2,0,Republican
+1955,Straight,Asian,0,0,Republican
+1955,Straight,Black,0,0,Republican
+1955,Straight,Hispanic,0,0,Republican
+1955,Straight,White,0,95,Republican
+1955,Straight,Asian,1,0,Republican
+1955,Straight,Black,1,0,Republican
+1955,Straight,Hispanic,1,0,Republican
+1955,Straight,White,1,100,Republican
+1955,Straight,Asian,2,0,Republican
+1955,Straight,Black,2,0,Republican
+1955,Straight,Hispanic,2,0,Republican
+1955,Straight,White,2,96,Republican
+1956,Bisexual,Asian,0,0,Republican
+1956,Bisexual,Black,0,0,Republican
+1956,Bisexual,Hispanic,0,0,Republican
+1956,Bisexual,White,0,5,Republican
+1956,Bisexual,Asian,1,0,Republican
+1956,Bisexual,Black,1,0,Republican
+1956,Bisexual,Hispanic,1,0,Republican
+1956,Bisexual,White,1,0,Republican
+1956,Bisexual,Asian,2,0,Republican
+1956,Bisexual,Black,2,0,Republican
+1956,Bisexual,Hispanic,2,0,Republican
+1956,Bisexual,White,2,4,Republican
+1956,Gay     ,Asian,0,0,Republican
+1956,Gay     ,Black,0,0,Republican
+1956,Gay     ,Hispanic,0,0,Republican
+1956,Gay     ,White,0,5,Republican
+1956,Gay     ,Asian,1,0,Republican
+1956,Gay     ,Black,1,0,Republican
+1956,Gay     ,Hispanic,1,0,Republican
+1956,Gay     ,White,1,0,Republican
+1956,Gay     ,Asian,2,0,Republican
+1956,Gay     ,Black,2,0,Republican
+1956,Gay     ,Hispanic,2,0,Republican
+1956,Gay     ,White,2,4,Republican
+1956,Lesbian ,Asian,0,0,Republican
+1956,Lesbian ,Black,0,0,Republican
+1956,Lesbian ,Hispanic,0,0,Republican
+1956,Lesbian ,White,0,0,Republican
+1956,Lesbian ,Asian,1,0,Republican
+1956,Lesbian ,Black,1,0,Republican
+1956,Lesbian ,Hispanic,1,0,Republican
+1956,Lesbian ,White,1,0,Republican
+1956,Lesbian ,Asian,2,0,Republican
+1956,Lesbian ,Black,2,0,Republican
+1956,Lesbian ,Hispanic,2,0,Republican
+1956,Lesbian ,White,2,0,Republican
+1956,Straight,Asian,0,0,Republican
+1956,Straight,Black,0,0,Republican
+1956,Straight,Hispanic,0,0,Republican
+1956,Straight,White,0,90,Republican
+1956,Straight,Asian,1,0,Republican
+1956,Straight,Black,1,0,Republican
+1956,Straight,Hispanic,1,20,Republican
+1956,Straight,White,1,80,Republican
+1956,Straight,Asian,2,0,Republican
+1956,Straight,Black,2,0,Republican
+1956,Straight,Hispanic,2,3.68,Republican
+1956,Straight,White,2,88.32,Republican
+1957,Bisexual,Asian,0,0,Republican
+1957,Bisexual,Black,0,0,Republican
+1957,Bisexual,Hispanic,0,0,Republican
+1957,Bisexual,White,0,5,Republican
+1957,Bisexual,Asian,1,0,Republican
+1957,Bisexual,Black,1,0,Republican
+1957,Bisexual,Hispanic,1,0,Republican
+1957,Bisexual,White,1,0,Republican
+1957,Bisexual,Asian,2,0,Republican
+1957,Bisexual,Black,2,0,Republican
+1957,Bisexual,Hispanic,2,0,Republican
+1957,Bisexual,White,2,4,Republican
+1957,Gay     ,Asian,0,0,Republican
+1957,Gay     ,Black,0,0,Republican
+1957,Gay     ,Hispanic,0,0,Republican
+1957,Gay     ,White,0,0,Republican
+1957,Gay     ,Asian,1,0,Republican
+1957,Gay     ,Black,1,0,Republican
+1957,Gay     ,Hispanic,1,0,Republican
+1957,Gay     ,White,1,0,Republican
+1957,Gay     ,Asian,2,0,Republican
+1957,Gay     ,Black,2,0,Republican
+1957,Gay     ,Hispanic,2,0,Republican
+1957,Gay     ,White,2,0,Republican
+1957,Lesbian ,Asian,0,0,Republican
+1957,Lesbian ,Black,0,0,Republican
+1957,Lesbian ,Hispanic,0,0,Republican
+1957,Lesbian ,White,0,0,Republican
+1957,Lesbian ,Asian,1,0,Republican
+1957,Lesbian ,Black,1,0,Republican
+1957,Lesbian ,Hispanic,1,0,Republican
+1957,Lesbian ,White,1,0,Republican
+1957,Lesbian ,Asian,2,0,Republican
+1957,Lesbian ,Black,2,0,Republican
+1957,Lesbian ,Hispanic,2,0,Republican
+1957,Lesbian ,White,2,0,Republican
+1957,Straight,Asian,0,4.75,Republican
+1957,Straight,Black,0,0,Republican
+1957,Straight,Hispanic,0,4.75,Republican
+1957,Straight,White,0,85.5,Republican
+1957,Straight,Asian,1,20,Republican
+1957,Straight,Black,1,0,Republican
+1957,Straight,Hispanic,1,0,Republican
+1957,Straight,White,1,80,Republican
+1957,Straight,Asian,2,3.84,Republican
+1957,Straight,Black,2,0,Republican
+1957,Straight,Hispanic,2,3.84,Republican
+1957,Straight,White,2,84.48,Republican
+1958,Bisexual,Asian,0,0,Republican
+1958,Bisexual,Black,0,0,Republican
+1958,Bisexual,Hispanic,0,0,Republican
+1958,Bisexual,White,0,0,Republican
+1958,Bisexual,Asian,1,0,Republican
+1958,Bisexual,Black,1,0,Republican
+1958,Bisexual,Hispanic,1,0,Republican
+1958,Bisexual,White,1,20,Republican
+1958,Bisexual,Asian,2,0,Republican
+1958,Bisexual,Black,2,0,Republican
+1958,Bisexual,Hispanic,2,0,Republican
+1958,Bisexual,White,2,4,Republican
+1958,Gay     ,Asian,0,0,Republican
+1958,Gay     ,Black,0,0,Republican
+1958,Gay     ,Hispanic,0,0,Republican
+1958,Gay     ,White,0,0,Republican
+1958,Gay     ,Asian,1,0,Republican
+1958,Gay     ,Black,1,0,Republican
+1958,Gay     ,Hispanic,1,0,Republican
+1958,Gay     ,White,1,0,Republican
+1958,Gay     ,Asian,2,0,Republican
+1958,Gay     ,Black,2,0,Republican
+1958,Gay     ,Hispanic,2,0,Republican
+1958,Gay     ,White,2,0,Republican
+1958,Lesbian ,Asian,0,0,Republican
+1958,Lesbian ,Black,0,0,Republican
+1958,Lesbian ,Hispanic,0,0,Republican
+1958,Lesbian ,White,0,0,Republican
+1958,Lesbian ,Asian,1,0,Republican
+1958,Lesbian ,Black,1,0,Republican
+1958,Lesbian ,Hispanic,1,0,Republican
+1958,Lesbian ,White,1,0,Republican
+1958,Lesbian ,Asian,2,0,Republican
+1958,Lesbian ,Black,2,0,Republican
+1958,Lesbian ,Hispanic,2,0,Republican
+1958,Lesbian ,White,2,0,Republican
+1958,Straight,Asian,0,0,Republican
+1958,Straight,Black,0,5,Republican
+1958,Straight,Hispanic,0,0,Republican
+1958,Straight,White,0,95,Republican
+1958,Straight,Asian,1,0,Republican
+1958,Straight,Black,1,0,Republican
+1958,Straight,Hispanic,1,0,Republican
+1958,Straight,White,1,80,Republican
+1958,Straight,Asian,2,0,Republican
+1958,Straight,Black,2,3.84,Republican
+1958,Straight,Hispanic,2,0,Republican
+1958,Straight,White,2,92.16,Republican
+1959,Bisexual,Asian,0,0,Republican
+1959,Bisexual,Black,0,0,Republican
+1959,Bisexual,Hispanic,0,0,Republican
+1959,Bisexual,White,0,0,Republican
+1959,Bisexual,Asian,1,0,Republican
+1959,Bisexual,Black,1,0,Republican
+1959,Bisexual,Hispanic,1,0,Republican
+1959,Bisexual,White,1,0,Republican
+1959,Bisexual,Asian,2,0,Republican
+1959,Bisexual,Black,2,0,Republican
+1959,Bisexual,Hispanic,2,0,Republican
+1959,Bisexual,White,2,0,Republican
+1959,Gay     ,Asian,0,0,Republican
+1959,Gay     ,Black,0,0,Republican
+1959,Gay     ,Hispanic,0,0,Republican
+1959,Gay     ,White,0,0,Republican
+1959,Gay     ,Asian,1,0,Republican
+1959,Gay     ,Black,1,0,Republican
+1959,Gay     ,Hispanic,1,0,Republican
+1959,Gay     ,White,1,0,Republican
+1959,Gay     ,Asian,2,0,Republican
+1959,Gay     ,Black,2,0,Republican
+1959,Gay     ,Hispanic,2,0,Republican
+1959,Gay     ,White,2,0,Republican
+1959,Lesbian ,Asian,0,0,Republican
+1959,Lesbian ,Black,0,0,Republican
+1959,Lesbian ,Hispanic,0,0,Republican
+1959,Lesbian ,White,0,0,Republican
+1959,Lesbian ,Asian,1,0,Republican
+1959,Lesbian ,Black,1,0,Republican
+1959,Lesbian ,Hispanic,1,0,Republican
+1959,Lesbian ,White,1,0,Republican
+1959,Lesbian ,Asian,2,0,Republican
+1959,Lesbian ,Black,2,0,Republican
+1959,Lesbian ,Hispanic,2,0,Republican
+1959,Lesbian ,White,2,0,Republican
+1959,Straight,Asian,0,0,Republican
+1959,Straight,Black,0,0,Republican
+1959,Straight,Hispanic,0,0,Republican
+1959,Straight,White,0,100,Republican
+1959,Straight,Asian,1,0,Republican
+1959,Straight,Black,1,0,Republican
+1959,Straight,Hispanic,1,0,Republican
+1959,Straight,White,1,100,Republican
+1959,Straight,Asian,2,0,Republican
+1959,Straight,Black,2,0,Republican
+1959,Straight,Hispanic,2,0,Republican
+1959,Straight,White,2,100,Republican
+1960,Bisexual,Asian,0,0,Republican
+1960,Bisexual,Black,0,0,Republican
+1960,Bisexual,Hispanic,0,0,Republican
+1960,Bisexual,White,0,5,Republican
+1960,Bisexual,Asian,1,0,Republican
+1960,Bisexual,Black,1,0,Republican
+1960,Bisexual,Hispanic,1,0,Republican
+1960,Bisexual,White,1,0,Republican
+1960,Bisexual,Asian,2,0,Republican
+1960,Bisexual,Black,2,0,Republican
+1960,Bisexual,Hispanic,2,0,Republican
+1960,Bisexual,White,2,4,Republican
+1960,Gay     ,Asian,0,0,Republican
+1960,Gay     ,Black,0,0,Republican
+1960,Gay     ,Hispanic,0,0,Republican
+1960,Gay     ,White,0,0,Republican
+1960,Gay     ,Asian,1,0,Republican
+1960,Gay     ,Black,1,0,Republican
+1960,Gay     ,Hispanic,1,0,Republican
+1960,Gay     ,White,1,0,Republican
+1960,Gay     ,Asian,2,0,Republican
+1960,Gay     ,Black,2,0,Republican
+1960,Gay     ,Hispanic,2,0,Republican
+1960,Gay     ,White,2,0,Republican
+1960,Lesbian ,Asian,0,0,Republican
+1960,Lesbian ,Black,0,0,Republican
+1960,Lesbian ,Hispanic,0,0,Republican
+1960,Lesbian ,White,0,0,Republican
+1960,Lesbian ,Asian,1,0,Republican
+1960,Lesbian ,Black,1,0,Republican
+1960,Lesbian ,Hispanic,1,0,Republican
+1960,Lesbian ,White,1,0,Republican
+1960,Lesbian ,Asian,2,0,Republican
+1960,Lesbian ,Black,2,0,Republican
+1960,Lesbian ,Hispanic,2,0,Republican
+1960,Lesbian ,White,2,0,Republican
+1960,Straight,Asian,0,0,Republican
+1960,Straight,Black,0,0,Republican
+1960,Straight,Hispanic,0,0,Republican
+1960,Straight,White,0,95,Republican
+1960,Straight,Asian,1,0,Republican
+1960,Straight,Black,1,0,Republican
+1960,Straight,Hispanic,1,0,Republican
+1960,Straight,White,1,100,Republican
+1960,Straight,Asian,2,0,Republican
+1960,Straight,Black,2,0,Republican
+1960,Straight,Hispanic,2,0,Republican
+1960,Straight,White,2,96,Republican
+1961,Bisexual,Asian,0,0,Democratic
+1961,Bisexual,Black,0,0,Democratic
+1961,Bisexual,Hispanic,0,0,Democratic
+1961,Bisexual,White,0,0,Democratic
+1961,Bisexual,Asian,1,0,Democratic
+1961,Bisexual,Black,1,0,Democratic
+1961,Bisexual,Hispanic,1,0,Democratic
+1961,Bisexual,White,1,0,Democratic
+1961,Bisexual,Asian,2,0,Democratic
+1961,Bisexual,Black,2,0,Democratic
+1961,Bisexual,Hispanic,2,0,Democratic
+1961,Bisexual,White,2,0,Democratic
+1961,Gay     ,Asian,0,0,Democratic
+1961,Gay     ,Black,0,0,Democratic
+1961,Gay     ,Hispanic,0,0,Democratic
+1961,Gay     ,White,0,5,Democratic
+1961,Gay     ,Asian,1,0,Democratic
+1961,Gay     ,Black,1,0,Democratic
+1961,Gay     ,Hispanic,1,0,Democratic
+1961,Gay     ,White,1,20,Democratic
+1961,Gay     ,Asian,2,0,Democratic
+1961,Gay     ,Black,2,0,Democratic
+1961,Gay     ,Hispanic,2,0,Democratic
+1961,Gay     ,White,2,8,Democratic
+1961,Lesbian ,Asian,0,0,Democratic
+1961,Lesbian ,Black,0,0,Democratic
+1961,Lesbian ,Hispanic,0,0,Democratic
+1961,Lesbian ,White,0,0,Democratic
+1961,Lesbian ,Asian,1,0,Democratic
+1961,Lesbian ,Black,1,0,Democratic
+1961,Lesbian ,Hispanic,1,0,Democratic
+1961,Lesbian ,White,1,0,Democratic
+1961,Lesbian ,Asian,2,0,Democratic
+1961,Lesbian ,Black,2,0,Democratic
+1961,Lesbian ,Hispanic,2,0,Democratic
+1961,Lesbian ,White,2,0,Democratic
+1961,Straight,Asian,0,0,Democratic
+1961,Straight,Black,0,0,Democratic
+1961,Straight,Hispanic,0,0,Democratic
+1961,Straight,White,0,95,Democratic
+1961,Straight,Asian,1,0,Democratic
+1961,Straight,Black,1,0,Democratic
+1961,Straight,Hispanic,1,13.33,Democratic
+1961,Straight,White,1,66.66,Democratic
+1961,Straight,Asian,2,0,Democratic
+1961,Straight,Black,2,0,Democratic
+1961,Straight,Hispanic,2,3.07,Democratic
+1961,Straight,White,2,88.93,Democratic
+1962,Bisexual,Asian,0,0,Democratic
+1962,Bisexual,Black,0,0,Democratic
+1962,Bisexual,Hispanic,0,0,Democratic
+1962,Bisexual,White,0,0,Democratic
+1962,Bisexual,Asian,1,0,Democratic
+1962,Bisexual,Black,1,0,Democratic
+1962,Bisexual,Hispanic,1,0,Democratic
+1962,Bisexual,White,1,0,Democratic
+1962,Bisexual,Asian,2,0,Democratic
+1962,Bisexual,Black,2,0,Democratic
+1962,Bisexual,Hispanic,2,0,Democratic
+1962,Bisexual,White,2,0,Democratic
+1962,Gay     ,Asian,0,0,Democratic
+1962,Gay     ,Black,0,0,Democratic
+1962,Gay     ,Hispanic,0,0,Democratic
+1962,Gay     ,White,0,5,Democratic
+1962,Gay     ,Asian,1,0,Democratic
+1962,Gay     ,Black,1,0,Democratic
+1962,Gay     ,Hispanic,1,0,Democratic
+1962,Gay     ,White,1,0,Democratic
+1962,Gay     ,Asian,2,0,Democratic
+1962,Gay     ,Black,2,0,Democratic
+1962,Gay     ,Hispanic,2,0,Democratic
+1962,Gay     ,White,2,4,Democratic
+1962,Lesbian ,Asian,0,0,Democratic
+1962,Lesbian ,Black,0,0,Democratic
+1962,Lesbian ,Hispanic,0,0,Democratic
+1962,Lesbian ,White,0,0,Democratic
+1962,Lesbian ,Asian,1,0,Democratic
+1962,Lesbian ,Black,1,0,Democratic
+1962,Lesbian ,Hispanic,1,0,Democratic
+1962,Lesbian ,White,1,0,Democratic
+1962,Lesbian ,Asian,2,0,Democratic
+1962,Lesbian ,Black,2,0,Democratic
+1962,Lesbian ,Hispanic,2,0,Democratic
+1962,Lesbian ,White,2,0,Democratic
+1962,Straight,Asian,0,4.75,Democratic
+1962,Straight,Black,0,0,Democratic
+1962,Straight,Hispanic,0,0,Democratic
+1962,Straight,White,0,90.25,Democratic
+1962,Straight,Asian,1,0,Democratic
+1962,Straight,Black,1,0,Democratic
+1962,Straight,Hispanic,1,0,Democratic
+1962,Straight,White,1,100,Democratic
+1962,Straight,Asian,2,3.84,Democratic
+1962,Straight,Black,2,0,Democratic
+1962,Straight,Hispanic,2,0,Democratic
+1962,Straight,White,2,92.16,Democratic
+1963,Bisexual,Asian,0,0,Democratic
+1963,Bisexual,Black,0,0,Democratic
+1963,Bisexual,Hispanic,0,0,Democratic
+1963,Bisexual,White,0,0,Democratic
+1963,Bisexual,Asian,1,0,Democratic
+1963,Bisexual,Black,1,0,Democratic
+1963,Bisexual,Hispanic,1,0,Democratic
+1963,Bisexual,White,1,20,Democratic
+1963,Bisexual,Asian,2,0,Democratic
+1963,Bisexual,Black,2,0,Democratic
+1963,Bisexual,Hispanic,2,0,Democratic
+1963,Bisexual,White,2,4,Democratic
+1963,Gay     ,Asian,0,0,Democratic
+1963,Gay     ,Black,0,0,Democratic
+1963,Gay     ,Hispanic,0,0,Democratic
+1963,Gay     ,White,0,0,Democratic
+1963,Gay     ,Asian,1,0,Democratic
+1963,Gay     ,Black,1,0,Democratic
+1963,Gay     ,Hispanic,1,0,Democratic
+1963,Gay     ,White,1,0,Democratic
+1963,Gay     ,Asian,2,0,Democratic
+1963,Gay     ,Black,2,0,Democratic
+1963,Gay     ,Hispanic,2,0,Democratic
+1963,Gay     ,White,2,0,Democratic
+1963,Lesbian ,Asian,0,0,Democratic
+1963,Lesbian ,Black,0,0,Democratic
+1963,Lesbian ,Hispanic,0,0,Democratic
+1963,Lesbian ,White,0,0,Democratic
+1963,Lesbian ,Asian,1,0,Democratic
+1963,Lesbian ,Black,1,0,Democratic
+1963,Lesbian ,Hispanic,1,0,Democratic
+1963,Lesbian ,White,1,0,Democratic
+1963,Lesbian ,Asian,2,0,Democratic
+1963,Lesbian ,Black,2,0,Democratic
+1963,Lesbian ,Hispanic,2,0,Democratic
+1963,Lesbian ,White,2,0,Democratic
+1963,Straight,Asian,0,0,Democratic
+1963,Straight,Black,0,0,Democratic
+1963,Straight,Hispanic,0,0,Democratic
+1963,Straight,White,0,100,Democratic
+1963,Straight,Asian,1,0,Democratic
+1963,Straight,Black,1,16,Democratic
+1963,Straight,Hispanic,1,0,Democratic
+1963,Straight,White,1,64,Democratic
+1963,Straight,Asian,2,0,Democratic
+1963,Straight,Black,2,3.84,Democratic
+1963,Straight,Hispanic,2,0,Democratic
+1963,Straight,White,2,92.16,Democratic
+1964,Bisexual,Asian,0,0,Democratic
+1964,Bisexual,Black,0,0,Democratic
+1964,Bisexual,Hispanic,0,0,Democratic
+1964,Bisexual,White,0,0,Democratic
+1964,Bisexual,Asian,1,0,Democratic
+1964,Bisexual,Black,1,0,Democratic
+1964,Bisexual,Hispanic,1,0,Democratic
+1964,Bisexual,White,1,0,Democratic
+1964,Bisexual,Asian,2,0,Democratic
+1964,Bisexual,Black,2,0,Democratic
+1964,Bisexual,Hispanic,2,0,Democratic
+1964,Bisexual,White,2,0,Democratic
+1964,Gay     ,Asian,0,0,Democratic
+1964,Gay     ,Black,0,0,Democratic
+1964,Gay     ,Hispanic,0,0,Democratic
+1964,Gay     ,White,0,10,Democratic
+1964,Gay     ,Asian,1,0,Democratic
+1964,Gay     ,Black,1,0,Democratic
+1964,Gay     ,Hispanic,1,0,Democratic
+1964,Gay     ,White,1,20,Democratic
+1964,Gay     ,Asian,2,0,Democratic
+1964,Gay     ,Black,2,0,Democratic
+1964,Gay     ,Hispanic,2,0,Democratic
+1964,Gay     ,White,2,12,Democratic
+1964,Lesbian ,Asian,0,0,Democratic
+1964,Lesbian ,Black,0,0,Democratic
+1964,Lesbian ,Hispanic,0,0,Democratic
+1964,Lesbian ,White,0,0,Democratic
+1964,Lesbian ,Asian,1,0,Democratic
+1964,Lesbian ,Black,1,0,Democratic
+1964,Lesbian ,Hispanic,1,0,Democratic
+1964,Lesbian ,White,1,0,Democratic
+1964,Lesbian ,Asian,2,0,Democratic
+1964,Lesbian ,Black,2,0,Democratic
+1964,Lesbian ,Hispanic,2,0,Democratic
+1964,Lesbian ,White,2,0,Democratic
+1964,Straight,Asian,0,0,Democratic
+1964,Straight,Black,0,0,Democratic
+1964,Straight,Hispanic,0,4.5,Democratic
+1964,Straight,White,0,85.5,Democratic
+1964,Straight,Asian,1,0,Democratic
+1964,Straight,Black,1,0,Democratic
+1964,Straight,Hispanic,1,0,Democratic
+1964,Straight,White,1,80,Democratic
+1964,Straight,Asian,2,0,Democratic
+1964,Straight,Black,2,0,Democratic
+1964,Straight,Hispanic,2,3.52,Democratic
+1964,Straight,White,2,84.48,Democratic
+1965,Bisexual,Asian,0,0,Democratic
+1965,Bisexual,Black,0,0,Democratic
+1965,Bisexual,Hispanic,0,0,Democratic
+1965,Bisexual,White,0,0,Democratic
+1965,Bisexual,Asian,1,0,Democratic
+1965,Bisexual,Black,1,0,Democratic
+1965,Bisexual,Hispanic,1,0,Democratic
+1965,Bisexual,White,1,0,Democratic
+1965,Bisexual,Asian,2,0,Democratic
+1965,Bisexual,Black,2,0,Democratic
+1965,Bisexual,Hispanic,2,0,Democratic
+1965,Bisexual,White,2,0,Democratic
+1965,Gay     ,Asian,0,0,Democratic
+1965,Gay     ,Black,0,0,Democratic
+1965,Gay     ,Hispanic,0,0,Democratic
+1965,Gay     ,White,0,5,Democratic
+1965,Gay     ,Asian,1,0,Democratic
+1965,Gay     ,Black,1,0,Democratic
+1965,Gay     ,Hispanic,1,0,Democratic
+1965,Gay     ,White,1,0,Democratic
+1965,Gay     ,Asian,2,0,Democratic
+1965,Gay     ,Black,2,0,Democratic
+1965,Gay     ,Hispanic,2,0,Democratic
+1965,Gay     ,White,2,4,Democratic
+1965,Lesbian ,Asian,0,0,Democratic
+1965,Lesbian ,Black,0,0,Democratic
+1965,Lesbian ,Hispanic,0,0,Democratic
+1965,Lesbian ,White,0,0,Democratic
+1965,Lesbian ,Asian,1,0,Democratic
+1965,Lesbian ,Black,1,0,Democratic
+1965,Lesbian ,Hispanic,1,0,Democratic
+1965,Lesbian ,White,1,0,Democratic
+1965,Lesbian ,Asian,2,0,Democratic
+1965,Lesbian ,Black,2,0,Democratic
+1965,Lesbian ,Hispanic,2,0,Democratic
+1965,Lesbian ,White,2,0,Democratic
+1965,Straight,Asian,0,4.75,Democratic
+1965,Straight,Black,0,0,Democratic
+1965,Straight,Hispanic,0,0,Democratic
+1965,Straight,White,0,90.25,Democratic
+1965,Straight,Asian,1,0,Democratic
+1965,Straight,Black,1,0,Democratic
+1965,Straight,Hispanic,1,0,Democratic
+1965,Straight,White,1,100,Democratic
+1965,Straight,Asian,2,3.84,Democratic
+1965,Straight,Black,2,0,Democratic
+1965,Straight,Hispanic,2,0,Democratic
+1965,Straight,White,2,92.16,Democratic
+1966,Bisexual,Asian,0,0,Democratic
+1966,Bisexual,Black,0,0,Democratic
+1966,Bisexual,Hispanic,0,0,Democratic
+1966,Bisexual,White,0,0,Democratic
+1966,Bisexual,Asian,1,0,Democratic
+1966,Bisexual,Black,1,0,Democratic
+1966,Bisexual,Hispanic,1,0,Democratic
+1966,Bisexual,White,1,20,Democratic
+1966,Bisexual,Asian,2,0,Democratic
+1966,Bisexual,Black,2,0,Democratic
+1966,Bisexual,Hispanic,2,0,Democratic
+1966,Bisexual,White,2,4,Democratic
+1966,Gay     ,Asian,0,0,Democratic
+1966,Gay     ,Black,0,0,Democratic
+1966,Gay     ,Hispanic,0,0,Democratic
+1966,Gay     ,White,0,0,Democratic
+1966,Gay     ,Asian,1,0,Democratic
+1966,Gay     ,Black,1,0,Democratic
+1966,Gay     ,Hispanic,1,0,Democratic
+1966,Gay     ,White,1,0,Democratic
+1966,Gay     ,Asian,2,0,Democratic
+1966,Gay     ,Black,2,0,Democratic
+1966,Gay     ,Hispanic,2,0,Democratic
+1966,Gay     ,White,2,0,Democratic
+1966,Lesbian ,Asian,0,0,Democratic
+1966,Lesbian ,Black,0,0,Democratic
+1966,Lesbian ,Hispanic,0,0,Democratic
+1966,Lesbian ,White,0,0,Democratic
+1966,Lesbian ,Asian,1,0,Democratic
+1966,Lesbian ,Black,1,0,Democratic
+1966,Lesbian ,Hispanic,1,0,Democratic
+1966,Lesbian ,White,1,0,Democratic
+1966,Lesbian ,Asian,2,0,Democratic
+1966,Lesbian ,Black,2,0,Democratic
+1966,Lesbian ,Hispanic,2,0,Democratic
+1966,Lesbian ,White,2,0,Democratic
+1966,Straight,Asian,0,10,Democratic
+1966,Straight,Black,0,0,Democratic
+1966,Straight,Hispanic,0,0,Democratic
+1966,Straight,White,0,90,Democratic
+1966,Straight,Asian,1,0,Democratic
+1966,Straight,Black,1,0,Democratic
+1966,Straight,Hispanic,1,0,Democratic
+1966,Straight,White,1,80,Democratic
+1966,Straight,Asian,2,7.68,Democratic
+1966,Straight,Black,2,0,Democratic
+1966,Straight,Hispanic,2,0,Democratic
+1966,Straight,White,2,88.32,Democratic
+1967,Bisexual,Asian,0,0,Democratic
+1967,Bisexual,Black,0,0,Democratic
+1967,Bisexual,Hispanic,0,0,Democratic
+1967,Bisexual,White,0,0,Democratic
+1967,Bisexual,Asian,1,0,Democratic
+1967,Bisexual,Black,1,0,Democratic
+1967,Bisexual,Hispanic,1,0,Democratic
+1967,Bisexual,White,1,0,Democratic
+1967,Bisexual,Asian,2,0,Democratic
+1967,Bisexual,Black,2,0,Democratic
+1967,Bisexual,Hispanic,2,0,Democratic
+1967,Bisexual,White,2,0,Democratic
+1967,Gay     ,Asian,0,0,Democratic
+1967,Gay     ,Black,0,0,Democratic
+1967,Gay     ,Hispanic,0,0,Democratic
+1967,Gay     ,White,0,0,Democratic
+1967,Gay     ,Asian,1,0,Democratic
+1967,Gay     ,Black,1,0,Democratic
+1967,Gay     ,Hispanic,1,0,Democratic
+1967,Gay     ,White,1,0,Democratic
+1967,Gay     ,Asian,2,0,Democratic
+1967,Gay     ,Black,2,0,Democratic
+1967,Gay     ,Hispanic,2,0,Democratic
+1967,Gay     ,White,2,0,Democratic
+1967,Lesbian ,Asian,0,0,Democratic
+1967,Lesbian ,Black,0,0,Democratic
+1967,Lesbian ,Hispanic,0,0,Democratic
+1967,Lesbian ,White,0,0,Democratic
+1967,Lesbian ,Asian,1,0,Democratic
+1967,Lesbian ,Black,1,0,Democratic
+1967,Lesbian ,Hispanic,1,0,Democratic
+1967,Lesbian ,White,1,0,Democratic
+1967,Lesbian ,Asian,2,0,Democratic
+1967,Lesbian ,Black,2,0,Democratic
+1967,Lesbian ,Hispanic,2,0,Democratic
+1967,Lesbian ,White,2,0,Democratic
+1967,Straight,Asian,0,0,Democratic
+1967,Straight,Black,0,10,Democratic
+1967,Straight,Hispanic,0,0,Democratic
+1967,Straight,White,0,90,Democratic
+1967,Straight,Asian,1,0,Democratic
+1967,Straight,Black,1,0,Democratic
+1967,Straight,Hispanic,1,0,Democratic
+1967,Straight,White,1,100,Democratic
+1967,Straight,Asian,2,0,Democratic
+1967,Straight,Black,2,8,Democratic
+1967,Straight,Hispanic,2,0,Democratic
+1967,Straight,White,2,92,Democratic
+1968,Bisexual,Asian,0,0,Democratic
+1968,Bisexual,Black,0,0,Democratic
+1968,Bisexual,Hispanic,0,0,Democratic
+1968,Bisexual,White,0,5,Democratic
+1968,Bisexual,Asian,1,0,Democratic
+1968,Bisexual,Black,1,0,Democratic
+1968,Bisexual,Hispanic,1,0,Democratic
+1968,Bisexual,White,1,0,Democratic
+1968,Bisexual,Asian,2,0,Democratic
+1968,Bisexual,Black,2,0,Democratic
+1968,Bisexual,Hispanic,2,0,Democratic
+1968,Bisexual,White,2,4,Democratic
+1968,Gay     ,Asian,0,0,Democratic
+1968,Gay     ,Black,0,0,Democratic
+1968,Gay     ,Hispanic,0,0,Democratic
+1968,Gay     ,White,0,5,Democratic
+1968,Gay     ,Asian,1,0,Democratic
+1968,Gay     ,Black,1,0,Democratic
+1968,Gay     ,Hispanic,1,0,Democratic
+1968,Gay     ,White,1,0,Democratic
+1968,Gay     ,Asian,2,0,Democratic
+1968,Gay     ,Black,2,0,Democratic
+1968,Gay     ,Hispanic,2,0,Democratic
+1968,Gay     ,White,2,4,Democratic
+1968,Lesbian ,Asian,0,0,Democratic
+1968,Lesbian ,Black,0,0,Democratic
+1968,Lesbian ,Hispanic,0,0,Democratic
+1968,Lesbian ,White,0,0,Democratic
+1968,Lesbian ,Asian,1,0,Democratic
+1968,Lesbian ,Black,1,0,Democratic
+1968,Lesbian ,Hispanic,1,0,Democratic
+1968,Lesbian ,White,1,0,Democratic
+1968,Lesbian ,Asian,2,0,Democratic
+1968,Lesbian ,Black,2,0,Democratic
+1968,Lesbian ,Hispanic,2,0,Democratic
+1968,Lesbian ,White,2,0,Democratic
+1968,Straight,Asian,0,0,Democratic
+1968,Straight,Black,0,0,Democratic
+1968,Straight,Hispanic,0,0,Democratic
+1968,Straight,White,0,90,Democratic
+1968,Straight,Asian,1,0,Democratic
+1968,Straight,Black,1,0,Democratic
+1968,Straight,Hispanic,1,0,Democratic
+1968,Straight,White,1,100,Democratic
+1968,Straight,Asian,2,0,Democratic
+1968,Straight,Black,2,0,Democratic
+1968,Straight,Hispanic,2,0,Democratic
+1968,Straight,White,2,92,Democratic
+1969,Bisexual,Asian,0,0,Republican
+1969,Bisexual,Black,0,0,Republican
+1969,Bisexual,Hispanic,0,0,Republican
+1969,Bisexual,White,0,0,Republican
+1969,Bisexual,Asian,1,0,Republican
+1969,Bisexual,Black,1,0,Republican
+1969,Bisexual,Hispanic,1,0,Republican
+1969,Bisexual,White,1,0,Republican
+1969,Bisexual,Asian,2,0,Republican
+1969,Bisexual,Black,2,0,Republican
+1969,Bisexual,Hispanic,2,0,Republican
+1969,Bisexual,White,2,0,Republican
+1969,Gay     ,Asian,0,0,Republican
+1969,Gay     ,Black,0,0,Republican
+1969,Gay     ,Hispanic,0,0,Republican
+1969,Gay     ,White,0,0,Republican
+1969,Gay     ,Asian,1,0,Republican
+1969,Gay     ,Black,1,0,Republican
+1969,Gay     ,Hispanic,1,0,Republican
+1969,Gay     ,White,1,20,Republican
+1969,Gay     ,Asian,2,0,Republican
+1969,Gay     ,Black,2,0,Republican
+1969,Gay     ,Hispanic,2,0,Republican
+1969,Gay     ,White,2,4,Republican
+1969,Lesbian ,Asian,0,0,Republican
+1969,Lesbian ,Black,0,0,Republican
+1969,Lesbian ,Hispanic,0,0,Republican
+1969,Lesbian ,White,0,0,Republican
+1969,Lesbian ,Asian,1,0,Republican
+1969,Lesbian ,Black,1,0,Republican
+1969,Lesbian ,Hispanic,1,0,Republican
+1969,Lesbian ,White,1,0,Republican
+1969,Lesbian ,Asian,2,0,Republican
+1969,Lesbian ,Black,2,0,Republican
+1969,Lesbian ,Hispanic,2,0,Republican
+1969,Lesbian ,White,2,0,Republican
+1969,Straight,Asian,0,0,Republican
+1969,Straight,Black,0,5,Republican
+1969,Straight,Hispanic,0,0,Republican
+1969,Straight,White,0,95,Republican
+1969,Straight,Asian,1,0,Republican
+1969,Straight,Black,1,0,Republican
+1969,Straight,Hispanic,1,0,Republican
+1969,Straight,White,1,80,Republican
+1969,Straight,Asian,2,0,Republican
+1969,Straight,Black,2,3.84,Republican
+1969,Straight,Hispanic,2,0,Republican
+1969,Straight,White,2,92.16,Republican
+1970,Bisexual,Asian,0,0,Republican
+1970,Bisexual,Black,0,0,Republican
+1970,Bisexual,Hispanic,0,0,Republican
+1970,Bisexual,White,0,0,Republican
+1970,Bisexual,Asian,1,0,Republican
+1970,Bisexual,Black,1,0,Republican
+1970,Bisexual,Hispanic,1,0,Republican
+1970,Bisexual,White,1,0,Republican
+1970,Bisexual,Asian,2,0,Republican
+1970,Bisexual,Black,2,0,Republican
+1970,Bisexual,Hispanic,2,0,Republican
+1970,Bisexual,White,2,0,Republican
+1970,Gay     ,Asian,0,0,Republican
+1970,Gay     ,Black,0,0,Republican
+1970,Gay     ,Hispanic,0,0,Republican
+1970,Gay     ,White,0,0,Republican
+1970,Gay     ,Asian,1,0,Republican
+1970,Gay     ,Black,1,0,Republican
+1970,Gay     ,Hispanic,1,0,Republican
+1970,Gay     ,White,1,0,Republican
+1970,Gay     ,Asian,2,0,Republican
+1970,Gay     ,Black,2,0,Republican
+1970,Gay     ,Hispanic,2,0,Republican
+1970,Gay     ,White,2,0,Republican
+1970,Lesbian ,Asian,0,0,Republican
+1970,Lesbian ,Black,0,0,Republican
+1970,Lesbian ,Hispanic,0,0,Republican
+1970,Lesbian ,White,0,0,Republican
+1970,Lesbian ,Asian,1,0,Republican
+1970,Lesbian ,Black,1,0,Republican
+1970,Lesbian ,Hispanic,1,0,Republican
+1970,Lesbian ,White,1,0,Republican
+1970,Lesbian ,Asian,2,0,Republican
+1970,Lesbian ,Black,2,0,Republican
+1970,Lesbian ,Hispanic,2,0,Republican
+1970,Lesbian ,White,2,0,Republican
+1970,Straight,Asian,0,5.56,Republican
+1970,Straight,Black,0,5.56,Republican
+1970,Straight,Hispanic,0,0,Republican
+1970,Straight,White,0,88.89,Republican
+1970,Straight,Asian,1,0,Republican
+1970,Straight,Black,1,0,Republican
+1970,Straight,Hispanic,1,0,Republican
+1970,Straight,White,1,100,Republican
+1970,Straight,Asian,2,4.44,Republican
+1970,Straight,Black,2,4.44,Republican
+1970,Straight,Hispanic,2,0,Republican
+1970,Straight,White,2,91.11,Republican
+1971,Bisexual,Asian,0,0,Republican
+1971,Bisexual,Black,0,0,Republican
+1971,Bisexual,Hispanic,0,0,Republican
+1971,Bisexual,White,0,0,Republican
+1971,Bisexual,Asian,1,0,Republican
+1971,Bisexual,Black,1,0,Republican
+1971,Bisexual,Hispanic,1,0,Republican
+1971,Bisexual,White,1,0,Republican
+1971,Bisexual,Asian,2,0,Republican
+1971,Bisexual,Black,2,0,Republican
+1971,Bisexual,Hispanic,2,0,Republican
+1971,Bisexual,White,2,0,Republican
+1971,Gay     ,Asian,0,0,Republican
+1971,Gay     ,Black,0,0,Republican
+1971,Gay     ,Hispanic,0,0,Republican
+1971,Gay     ,White,0,10,Republican
+1971,Gay     ,Asian,1,0,Republican
+1971,Gay     ,Black,1,0,Republican
+1971,Gay     ,Hispanic,1,0,Republican
+1971,Gay     ,White,1,0,Republican
+1971,Gay     ,Asian,2,0,Republican
+1971,Gay     ,Black,2,0,Republican
+1971,Gay     ,Hispanic,2,0,Republican
+1971,Gay     ,White,2,8,Republican
+1971,Lesbian ,Asian,0,0,Republican
+1971,Lesbian ,Black,0,0,Republican
+1971,Lesbian ,Hispanic,0,0,Republican
+1971,Lesbian ,White,0,0,Republican
+1971,Lesbian ,Asian,1,0,Republican
+1971,Lesbian ,Black,1,0,Republican
+1971,Lesbian ,Hispanic,1,0,Republican
+1971,Lesbian ,White,1,0,Republican
+1971,Lesbian ,Asian,2,0,Republican
+1971,Lesbian ,Black,2,0,Republican
+1971,Lesbian ,Hispanic,2,0,Republican
+1971,Lesbian ,White,2,0,Republican
+1971,Straight,Asian,0,0,Republican
+1971,Straight,Black,0,0,Republican
+1971,Straight,Hispanic,0,0,Republican
+1971,Straight,White,0,90,Republican
+1971,Straight,Asian,1,0,Republican
+1971,Straight,Black,1,0,Republican
+1971,Straight,Hispanic,1,0,Republican
+1971,Straight,White,1,100,Republican
+1971,Straight,Asian,2,0,Republican
+1971,Straight,Black,2,0,Republican
+1971,Straight,Hispanic,2,0,Republican
+1971,Straight,White,2,92,Republican
+1972,Bisexual,Asian,0,0,Republican
+1972,Bisexual,Black,0,0,Republican
+1972,Bisexual,Hispanic,0,0,Republican
+1972,Bisexual,White,0,0,Republican
+1972,Bisexual,Asian,1,0,Republican
+1972,Bisexual,Black,1,0,Republican
+1972,Bisexual,Hispanic,1,0,Republican
+1972,Bisexual,White,1,20,Republican
+1972,Bisexual,Asian,2,0,Republican
+1972,Bisexual,Black,2,0,Republican
+1972,Bisexual,Hispanic,2,0,Republican
+1972,Bisexual,White,2,4,Republican
+1972,Gay     ,Asian,0,0,Republican
+1972,Gay     ,Black,0,5,Republican
+1972,Gay     ,Hispanic,0,0,Republican
+1972,Gay     ,White,0,0,Republican
+1972,Gay     ,Asian,1,0,Republican
+1972,Gay     ,Black,1,0,Republican
+1972,Gay     ,Hispanic,1,0,Republican
+1972,Gay     ,White,1,20,Republican
+1972,Gay     ,Asian,2,0,Republican
+1972,Gay     ,Black,2,4,Republican
+1972,Gay     ,Hispanic,2,0,Republican
+1972,Gay     ,White,2,4,Republican
+1972,Lesbian ,Asian,0,0,Republican
+1972,Lesbian ,Black,0,0,Republican
+1972,Lesbian ,Hispanic,0,0,Republican
+1972,Lesbian ,White,0,0,Republican
+1972,Lesbian ,Asian,1,0,Republican
+1972,Lesbian ,Black,1,0,Republican
+1972,Lesbian ,Hispanic,1,0,Republican
+1972,Lesbian ,White,1,0,Republican
+1972,Lesbian ,Asian,2,0,Republican
+1972,Lesbian ,Black,2,0,Republican
+1972,Lesbian ,Hispanic,2,0,Republican
+1972,Lesbian ,White,2,0,Republican
+1972,Straight,Asian,0,0,Republican
+1972,Straight,Black,0,10,Republican
+1972,Straight,Hispanic,0,0,Republican
+1972,Straight,White,0,85,Republican
+1972,Straight,Asian,1,0,Republican
+1972,Straight,Black,1,0,Republican
+1972,Straight,Hispanic,1,0,Republican
+1972,Straight,White,1,60,Republican
+1972,Straight,Asian,2,0,Republican
+1972,Straight,Black,2,8,Republican
+1972,Straight,Hispanic,2,0,Republican
+1972,Straight,White,2,80,Republican
+1973,Bisexual,Asian,0,0,Republican
+1973,Bisexual,Black,0,0,Republican
+1973,Bisexual,Hispanic,0,0,Republican
+1973,Bisexual,White,0,5,Republican
+1973,Bisexual,Asian,1,0,Republican
+1973,Bisexual,Black,1,0,Republican
+1973,Bisexual,Hispanic,1,0,Republican
+1973,Bisexual,White,1,20,Republican
+1973,Bisexual,Asian,2,0,Republican
+1973,Bisexual,Black,2,0,Republican
+1973,Bisexual,Hispanic,2,0,Republican
+1973,Bisexual,White,2,8,Republican
+1973,Gay     ,Asian,0,0,Republican
+1973,Gay     ,Black,0,0,Republican
+1973,Gay     ,Hispanic,0,0,Republican
+1973,Gay     ,White,0,5,Republican
+1973,Gay     ,Asian,1,0,Republican
+1973,Gay     ,Black,1,0,Republican
+1973,Gay     ,Hispanic,1,0,Republican
+1973,Gay     ,White,1,0,Republican
+1973,Gay     ,Asian,2,0,Republican
+1973,Gay     ,Black,2,0,Republican
+1973,Gay     ,Hispanic,2,0,Republican
+1973,Gay     ,White,2,4,Republican
+1973,Lesbian ,Asian,0,0,Republican
+1973,Lesbian ,Black,0,0,Republican
+1973,Lesbian ,Hispanic,0,0,Republican
+1973,Lesbian ,White,0,0,Republican
+1973,Lesbian ,Asian,1,0,Republican
+1973,Lesbian ,Black,1,0,Republican
+1973,Lesbian ,Hispanic,1,0,Republican
+1973,Lesbian ,White,1,0,Republican
+1973,Lesbian ,Asian,2,0,Republican
+1973,Lesbian ,Black,2,0,Republican
+1973,Lesbian ,Hispanic,2,0,Republican
+1973,Lesbian ,White,2,0,Republican
+1973,Straight,Asian,0,0,Republican
+1973,Straight,Black,0,0,Republican
+1973,Straight,Hispanic,0,0,Republican
+1973,Straight,White,0,90,Republican
+1973,Straight,Asian,1,0,Republican
+1973,Straight,Black,1,0,Republican
+1973,Straight,Hispanic,1,0,Republican
+1973,Straight,White,1,80,Republican
+1973,Straight,Asian,2,0,Republican
+1973,Straight,Black,2,0,Republican
+1973,Straight,Hispanic,2,0,Republican
+1973,Straight,White,2,88,Republican
+1974,Bisexual,Asian,0,0,Republican
+1974,Bisexual,Black,0,0,Republican
+1974,Bisexual,Hispanic,0,0,Republican
+1974,Bisexual,White,0,0,Republican
+1974,Bisexual,Asian,1,0,Republican
+1974,Bisexual,Black,1,0,Republican
+1974,Bisexual,Hispanic,1,0,Republican
+1974,Bisexual,White,1,0,Republican
+1974,Bisexual,Asian,2,0,Republican
+1974,Bisexual,Black,2,0,Republican
+1974,Bisexual,Hispanic,2,0,Republican
+1974,Bisexual,White,2,0,Republican
+1974,Gay     ,Asian,0,0,Republican
+1974,Gay     ,Black,0,0,Republican
+1974,Gay     ,Hispanic,0,0,Republican
+1974,Gay     ,White,0,0,Republican
+1974,Gay     ,Asian,1,0,Republican
+1974,Gay     ,Black,1,0,Republican
+1974,Gay     ,Hispanic,1,0,Republican
+1974,Gay     ,White,1,0,Republican
+1974,Gay     ,Asian,2,0,Republican
+1974,Gay     ,Black,2,0,Republican
+1974,Gay     ,Hispanic,2,0,Republican
+1974,Gay     ,White,2,0,Republican
+1974,Lesbian ,Asian,0,0,Republican
+1974,Lesbian ,Black,0,0,Republican
+1974,Lesbian ,Hispanic,0,0,Republican
+1974,Lesbian ,White,0,0,Republican
+1974,Lesbian ,Asian,1,0,Republican
+1974,Lesbian ,Black,1,0,Republican
+1974,Lesbian ,Hispanic,1,0,Republican
+1974,Lesbian ,White,1,0,Republican
+1974,Lesbian ,Asian,2,0,Republican
+1974,Lesbian ,Black,2,0,Republican
+1974,Lesbian ,Hispanic,2,0,Republican
+1974,Lesbian ,White,2,0,Republican
+1974,Straight,Asian,0,0,Republican
+1974,Straight,Black,0,5,Republican
+1974,Straight,Hispanic,0,0,Republican
+1974,Straight,White,0,95,Republican
+1974,Straight,Asian,1,0,Republican
+1974,Straight,Black,1,0,Republican
+1974,Straight,Hispanic,1,0,Republican
+1974,Straight,White,1,100,Republican
+1974,Straight,Asian,2,0,Republican
+1974,Straight,Black,2,4,Republican
+1974,Straight,Hispanic,2,0,Republican
+1974,Straight,White,2,96,Republican
+1975,Bisexual,Asian,0,0,Republican
+1975,Bisexual,Black,0,0,Republican
+1975,Bisexual,Hispanic,0,0,Republican
+1975,Bisexual,White,0,0,Republican
+1975,Bisexual,Asian,1,0,Republican
+1975,Bisexual,Black,1,0,Republican
+1975,Bisexual,Hispanic,1,0,Republican
+1975,Bisexual,White,1,0,Republican
+1975,Bisexual,Asian,2,0,Republican
+1975,Bisexual,Black,2,0,Republican
+1975,Bisexual,Hispanic,2,0,Republican
+1975,Bisexual,White,2,0,Republican
+1975,Gay     ,Asian,0,0,Republican
+1975,Gay     ,Black,0,0,Republican
+1975,Gay     ,Hispanic,0,0,Republican
+1975,Gay     ,White,0,0,Republican
+1975,Gay     ,Asian,1,0,Republican
+1975,Gay     ,Black,1,0,Republican
+1975,Gay     ,Hispanic,1,0,Republican
+1975,Gay     ,White,1,0,Republican
+1975,Gay     ,Asian,2,0,Republican
+1975,Gay     ,Black,2,0,Republican
+1975,Gay     ,Hispanic,2,0,Republican
+1975,Gay     ,White,2,0,Republican
+1975,Lesbian ,Asian,0,0,Republican
+1975,Lesbian ,Black,0,0,Republican
+1975,Lesbian ,Hispanic,0,0,Republican
+1975,Lesbian ,White,0,5,Republican
+1975,Lesbian ,Asian,1,0,Republican
+1975,Lesbian ,Black,1,0,Republican
+1975,Lesbian ,Hispanic,1,0,Republican
+1975,Lesbian ,White,1,0,Republican
+1975,Lesbian ,Asian,2,0,Republican
+1975,Lesbian ,Black,2,0,Republican
+1975,Lesbian ,Hispanic,2,0,Republican
+1975,Lesbian ,White,2,4,Republican
+1975,Straight,Asian,0,4.75,Republican
+1975,Straight,Black,0,0,Republican
+1975,Straight,Hispanic,0,0,Republican
+1975,Straight,White,0,90.25,Republican
+1975,Straight,Asian,1,0,Republican
+1975,Straight,Black,1,0,Republican
+1975,Straight,Hispanic,1,0,Republican
+1975,Straight,White,1,100,Republican
+1975,Straight,Asian,2,3.84,Republican
+1975,Straight,Black,2,0,Republican
+1975,Straight,Hispanic,2,0,Republican
+1975,Straight,White,2,92.16,Republican
+1976,Bisexual,Asian,0,0,Republican
+1976,Bisexual,Black,0,0,Republican
+1976,Bisexual,Hispanic,0,0,Republican
+1976,Bisexual,White,0,0,Republican
+1976,Bisexual,Asian,1,0,Republican
+1976,Bisexual,Black,1,0,Republican
+1976,Bisexual,Hispanic,1,0,Republican
+1976,Bisexual,White,1,0,Republican
+1976,Bisexual,Asian,2,0,Republican
+1976,Bisexual,Black,2,0,Republican
+1976,Bisexual,Hispanic,2,0,Republican
+1976,Bisexual,White,2,0,Republican
+1976,Gay     ,Asian,0,0,Republican
+1976,Gay     ,Black,0,0,Republican
+1976,Gay     ,Hispanic,0,0,Republican
+1976,Gay     ,White,0,0,Republican
+1976,Gay     ,Asian,1,0,Republican
+1976,Gay     ,Black,1,0,Republican
+1976,Gay     ,Hispanic,1,0,Republican
+1976,Gay     ,White,1,0,Republican
+1976,Gay     ,Asian,2,0,Republican
+1976,Gay     ,Black,2,0,Republican
+1976,Gay     ,Hispanic,2,0,Republican
+1976,Gay     ,White,2,0,Republican
+1976,Lesbian ,Asian,0,0,Republican
+1976,Lesbian ,Black,0,0,Republican
+1976,Lesbian ,Hispanic,0,0,Republican
+1976,Lesbian ,White,0,5,Republican
+1976,Lesbian ,Asian,1,0,Republican
+1976,Lesbian ,Black,1,0,Republican
+1976,Lesbian ,Hispanic,1,0,Republican
+1976,Lesbian ,White,1,0,Republican
+1976,Lesbian ,Asian,2,0,Republican
+1976,Lesbian ,Black,2,0,Republican
+1976,Lesbian ,Hispanic,2,0,Republican
+1976,Lesbian ,White,2,4,Republican
+1976,Straight,Asian,0,0,Republican
+1976,Straight,Black,0,0,Republican
+1976,Straight,Hispanic,0,0,Republican
+1976,Straight,White,0,95,Republican
+1976,Straight,Asian,1,0,Republican
+1976,Straight,Black,1,0,Republican
+1976,Straight,Hispanic,1,0,Republican
+1976,Straight,White,1,100,Republican
+1976,Straight,Asian,2,0,Republican
+1976,Straight,Black,2,0,Republican
+1976,Straight,Hispanic,2,0,Republican
+1976,Straight,White,2,96,Republican
+1977,Bisexual,Asian,0,0,Democratic
+1977,Bisexual,Black,0,0,Democratic
+1977,Bisexual,Hispanic,0,0,Democratic
+1977,Bisexual,White,0,0,Democratic
+1977,Bisexual,Asian,1,0,Democratic
+1977,Bisexual,Black,1,0,Democratic
+1977,Bisexual,Hispanic,1,0,Democratic
+1977,Bisexual,White,1,0,Democratic
+1977,Bisexual,Asian,2,0,Democratic
+1977,Bisexual,Black,2,0,Democratic
+1977,Bisexual,Hispanic,2,0,Democratic
+1977,Bisexual,White,2,0,Democratic
+1977,Gay     ,Asian,0,0,Democratic
+1977,Gay     ,Black,0,0,Democratic
+1977,Gay     ,Hispanic,0,0,Democratic
+1977,Gay     ,White,0,0,Democratic
+1977,Gay     ,Asian,1,0,Democratic
+1977,Gay     ,Black,1,0,Democratic
+1977,Gay     ,Hispanic,1,0,Democratic
+1977,Gay     ,White,1,0,Democratic
+1977,Gay     ,Asian,2,0,Democratic
+1977,Gay     ,Black,2,0,Democratic
+1977,Gay     ,Hispanic,2,0,Democratic
+1977,Gay     ,White,2,0,Democratic
+1977,Lesbian ,Asian,0,0,Democratic
+1977,Lesbian ,Black,0,0,Democratic
+1977,Lesbian ,Hispanic,0,0,Democratic
+1977,Lesbian ,White,0,0,Democratic
+1977,Lesbian ,Asian,1,0,Democratic
+1977,Lesbian ,Black,1,0,Democratic
+1977,Lesbian ,Hispanic,1,0,Democratic
+1977,Lesbian ,White,1,0,Democratic
+1977,Lesbian ,Asian,2,0,Democratic
+1977,Lesbian ,Black,2,0,Democratic
+1977,Lesbian ,Hispanic,2,0,Democratic
+1977,Lesbian ,White,2,0,Democratic
+1977,Straight,Asian,0,0,Democratic
+1977,Straight,Black,0,0,Democratic
+1977,Straight,Hispanic,0,0,Democratic
+1977,Straight,White,0,100,Democratic
+1977,Straight,Asian,1,0,Democratic
+1977,Straight,Black,1,0,Democratic
+1977,Straight,Hispanic,1,0,Democratic
+1977,Straight,White,1,100,Democratic
+1977,Straight,Asian,2,0,Democratic
+1977,Straight,Black,2,0,Democratic
+1977,Straight,Hispanic,2,0,Democratic
+1977,Straight,White,2,100,Democratic
+1978,Bisexual,Asian,0,0,Democratic
+1978,Bisexual,Black,0,0,Democratic
+1978,Bisexual,Hispanic,0,0,Democratic
+1978,Bisexual,White,0,0,Democratic
+1978,Bisexual,Asian,1,0,Democratic
+1978,Bisexual,Black,1,0,Democratic
+1978,Bisexual,Hispanic,1,0,Democratic
+1978,Bisexual,White,1,0,Democratic
+1978,Bisexual,Asian,2,0,Democratic
+1978,Bisexual,Black,2,0,Democratic
+1978,Bisexual,Hispanic,2,0,Democratic
+1978,Bisexual,White,2,0,Democratic
+1978,Gay     ,Asian,0,0,Democratic
+1978,Gay     ,Black,0,0,Democratic
+1978,Gay     ,Hispanic,0,0,Democratic
+1978,Gay     ,White,0,0,Democratic
+1978,Gay     ,Asian,1,0,Democratic
+1978,Gay     ,Black,1,0,Democratic
+1978,Gay     ,Hispanic,1,0,Democratic
+1978,Gay     ,White,1,0,Democratic
+1978,Gay     ,Asian,2,0,Democratic
+1978,Gay     ,Black,2,0,Democratic
+1978,Gay     ,Hispanic,2,0,Democratic
+1978,Gay     ,White,2,0,Democratic
+1978,Lesbian ,Asian,0,0,Democratic
+1978,Lesbian ,Black,0,0,Democratic
+1978,Lesbian ,Hispanic,0,0,Democratic
+1978,Lesbian ,White,0,0,Democratic
+1978,Lesbian ,Asian,1,0,Democratic
+1978,Lesbian ,Black,1,0,Democratic
+1978,Lesbian ,Hispanic,1,0,Democratic
+1978,Lesbian ,White,1,0,Democratic
+1978,Lesbian ,Asian,2,0,Democratic
+1978,Lesbian ,Black,2,0,Democratic
+1978,Lesbian ,Hispanic,2,0,Democratic
+1978,Lesbian ,White,2,0,Democratic
+1978,Straight,Asian,0,0,Democratic
+1978,Straight,Black,0,0,Democratic
+1978,Straight,Hispanic,0,0,Democratic
+1978,Straight,White,0,100,Democratic
+1978,Straight,Asian,1,0,Democratic
+1978,Straight,Black,1,0,Democratic
+1978,Straight,Hispanic,1,0,Democratic
+1978,Straight,White,1,100,Democratic
+1978,Straight,Asian,2,0,Democratic
+1978,Straight,Black,2,0,Democratic
+1978,Straight,Hispanic,2,0,Democratic
+1978,Straight,White,2,100,Democratic
+1979,Bisexual,Asian,0,0,Democratic
+1979,Bisexual,Black,0,0,Democratic
+1979,Bisexual,Hispanic,0,0,Democratic
+1979,Bisexual,White,0,0,Democratic
+1979,Bisexual,Asian,1,0,Democratic
+1979,Bisexual,Black,1,0,Democratic
+1979,Bisexual,Hispanic,1,0,Democratic
+1979,Bisexual,White,1,0,Democratic
+1979,Bisexual,Asian,2,0,Democratic
+1979,Bisexual,Black,2,0,Democratic
+1979,Bisexual,Hispanic,2,0,Democratic
+1979,Bisexual,White,2,0,Democratic
+1979,Gay     ,Asian,0,0,Democratic
+1979,Gay     ,Black,0,0,Democratic
+1979,Gay     ,Hispanic,0,0,Democratic
+1979,Gay     ,White,0,0,Democratic
+1979,Gay     ,Asian,1,0,Democratic
+1979,Gay     ,Black,1,0,Democratic
+1979,Gay     ,Hispanic,1,0,Democratic
+1979,Gay     ,White,1,0,Democratic
+1979,Gay     ,Asian,2,0,Democratic
+1979,Gay     ,Black,2,0,Democratic
+1979,Gay     ,Hispanic,2,0,Democratic
+1979,Gay     ,White,2,0,Democratic
+1979,Lesbian ,Asian,0,0,Democratic
+1979,Lesbian ,Black,0,0,Democratic
+1979,Lesbian ,Hispanic,0,0,Democratic
+1979,Lesbian ,White,0,0,Democratic
+1979,Lesbian ,Asian,1,0,Democratic
+1979,Lesbian ,Black,1,0,Democratic
+1979,Lesbian ,Hispanic,1,0,Democratic
+1979,Lesbian ,White,1,0,Democratic
+1979,Lesbian ,Asian,2,0,Democratic
+1979,Lesbian ,Black,2,0,Democratic
+1979,Lesbian ,Hispanic,2,0,Democratic
+1979,Lesbian ,White,2,0,Democratic
+1979,Straight,Asian,0,0,Democratic
+1979,Straight,Black,0,0,Democratic
+1979,Straight,Hispanic,0,0,Democratic
+1979,Straight,White,0,100,Democratic
+1979,Straight,Asian,1,0,Democratic
+1979,Straight,Black,1,0,Democratic
+1979,Straight,Hispanic,1,0,Democratic
+1979,Straight,White,1,100,Democratic
+1979,Straight,Asian,2,0,Democratic
+1979,Straight,Black,2,0,Democratic
+1979,Straight,Hispanic,2,0,Democratic
+1979,Straight,White,2,100,Democratic
+1980,Bisexual,Asian,0,0,Democratic
+1980,Bisexual,Black,0,0,Democratic
+1980,Bisexual,Hispanic,0,0,Democratic
+1980,Bisexual,White,0,0,Democratic
+1980,Bisexual,Asian,1,0,Democratic
+1980,Bisexual,Black,1,0,Democratic
+1980,Bisexual,Hispanic,1,0,Democratic
+1980,Bisexual,White,1,0,Democratic
+1980,Bisexual,Asian,2,0,Democratic
+1980,Bisexual,Black,2,0,Democratic
+1980,Bisexual,Hispanic,2,0,Democratic
+1980,Bisexual,White,2,0,Democratic
+1980,Gay     ,Asian,0,0,Democratic
+1980,Gay     ,Black,0,0,Democratic
+1980,Gay     ,Hispanic,0,0,Democratic
+1980,Gay     ,White,0,0,Democratic
+1980,Gay     ,Asian,1,0,Democratic
+1980,Gay     ,Black,1,0,Democratic
+1980,Gay     ,Hispanic,1,0,Democratic
+1980,Gay     ,White,1,0,Democratic
+1980,Gay     ,Asian,2,0,Democratic
+1980,Gay     ,Black,2,0,Democratic
+1980,Gay     ,Hispanic,2,0,Democratic
+1980,Gay     ,White,2,0,Democratic
+1980,Lesbian ,Asian,0,0,Democratic
+1980,Lesbian ,Black,0,0,Democratic
+1980,Lesbian ,Hispanic,0,0,Democratic
+1980,Lesbian ,White,0,5,Democratic
+1980,Lesbian ,Asian,1,0,Democratic
+1980,Lesbian ,Black,1,0,Democratic
+1980,Lesbian ,Hispanic,1,0,Democratic
+1980,Lesbian ,White,1,0,Democratic
+1980,Lesbian ,Asian,2,0,Democratic
+1980,Lesbian ,Black,2,0,Democratic
+1980,Lesbian ,Hispanic,2,0,Democratic
+1980,Lesbian ,White,2,4,Democratic
+1980,Straight,Asian,0,0,Democratic
+1980,Straight,Black,0,0,Democratic
+1980,Straight,Hispanic,0,0,Democratic
+1980,Straight,White,0,95,Democratic
+1980,Straight,Asian,1,0,Democratic
+1980,Straight,Black,1,0,Democratic
+1980,Straight,Hispanic,1,0,Democratic
+1980,Straight,White,1,100,Democratic
+1980,Straight,Asian,2,0,Democratic
+1980,Straight,Black,2,0,Democratic
+1980,Straight,Hispanic,2,0,Democratic
+1980,Straight,White,2,96,Democratic
+1981,Bisexual,Asian,0,0,Republican
+1981,Bisexual,Black,0,0,Republican
+1981,Bisexual,Hispanic,0,0,Republican
+1981,Bisexual,White,0,0,Republican
+1981,Bisexual,Asian,1,0,Republican
+1981,Bisexual,Black,1,0,Republican
+1981,Bisexual,Hispanic,1,0,Republican
+1981,Bisexual,White,1,0,Republican
+1981,Bisexual,Asian,2,0,Republican
+1981,Bisexual,Black,2,0,Republican
+1981,Bisexual,Hispanic,2,0,Republican
+1981,Bisexual,White,2,0,Republican
+1981,Gay     ,Asian,0,0,Republican
+1981,Gay     ,Black,0,0,Republican
+1981,Gay     ,Hispanic,0,0,Republican
+1981,Gay     ,White,0,5,Republican
+1981,Gay     ,Asian,1,0,Republican
+1981,Gay     ,Black,1,0,Republican
+1981,Gay     ,Hispanic,1,0,Republican
+1981,Gay     ,White,1,20,Republican
+1981,Gay     ,Asian,2,0,Republican
+1981,Gay     ,Black,2,0,Republican
+1981,Gay     ,Hispanic,2,0,Republican
+1981,Gay     ,White,2,8,Republican
+1981,Lesbian ,Asian,0,0,Republican
+1981,Lesbian ,Black,0,0,Republican
+1981,Lesbian ,Hispanic,0,0,Republican
+1981,Lesbian ,White,0,0,Republican
+1981,Lesbian ,Asian,1,0,Republican
+1981,Lesbian ,Black,1,0,Republican
+1981,Lesbian ,Hispanic,1,0,Republican
+1981,Lesbian ,White,1,0,Republican
+1981,Lesbian ,Asian,2,0,Republican
+1981,Lesbian ,Black,2,0,Republican
+1981,Lesbian ,Hispanic,2,0,Republican
+1981,Lesbian ,White,2,0,Republican
+1981,Straight,Asian,0,0,Republican
+1981,Straight,Black,0,4.75,Republican
+1981,Straight,Hispanic,0,0,Republican
+1981,Straight,White,0,90.25,Republican
+1981,Straight,Asian,1,0,Republican
+1981,Straight,Black,1,0,Republican
+1981,Straight,Hispanic,1,0,Republican
+1981,Straight,White,1,80,Republican
+1981,Straight,Asian,2,0,Republican
+1981,Straight,Black,2,3.68,Republican
+1981,Straight,Hispanic,2,0,Republican
+1981,Straight,White,2,88.32,Republican
+1982,Bisexual,Asian,0,0,Republican
+1982,Bisexual,Black,0,0,Republican
+1982,Bisexual,Hispanic,0,0,Republican
+1982,Bisexual,White,0,0,Republican
+1982,Bisexual,Asian,1,0,Republican
+1982,Bisexual,Black,1,0,Republican
+1982,Bisexual,Hispanic,1,0,Republican
+1982,Bisexual,White,1,0,Republican
+1982,Bisexual,Asian,2,0,Republican
+1982,Bisexual,Black,2,0,Republican
+1982,Bisexual,Hispanic,2,0,Republican
+1982,Bisexual,White,2,0,Republican
+1982,Gay     ,Asian,0,0,Republican
+1982,Gay     ,Black,0,0,Republican
+1982,Gay     ,Hispanic,0,0,Republican
+1982,Gay     ,White,0,0,Republican
+1982,Gay     ,Asian,1,0,Republican
+1982,Gay     ,Black,1,0,Republican
+1982,Gay     ,Hispanic,1,0,Republican
+1982,Gay     ,White,1,0,Republican
+1982,Gay     ,Asian,2,0,Republican
+1982,Gay     ,Black,2,0,Republican
+1982,Gay     ,Hispanic,2,0,Republican
+1982,Gay     ,White,2,0,Republican
+1982,Lesbian ,Asian,0,0,Republican
+1982,Lesbian ,Black,0,0,Republican
+1982,Lesbian ,Hispanic,0,0,Republican
+1982,Lesbian ,White,0,0,Republican
+1982,Lesbian ,Asian,1,0,Republican
+1982,Lesbian ,Black,1,0,Republican
+1982,Lesbian ,Hispanic,1,0,Republican
+1982,Lesbian ,White,1,0,Republican
+1982,Lesbian ,Asian,2,0,Republican
+1982,Lesbian ,Black,2,0,Republican
+1982,Lesbian ,Hispanic,2,0,Republican
+1982,Lesbian ,White,2,0,Republican
+1982,Straight,Asian,0,0,Republican
+1982,Straight,Black,0,0,Republican
+1982,Straight,Hispanic,0,0,Republican
+1982,Straight,White,0,100,Republican
+1982,Straight,Asian,1,20,Republican
+1982,Straight,Black,1,20,Republican
+1982,Straight,Hispanic,1,0,Republican
+1982,Straight,White,1,60,Republican
+1982,Straight,Asian,2,4,Republican
+1982,Straight,Black,2,4,Republican
+1982,Straight,Hispanic,2,0,Republican
+1982,Straight,White,2,92,Republican
+1983,Bisexual,Asian,0,0,Republican
+1983,Bisexual,Black,0,0,Republican
+1983,Bisexual,Hispanic,0,0,Republican
+1983,Bisexual,White,0,0,Republican
+1983,Bisexual,Asian,1,0,Republican
+1983,Bisexual,Black,1,0,Republican
+1983,Bisexual,Hispanic,1,0,Republican
+1983,Bisexual,White,1,0,Republican
+1983,Bisexual,Asian,2,0,Republican
+1983,Bisexual,Black,2,0,Republican
+1983,Bisexual,Hispanic,2,0,Republican
+1983,Bisexual,White,2,0,Republican
+1983,Gay     ,Asian,0,0,Republican
+1983,Gay     ,Black,0,0,Republican
+1983,Gay     ,Hispanic,0,0,Republican
+1983,Gay     ,White,0,0,Republican
+1983,Gay     ,Asian,1,0,Republican
+1983,Gay     ,Black,1,0,Republican
+1983,Gay     ,Hispanic,1,0,Republican
+1983,Gay     ,White,1,0,Republican
+1983,Gay     ,Asian,2,0,Republican
+1983,Gay     ,Black,2,0,Republican
+1983,Gay     ,Hispanic,2,0,Republican
+1983,Gay     ,White,2,0,Republican
+1983,Lesbian ,Asian,0,0,Republican
+1983,Lesbian ,Black,0,0,Republican
+1983,Lesbian ,Hispanic,0,0,Republican
+1983,Lesbian ,White,0,0,Republican
+1983,Lesbian ,Asian,1,0,Republican
+1983,Lesbian ,Black,1,0,Republican
+1983,Lesbian ,Hispanic,1,0,Republican
+1983,Lesbian ,White,1,20,Republican
+1983,Lesbian ,Asian,2,0,Republican
+1983,Lesbian ,Black,2,0,Republican
+1983,Lesbian ,Hispanic,2,0,Republican
+1983,Lesbian ,White,2,4,Republican
+1983,Straight,Asian,0,0,Republican
+1983,Straight,Black,0,5,Republican
+1983,Straight,Hispanic,0,0,Republican
+1983,Straight,White,0,95,Republican
+1983,Straight,Asian,1,0,Republican
+1983,Straight,Black,1,0,Republican
+1983,Straight,Hispanic,1,0,Republican
+1983,Straight,White,1,80,Republican
+1983,Straight,Asian,2,0,Republican
+1983,Straight,Black,2,3.84,Republican
+1983,Straight,Hispanic,2,0,Republican
+1983,Straight,White,2,88.32,Republican
+1984,Bisexual,Asian,0,0,Republican
+1984,Bisexual,Black,0,0,Republican
+1984,Bisexual,Hispanic,0,0,Republican
+1984,Bisexual,White,0,0,Republican
+1984,Bisexual,Asian,1,0,Republican
+1984,Bisexual,Black,1,0,Republican
+1984,Bisexual,Hispanic,1,0,Republican
+1984,Bisexual,White,1,0,Republican
+1984,Bisexual,Asian,2,0,Republican
+1984,Bisexual,Black,2,0,Republican
+1984,Bisexual,Hispanic,2,0,Republican
+1984,Bisexual,White,2,0,Republican
+1984,Gay     ,Asian,0,0,Republican
+1984,Gay     ,Black,0,0,Republican
+1984,Gay     ,Hispanic,0,0,Republican
+1984,Gay     ,White,0,5,Republican
+1984,Gay     ,Asian,1,0,Republican
+1984,Gay     ,Black,1,0,Republican
+1984,Gay     ,Hispanic,1,0,Republican
+1984,Gay     ,White,1,0,Republican
+1984,Gay     ,Asian,2,0,Republican
+1984,Gay     ,Black,2,0,Republican
+1984,Gay     ,Hispanic,2,0,Republican
+1984,Gay     ,White,2,4,Republican
+1984,Lesbian ,Asian,0,0,Republican
+1984,Lesbian ,Black,0,0,Republican
+1984,Lesbian ,Hispanic,0,0,Republican
+1984,Lesbian ,White,0,0,Republican
+1984,Lesbian ,Asian,1,0,Republican
+1984,Lesbian ,Black,1,0,Republican
+1984,Lesbian ,Hispanic,1,0,Republican
+1984,Lesbian ,White,1,0,Republican
+1984,Lesbian ,Asian,2,0,Republican
+1984,Lesbian ,Black,2,0,Republican
+1984,Lesbian ,Hispanic,2,0,Republican
+1984,Lesbian ,White,2,0,Republican
+1984,Straight,Asian,0,4.75,Republican
+1984,Straight,Black,0,4.75,Republican
+1984,Straight,Hispanic,0,0,Republican
+1984,Straight,White,0,85.5,Republican
+1984,Straight,Asian,1,20,Republican
+1984,Straight,Black,1,0,Republican
+1984,Straight,Hispanic,1,0,Republican
+1984,Straight,White,1,80,Republican
+1984,Straight,Asian,2,7.68,Republican
+1984,Straight,Black,2,3.84,Republican
+1984,Straight,Hispanic,2,0,Republican
+1984,Straight,White,2,84.48,Republican
+1985,Bisexual,Asian,0,0,Republican
+1985,Bisexual,Black,0,0,Republican
+1985,Bisexual,Hispanic,0,0,Republican
+1985,Bisexual,White,0,0,Republican
+1985,Bisexual,Asian,1,0,Republican
+1985,Bisexual,Black,1,0,Republican
+1985,Bisexual,Hispanic,1,0,Republican
+1985,Bisexual,White,1,0,Republican
+1985,Bisexual,Asian,2,0,Republican
+1985,Bisexual,Black,2,0,Republican
+1985,Bisexual,Hispanic,2,0,Republican
+1985,Bisexual,White,2,0,Republican
+1985,Gay     ,Asian,0,0,Republican
+1985,Gay     ,Black,0,0,Republican
+1985,Gay     ,Hispanic,0,0,Republican
+1985,Gay     ,White,0,0,Republican
+1985,Gay     ,Asian,1,0,Republican
+1985,Gay     ,Black,1,0,Republican
+1985,Gay     ,Hispanic,1,0,Republican
+1985,Gay     ,White,1,0,Republican
+1985,Gay     ,Asian,2,0,Republican
+1985,Gay     ,Black,2,0,Republican
+1985,Gay     ,Hispanic,2,0,Republican
+1985,Gay     ,White,2,0,Republican
+1985,Lesbian ,Asian,0,0,Republican
+1985,Lesbian ,Black,0,0,Republican
+1985,Lesbian ,Hispanic,0,0,Republican
+1985,Lesbian ,White,0,0,Republican
+1985,Lesbian ,Asian,1,0,Republican
+1985,Lesbian ,Black,1,0,Republican
+1985,Lesbian ,Hispanic,1,0,Republican
+1985,Lesbian ,White,1,0,Republican
+1985,Lesbian ,Asian,2,0,Republican
+1985,Lesbian ,Black,2,0,Republican
+1985,Lesbian ,Hispanic,2,0,Republican
+1985,Lesbian ,White,2,0,Republican
+1985,Straight,Asian,0,10,Republican
+1985,Straight,Black,0,15,Republican
+1985,Straight,Hispanic,0,5,Republican
+1985,Straight,White,0,70,Republican
+1985,Straight,Asian,1,0,Republican
+1985,Straight,Black,1,0,Republican
+1985,Straight,Hispanic,1,0,Republican
+1985,Straight,White,1,100,Republican
+1985,Straight,Asian,2,8,Republican
+1985,Straight,Black,2,12,Republican
+1985,Straight,Hispanic,2,4,Republican
+1985,Straight,White,2,76,Republican
+1986,Bisexual,Asian,0,0,Republican
+1986,Bisexual,Black,0,0,Republican
+1986,Bisexual,Hispanic,0,0,Republican
+1986,Bisexual,White,0,5,Republican
+1986,Bisexual,Asian,1,0,Republican
+1986,Bisexual,Black,1,0,Republican
+1986,Bisexual,Hispanic,1,0,Republican
+1986,Bisexual,White,1,0,Republican
+1986,Bisexual,Asian,2,0,Republican
+1986,Bisexual,Black,2,0,Republican
+1986,Bisexual,Hispanic,2,0,Republican
+1986,Bisexual,White,2,4,Republican
+1986,Gay     ,Asian,0,0,Republican
+1986,Gay     ,Black,0,0,Republican
+1986,Gay     ,Hispanic,0,0,Republican
+1986,Gay     ,White,0,5,Republican
+1986,Gay     ,Asian,1,0,Republican
+1986,Gay     ,Black,1,0,Republican
+1986,Gay     ,Hispanic,1,0,Republican
+1986,Gay     ,White,1,0,Republican
+1986,Gay     ,Asian,2,0,Republican
+1986,Gay     ,Black,2,0,Republican
+1986,Gay     ,Hispanic,2,0,Republican
+1986,Gay     ,White,2,4,Republican
+1986,Lesbian ,Asian,0,0,Republican
+1986,Lesbian ,Black,0,0,Republican
+1986,Lesbian ,Hispanic,0,0,Republican
+1986,Lesbian ,White,0,0,Republican
+1986,Lesbian ,Asian,1,0,Republican
+1986,Lesbian ,Black,1,0,Republican
+1986,Lesbian ,Hispanic,1,0,Republican
+1986,Lesbian ,White,1,0,Republican
+1986,Lesbian ,Asian,2,0,Republican
+1986,Lesbian ,Black,2,0,Republican
+1986,Lesbian ,Hispanic,2,0,Republican
+1986,Lesbian ,White,2,0,Republican
+1986,Straight,Asian,0,0,Republican
+1986,Straight,Black,0,4.5,Republican
+1986,Straight,Hispanic,0,0,Republican
+1986,Straight,White,0,85.5,Republican
+1986,Straight,Asian,1,0,Republican
+1986,Straight,Black,1,0,Republican
+1986,Straight,Hispanic,1,0,Republican
+1986,Straight,White,1,100,Republican
+1986,Straight,Asian,2,0,Republican
+1986,Straight,Black,2,3.68,Republican
+1986,Straight,Hispanic,2,0,Republican
+1986,Straight,White,2,88.32,Republican
+1987,Bisexual,Asian,0,0,Republican
+1987,Bisexual,Black,0,0,Republican
+1987,Bisexual,Hispanic,0,0,Republican
+1987,Bisexual,White,0,0,Republican
+1987,Bisexual,Asian,1,0,Republican
+1987,Bisexual,Black,1,0,Republican
+1987,Bisexual,Hispanic,1,0,Republican
+1987,Bisexual,White,1,0,Republican
+1987,Bisexual,Asian,2,0,Republican
+1987,Bisexual,Black,2,0,Republican
+1987,Bisexual,Hispanic,2,0,Republican
+1987,Bisexual,White,2,0,Republican
+1987,Gay     ,Asian,0,0,Republican
+1987,Gay     ,Black,0,0,Republican
+1987,Gay     ,Hispanic,0,0,Republican
+1987,Gay     ,White,0,0,Republican
+1987,Gay     ,Asian,1,0,Republican
+1987,Gay     ,Black,1,0,Republican
+1987,Gay     ,Hispanic,1,0,Republican
+1987,Gay     ,White,1,0,Republican
+1987,Gay     ,Asian,2,0,Republican
+1987,Gay     ,Black,2,0,Republican
+1987,Gay     ,Hispanic,2,0,Republican
+1987,Gay     ,White,2,0,Republican
+1987,Lesbian ,Asian,0,0,Republican
+1987,Lesbian ,Black,0,0,Republican
+1987,Lesbian ,Hispanic,0,0,Republican
+1987,Lesbian ,White,0,0,Republican
+1987,Lesbian ,Asian,1,0,Republican
+1987,Lesbian ,Black,1,0,Republican
+1987,Lesbian ,Hispanic,1,0,Republican
+1987,Lesbian ,White,1,0,Republican
+1987,Lesbian ,Asian,2,0,Republican
+1987,Lesbian ,Black,2,0,Republican
+1987,Lesbian ,Hispanic,2,0,Republican
+1987,Lesbian ,White,2,0,Republican
+1987,Straight,Asian,0,0,Republican
+1987,Straight,Black,0,10,Republican
+1987,Straight,Hispanic,0,5,Republican
+1987,Straight,White,0,85,Republican
+1987,Straight,Asian,1,0,Republican
+1987,Straight,Black,1,0,Republican
+1987,Straight,Hispanic,1,0,Republican
+1987,Straight,White,1,100,Republican
+1987,Straight,Asian,2,0,Republican
+1987,Straight,Black,2,8,Republican
+1987,Straight,Hispanic,2,4,Republican
+1987,Straight,White,2,88,Republican
+1988,Bisexual,Asian,0,0,Republican
+1988,Bisexual,Black,0,0,Republican
+1988,Bisexual,Hispanic,0,0,Republican
+1988,Bisexual,White,0,0,Republican
+1988,Bisexual,Asian,1,0,Republican
+1988,Bisexual,Black,1,0,Republican
+1988,Bisexual,Hispanic,1,0,Republican
+1988,Bisexual,White,1,0,Republican
+1988,Bisexual,Asian,2,0,Republican
+1988,Bisexual,Black,2,0,Republican
+1988,Bisexual,Hispanic,2,0,Republican
+1988,Bisexual,White,2,0,Republican
+1988,Gay     ,Asian,0,0,Republican
+1988,Gay     ,Black,0,0,Republican
+1988,Gay     ,Hispanic,0,0,Republican
+1988,Gay     ,White,0,0,Republican
+1988,Gay     ,Asian,1,0,Republican
+1988,Gay     ,Black,1,0,Republican
+1988,Gay     ,Hispanic,1,0,Republican
+1988,Gay     ,White,1,0,Republican
+1988,Gay     ,Asian,2,0,Republican
+1988,Gay     ,Black,2,0,Republican
+1988,Gay     ,Hispanic,2,0,Republican
+1988,Gay     ,White,2,0,Republican
+1988,Lesbian ,Asian,0,0,Republican
+1988,Lesbian ,Black,0,0,Republican
+1988,Lesbian ,Hispanic,0,0,Republican
+1988,Lesbian ,White,0,0,Republican
+1988,Lesbian ,Asian,1,0,Republican
+1988,Lesbian ,Black,1,0,Republican
+1988,Lesbian ,Hispanic,1,0,Republican
+1988,Lesbian ,White,1,20,Republican
+1988,Lesbian ,Asian,2,0,Republican
+1988,Lesbian ,Black,2,0,Republican
+1988,Lesbian ,Hispanic,2,0,Republican
+1988,Lesbian ,White,2,4,Republican
+1988,Straight,Asian,0,0,Republican
+1988,Straight,Black,0,5,Republican
+1988,Straight,Hispanic,0,0,Republican
+1988,Straight,White,0,95,Republican
+1988,Straight,Asian,1,0,Republican
+1988,Straight,Black,1,0,Republican
+1988,Straight,Hispanic,1,0,Republican
+1988,Straight,White,1,80,Republican
+1988,Straight,Asian,2,0,Republican
+1988,Straight,Black,2,3.84,Republican
+1988,Straight,Hispanic,2,0,Republican
+1988,Straight,White,2,92.16,Republican
+1989,Bisexual,Asian,0,0,Republican
+1989,Bisexual,Black,0,0,Republican
+1989,Bisexual,Hispanic,0,0,Republican
+1989,Bisexual,White,0,5,Republican
+1989,Bisexual,Asian,1,0,Republican
+1989,Bisexual,Black,1,0,Republican
+1989,Bisexual,Hispanic,1,0,Republican
+1989,Bisexual,White,1,0,Republican
+1989,Bisexual,Asian,2,0,Republican
+1989,Bisexual,Black,2,0,Republican
+1989,Bisexual,Hispanic,2,0,Republican
+1989,Bisexual,White,2,4,Republican
+1989,Gay     ,Asian,0,0,Republican
+1989,Gay     ,Black,0,0,Republican
+1989,Gay     ,Hispanic,0,0,Republican
+1989,Gay     ,White,0,0,Republican
+1989,Gay     ,Asian,1,0,Republican
+1989,Gay     ,Black,1,0,Republican
+1989,Gay     ,Hispanic,1,0,Republican
+1989,Gay     ,White,1,0,Republican
+1989,Gay     ,Asian,2,0,Republican
+1989,Gay     ,Black,2,0,Republican
+1989,Gay     ,Hispanic,2,0,Republican
+1989,Gay     ,White,2,0,Republican
+1989,Lesbian ,Asian,0,0,Republican
+1989,Lesbian ,Black,0,0,Republican
+1989,Lesbian ,Hispanic,0,0,Republican
+1989,Lesbian ,White,0,0,Republican
+1989,Lesbian ,Asian,1,0,Republican
+1989,Lesbian ,Black,1,0,Republican
+1989,Lesbian ,Hispanic,1,0,Republican
+1989,Lesbian ,White,1,0,Republican
+1989,Lesbian ,Asian,2,0,Republican
+1989,Lesbian ,Black,2,0,Republican
+1989,Lesbian ,Hispanic,2,0,Republican
+1989,Lesbian ,White,2,0,Republican
+1989,Straight,Asian,0,4.75,Republican
+1989,Straight,Black,0,4.75,Republican
+1989,Straight,Hispanic,0,0,Republican
+1989,Straight,White,0,85.5,Republican
+1989,Straight,Asian,1,0,Republican
+1989,Straight,Black,1,20,Republican
+1989,Straight,Hispanic,1,0,Republican
+1989,Straight,White,1,80,Republican
+1989,Straight,Asian,2,3.84,Republican
+1989,Straight,Black,2,8.64,Republican
+1989,Straight,Hispanic,2,0,Republican
+1989,Straight,White,2,84.48,Republican
+1990,Bisexual,Asian,0,0,Republican
+1990,Bisexual,Black,0,0,Republican
+1990,Bisexual,Hispanic,0,0,Republican
+1990,Bisexual,White,0,0,Republican
+1990,Bisexual,Asian,1,0,Republican
+1990,Bisexual,Black,1,0,Republican
+1990,Bisexual,Hispanic,1,0,Republican
+1990,Bisexual,White,1,0,Republican
+1990,Bisexual,Asian,2,0,Republican
+1990,Bisexual,Black,2,0,Republican
+1990,Bisexual,Hispanic,2,0,Republican
+1990,Bisexual,White,2,0,Republican
+1990,Gay     ,Asian,0,0,Republican
+1990,Gay     ,Black,0,0,Republican
+1990,Gay     ,Hispanic,0,0,Republican
+1990,Gay     ,White,0,0,Republican
+1990,Gay     ,Asian,1,0,Republican
+1990,Gay     ,Black,1,0,Republican
+1990,Gay     ,Hispanic,1,0,Republican
+1990,Gay     ,White,1,0,Republican
+1990,Gay     ,Asian,2,0,Republican
+1990,Gay     ,Black,2,0,Republican
+1990,Gay     ,Hispanic,2,0,Republican
+1990,Gay     ,White,2,0,Republican
+1990,Lesbian ,Asian,0,0,Republican
+1990,Lesbian ,Black,0,0,Republican
+1990,Lesbian ,Hispanic,0,0,Republican
+1990,Lesbian ,White,0,0,Republican
+1990,Lesbian ,Asian,1,0,Republican
+1990,Lesbian ,Black,1,0,Republican
+1990,Lesbian ,Hispanic,1,0,Republican
+1990,Lesbian ,White,1,0,Republican
+1990,Lesbian ,Asian,2,0,Republican
+1990,Lesbian ,Black,2,0,Republican
+1990,Lesbian ,Hispanic,2,0,Republican
+1990,Lesbian ,White,2,0,Republican
+1990,Straight,Asian,0,0,Republican
+1990,Straight,Black,0,0,Republican
+1990,Straight,Hispanic,0,5,Republican
+1990,Straight,White,0,95,Republican
+1990,Straight,Asian,1,0,Republican
+1990,Straight,Black,1,20,Republican
+1990,Straight,Hispanic,1,0,Republican
+1990,Straight,White,1,80,Republican
+1990,Straight,Asian,2,0,Republican
+1990,Straight,Black,2,4,Republican
+1990,Straight,Hispanic,2,4,Republican
+1990,Straight,White,2,92,Republican
+1991,Bisexual,Asian,0,0,Republican
+1991,Bisexual,Black,0,0,Republican
+1991,Bisexual,Hispanic,0,0,Republican
+1991,Bisexual,White,0,0,Republican
+1991,Bisexual,Asian,1,0,Republican
+1991,Bisexual,Black,1,0,Republican
+1991,Bisexual,Hispanic,1,0,Republican
+1991,Bisexual,White,1,0,Republican
+1991,Bisexual,Asian,2,0,Republican
+1991,Bisexual,Black,2,0,Republican
+1991,Bisexual,Hispanic,2,0,Republican
+1991,Bisexual,White,2,0,Republican
+1991,Gay     ,Asian,0,0,Republican
+1991,Gay     ,Black,0,0,Republican
+1991,Gay     ,Hispanic,0,0,Republican
+1991,Gay     ,White,0,0,Republican
+1991,Gay     ,Asian,1,0,Republican
+1991,Gay     ,Black,1,0,Republican
+1991,Gay     ,Hispanic,1,0,Republican
+1991,Gay     ,White,1,0,Republican
+1991,Gay     ,Asian,2,0,Republican
+1991,Gay     ,Black,2,0,Republican
+1991,Gay     ,Hispanic,2,0,Republican
+1991,Gay     ,White,2,0,Republican
+1991,Lesbian ,Asian,0,0,Republican
+1991,Lesbian ,Black,0,0,Republican
+1991,Lesbian ,Hispanic,0,0,Republican
+1991,Lesbian ,White,0,0,Republican
+1991,Lesbian ,Asian,1,0,Republican
+1991,Lesbian ,Black,1,0,Republican
+1991,Lesbian ,Hispanic,1,0,Republican
+1991,Lesbian ,White,1,20,Republican
+1991,Lesbian ,Asian,2,0,Republican
+1991,Lesbian ,Black,2,0,Republican
+1991,Lesbian ,Hispanic,2,0,Republican
+1991,Lesbian ,White,2,4,Republican
+1991,Straight,Asian,0,5,Republican
+1991,Straight,Black,0,5,Republican
+1991,Straight,Hispanic,0,0,Republican
+1991,Straight,White,0,90,Republican
+1991,Straight,Asian,1,0,Republican
+1991,Straight,Black,1,0,Republican
+1991,Straight,Hispanic,1,0,Republican
+1991,Straight,White,1,80,Republican
+1991,Straight,Asian,2,3.84,Republican
+1991,Straight,Black,2,3.84,Republican
+1991,Straight,Hispanic,2,0,Republican
+1991,Straight,White,2,88.32,Republican
+1992,Bisexual,Asian,0,0,Republican
+1992,Bisexual,Black,0,0,Republican
+1992,Bisexual,Hispanic,0,0,Republican
+1992,Bisexual,White,0,0,Republican
+1992,Bisexual,Asian,1,0,Republican
+1992,Bisexual,Black,1,0,Republican
+1992,Bisexual,Hispanic,1,0,Republican
+1992,Bisexual,White,1,0,Republican
+1992,Bisexual,Asian,2,0,Republican
+1992,Bisexual,Black,2,0,Republican
+1992,Bisexual,Hispanic,2,0,Republican
+1992,Bisexual,White,2,0,Republican
+1992,Gay     ,Asian,0,0,Republican
+1992,Gay     ,Black,0,5,Republican
+1992,Gay     ,Hispanic,0,0,Republican
+1992,Gay     ,White,0,5,Republican
+1992,Gay     ,Asian,1,0,Republican
+1992,Gay     ,Black,1,0,Republican
+1992,Gay     ,Hispanic,1,0,Republican
+1992,Gay     ,White,1,0,Republican
+1992,Gay     ,Asian,2,0,Republican
+1992,Gay     ,Black,2,4,Republican
+1992,Gay     ,Hispanic,2,0,Republican
+1992,Gay     ,White,2,4,Republican
+1992,Lesbian ,Asian,0,0,Republican
+1992,Lesbian ,Black,0,0,Republican
+1992,Lesbian ,Hispanic,0,0,Republican
+1992,Lesbian ,White,0,0,Republican
+1992,Lesbian ,Asian,1,0,Republican
+1992,Lesbian ,Black,1,0,Republican
+1992,Lesbian ,Hispanic,1,0,Republican
+1992,Lesbian ,White,1,0,Republican
+1992,Lesbian ,Asian,2,0,Republican
+1992,Lesbian ,Black,2,0,Republican
+1992,Lesbian ,Hispanic,2,0,Republican
+1992,Lesbian ,White,2,0,Republican
+1992,Straight,Asian,0,0,Republican
+1992,Straight,Black,0,9,Republican
+1992,Straight,Hispanic,0,0,Republican
+1992,Straight,White,0,81,Republican
+1992,Straight,Asian,1,0,Republican
+1992,Straight,Black,1,0,Republican
+1992,Straight,Hispanic,1,0,Republican
+1992,Straight,White,1,100,Republican
+1992,Straight,Asian,2,0,Republican
+1992,Straight,Black,2,7.36,Republican
+1992,Straight,Hispanic,2,0,Republican
+1992,Straight,White,2,84.64,Republican
+1993,Bisexual,Asian,0,0,Democratic
+1993,Bisexual,Black,0,0,Democratic
+1993,Bisexual,Hispanic,0,0,Democratic
+1993,Bisexual,White,0,0,Democratic
+1993,Bisexual,Asian,1,0,Democratic
+1993,Bisexual,Black,1,0,Democratic
+1993,Bisexual,Hispanic,1,0,Democratic
+1993,Bisexual,White,1,20,Democratic
+1993,Bisexual,Asian,2,0,Democratic
+1993,Bisexual,Black,2,0,Democratic
+1993,Bisexual,Hispanic,2,0,Democratic
+1993,Bisexual,White,2,4,Democratic
+1993,Gay     ,Asian,0,0,Democratic
+1993,Gay     ,Black,0,0,Democratic
+1993,Gay     ,Hispanic,0,0,Democratic
+1993,Gay     ,White,0,5,Democratic
+1993,Gay     ,Asian,1,0,Democratic
+1993,Gay     ,Black,1,0,Democratic
+1993,Gay     ,Hispanic,1,0,Democratic
+1993,Gay     ,White,1,0,Democratic
+1993,Gay     ,Asian,2,0,Democratic
+1993,Gay     ,Black,2,0,Democratic
+1993,Gay     ,Hispanic,2,0,Democratic
+1993,Gay     ,White,2,4,Democratic
+1993,Lesbian ,Asian,0,0,Democratic
+1993,Lesbian ,Black,0,0,Democratic
+1993,Lesbian ,Hispanic,0,0,Democratic
+1993,Lesbian ,White,0,0,Democratic
+1993,Lesbian ,Asian,1,0,Democratic
+1993,Lesbian ,Black,1,0,Democratic
+1993,Lesbian ,Hispanic,1,0,Democratic
+1993,Lesbian ,White,1,0,Democratic
+1993,Lesbian ,Asian,2,0,Democratic
+1993,Lesbian ,Black,2,0,Democratic
+1993,Lesbian ,Hispanic,2,0,Democratic
+1993,Lesbian ,White,2,0,Democratic
+1993,Straight,Asian,0,0,Democratic
+1993,Straight,Black,0,9.5,Democratic
+1993,Straight,Hispanic,0,4.75,Democratic
+1993,Straight,White,0,80.85,Democratic
+1993,Straight,Asian,1,0,Democratic
+1993,Straight,Black,1,0,Democratic
+1993,Straight,Hispanic,1,0,Democratic
+1993,Straight,White,1,80,Democratic
+1993,Straight,Asian,2,0,Democratic
+1993,Straight,Black,2,7.36,Democratic
+1993,Straight,Hispanic,2,3.68,Democratic
+1993,Straight,White,2,80.96,Democratic
+1994,Bisexual,Asian,0,0,Democratic
+1994,Bisexual,Black,0,0,Democratic
+1994,Bisexual,Hispanic,0,0,Democratic
+1994,Bisexual,White,0,0,Democratic
+1994,Bisexual,Asian,1,0,Democratic
+1994,Bisexual,Black,1,0,Democratic
+1994,Bisexual,Hispanic,1,0,Democratic
+1994,Bisexual,White,1,0,Democratic
+1994,Bisexual,Asian,2,0,Democratic
+1994,Bisexual,Black,2,0,Democratic
+1994,Bisexual,Hispanic,2,0,Democratic
+1994,Bisexual,White,2,0,Democratic
+1994,Gay     ,Asian,0,0,Democratic
+1994,Gay     ,Black,0,0,Democratic
+1994,Gay     ,Hispanic,0,0,Democratic
+1994,Gay     ,White,0,5,Democratic
+1994,Gay     ,Asian,1,0,Democratic
+1994,Gay     ,Black,1,0,Democratic
+1994,Gay     ,Hispanic,1,0,Democratic
+1994,Gay     ,White,1,0,Democratic
+1994,Gay     ,Asian,2,0,Democratic
+1994,Gay     ,Black,2,0,Democratic
+1994,Gay     ,Hispanic,2,0,Democratic
+1994,Gay     ,White,2,4,Democratic
+1994,Lesbian ,Asian,0,0,Democratic
+1994,Lesbian ,Black,0,0,Democratic
+1994,Lesbian ,Hispanic,0,0,Democratic
+1994,Lesbian ,White,0,5,Democratic
+1994,Lesbian ,Asian,1,0,Democratic
+1994,Lesbian ,Black,1,0,Democratic
+1994,Lesbian ,Hispanic,1,0,Democratic
+1994,Lesbian ,White,1,0,Democratic
+1994,Lesbian ,Asian,2,0,Democratic
+1994,Lesbian ,Black,2,0,Democratic
+1994,Lesbian ,Hispanic,2,0,Democratic
+1994,Lesbian ,White,2,4,Democratic
+1994,Straight,Asian,0,4.5,Democratic
+1994,Straight,Black,0,9,Democratic
+1994,Straight,Hispanic,0,0,Democratic
+1994,Straight,White,0,76.5,Democratic
+1994,Straight,Asian,1,0,Democratic
+1994,Straight,Black,1,0,Democratic
+1994,Straight,Hispanic,1,0,Democratic
+1994,Straight,White,1,100,Democratic
+1994,Straight,Asian,2,3.68,Democratic
+1994,Straight,Black,2,7.36,Democratic
+1994,Straight,Hispanic,2,0,Democratic
+1994,Straight,White,2,80.96,Democratic
+1995,Bisexual,Asian,0,0,Democratic
+1995,Bisexual,Black,0,0,Democratic
+1995,Bisexual,Hispanic,0,0,Democratic
+1995,Bisexual,White,0,0,Democratic
+1995,Bisexual,Asian,1,0,Democratic
+1995,Bisexual,Black,1,0,Democratic
+1995,Bisexual,Hispanic,1,0,Democratic
+1995,Bisexual,White,1,0,Democratic
+1995,Bisexual,Asian,2,0,Democratic
+1995,Bisexual,Black,2,0,Democratic
+1995,Bisexual,Hispanic,2,0,Democratic
+1995,Bisexual,White,2,0,Democratic
+1995,Gay     ,Asian,0,0,Democratic
+1995,Gay     ,Black,0,0,Democratic
+1995,Gay     ,Hispanic,0,0,Democratic
+1995,Gay     ,White,0,0,Democratic
+1995,Gay     ,Asian,1,0,Democratic
+1995,Gay     ,Black,1,0,Democratic
+1995,Gay     ,Hispanic,1,0,Democratic
+1995,Gay     ,White,1,20,Democratic
+1995,Gay     ,Asian,2,0,Democratic
+1995,Gay     ,Black,2,0,Democratic
+1995,Gay     ,Hispanic,2,0,Democratic
+1995,Gay     ,White,2,4,Democratic
+1995,Lesbian ,Asian,0,0,Democratic
+1995,Lesbian ,Black,0,0,Democratic
+1995,Lesbian ,Hispanic,0,0,Democratic
+1995,Lesbian ,White,0,0,Democratic
+1995,Lesbian ,Asian,1,0,Democratic
+1995,Lesbian ,Black,1,0,Democratic
+1995,Lesbian ,Hispanic,1,0,Democratic
+1995,Lesbian ,White,1,0,Democratic
+1995,Lesbian ,Asian,2,0,Democratic
+1995,Lesbian ,Black,2,0,Democratic
+1995,Lesbian ,Hispanic,2,0,Democratic
+1995,Lesbian ,White,2,0,Democratic
+1995,Straight,Asian,0,0,Democratic
+1995,Straight,Black,0,0,Democratic
+1995,Straight,Hispanic,0,0,Democratic
+1995,Straight,White,0,100,Democratic
+1995,Straight,Asian,1,0,Democratic
+1995,Straight,Black,1,0,Democratic
+1995,Straight,Hispanic,1,0,Democratic
+1995,Straight,White,1,80,Democratic
+1995,Straight,Asian,2,0,Democratic
+1995,Straight,Black,2,0,Democratic
+1995,Straight,Hispanic,2,0,Democratic
+1995,Straight,White,2,96,Democratic
+1996,Bisexual,Asian,0,0,Democratic
+1996,Bisexual,Black,0,0,Democratic
+1996,Bisexual,Hispanic,0,0,Democratic
+1996,Bisexual,White,0,0,Democratic
+1996,Bisexual,Asian,1,0,Democratic
+1996,Bisexual,Black,1,0,Democratic
+1996,Bisexual,Hispanic,1,0,Democratic
+1996,Bisexual,White,1,0,Democratic
+1996,Bisexual,Asian,2,0,Democratic
+1996,Bisexual,Black,2,0,Democratic
+1996,Bisexual,Hispanic,2,0,Democratic
+1996,Bisexual,White,2,0,Democratic
+1996,Gay     ,Asian,0,0,Democratic
+1996,Gay     ,Black,0,0,Democratic
+1996,Gay     ,Hispanic,0,0,Democratic
+1996,Gay     ,White,0,0,Democratic
+1996,Gay     ,Asian,1,0,Democratic
+1996,Gay     ,Black,1,0,Democratic
+1996,Gay     ,Hispanic,1,0,Democratic
+1996,Gay     ,White,1,0,Democratic
+1996,Gay     ,Asian,2,0,Democratic
+1996,Gay     ,Black,2,0,Democratic
+1996,Gay     ,Hispanic,2,0,Democratic
+1996,Gay     ,White,2,0,Democratic
+1996,Lesbian ,Asian,0,0,Democratic
+1996,Lesbian ,Black,0,0,Democratic
+1996,Lesbian ,Hispanic,0,0,Democratic
+1996,Lesbian ,White,0,0,Democratic
+1996,Lesbian ,Asian,1,0,Democratic
+1996,Lesbian ,Black,1,0,Democratic
+1996,Lesbian ,Hispanic,1,0,Democratic
+1996,Lesbian ,White,1,0,Democratic
+1996,Lesbian ,Asian,2,0,Democratic
+1996,Lesbian ,Black,2,0,Democratic
+1996,Lesbian ,Hispanic,2,0,Democratic
+1996,Lesbian ,White,2,0,Democratic
+1996,Straight,Asian,0,0,Democratic
+1996,Straight,Black,0,5,Democratic
+1996,Straight,Hispanic,0,0,Democratic
+1996,Straight,White,0,95,Democratic
+1996,Straight,Asian,1,0,Democratic
+1996,Straight,Black,1,20,Democratic
+1996,Straight,Hispanic,1,0,Democratic
+1996,Straight,White,1,80,Democratic
+1996,Straight,Asian,2,0,Democratic
+1996,Straight,Black,2,8,Democratic
+1996,Straight,Hispanic,2,0,Democratic
+1996,Straight,White,2,92,Democratic
+1997,Bisexual,Asian,0,0,Democratic
+1997,Bisexual,Black,0,0,Democratic
+1997,Bisexual,Hispanic,0,0,Democratic
+1997,Bisexual,White,0,0,Democratic
+1997,Bisexual,Asian,1,0,Democratic
+1997,Bisexual,Black,1,0,Democratic
+1997,Bisexual,Hispanic,1,0,Democratic
+1997,Bisexual,White,1,0,Democratic
+1997,Bisexual,Asian,2,0,Democratic
+1997,Bisexual,Black,2,0,Democratic
+1997,Bisexual,Hispanic,2,0,Democratic
+1997,Bisexual,White,2,0,Democratic
+1997,Gay     ,Asian,0,0,Democratic
+1997,Gay     ,Black,0,0,Democratic
+1997,Gay     ,Hispanic,0,0,Democratic
+1997,Gay     ,White,0,5,Democratic
+1997,Gay     ,Asian,1,0,Democratic
+1997,Gay     ,Black,1,0,Democratic
+1997,Gay     ,Hispanic,1,0,Democratic
+1997,Gay     ,White,1,0,Democratic
+1997,Gay     ,Asian,2,0,Democratic
+1997,Gay     ,Black,2,0,Democratic
+1997,Gay     ,Hispanic,2,0,Democratic
+1997,Gay     ,White,2,4,Democratic
+1997,Lesbian ,Asian,0,0,Democratic
+1997,Lesbian ,Black,0,0,Democratic
+1997,Lesbian ,Hispanic,0,0,Democratic
+1997,Lesbian ,White,0,0,Democratic
+1997,Lesbian ,Asian,1,0,Democratic
+1997,Lesbian ,Black,1,0,Democratic
+1997,Lesbian ,Hispanic,1,0,Democratic
+1997,Lesbian ,White,1,0,Democratic
+1997,Lesbian ,Asian,2,0,Democratic
+1997,Lesbian ,Black,2,0,Democratic
+1997,Lesbian ,Hispanic,2,0,Democratic
+1997,Lesbian ,White,2,0,Democratic
+1997,Straight,Asian,0,4.75,Democratic
+1997,Straight,Black,0,0,Democratic
+1997,Straight,Hispanic,0,0,Democratic
+1997,Straight,White,0,90.25,Democratic
+1997,Straight,Asian,1,0,Democratic
+1997,Straight,Black,1,0,Democratic
+1997,Straight,Hispanic,1,0,Democratic
+1997,Straight,White,1,100,Democratic
+1997,Straight,Asian,2,3.84,Democratic
+1997,Straight,Black,2,0,Democratic
+1997,Straight,Hispanic,2,0,Democratic
+1997,Straight,White,2,92.16,Democratic
+1998,Bisexual,Asian,0,0,Democratic
+1998,Bisexual,Black,0,0,Democratic
+1998,Bisexual,Hispanic,0,0,Democratic
+1998,Bisexual,White,0,0,Democratic
+1998,Bisexual,Asian,1,0,Democratic
+1998,Bisexual,Black,1,0,Democratic
+1998,Bisexual,Hispanic,1,0,Democratic
+1998,Bisexual,White,1,0,Democratic
+1998,Bisexual,Asian,2,0,Democratic
+1998,Bisexual,Black,2,0,Democratic
+1998,Bisexual,Hispanic,2,0,Democratic
+1998,Bisexual,White,2,0,Democratic
+1998,Gay     ,Asian,0,0,Democratic
+1998,Gay     ,Black,0,0,Democratic
+1998,Gay     ,Hispanic,0,0,Democratic
+1998,Gay     ,White,0,5,Democratic
+1998,Gay     ,Asian,1,0,Democratic
+1998,Gay     ,Black,1,0,Democratic
+1998,Gay     ,Hispanic,1,0,Democratic
+1998,Gay     ,White,1,0,Democratic
+1998,Gay     ,Asian,2,0,Democratic
+1998,Gay     ,Black,2,0,Democratic
+1998,Gay     ,Hispanic,2,0,Democratic
+1998,Gay     ,White,2,4,Democratic
+1998,Lesbian ,Asian,0,0,Democratic
+1998,Lesbian ,Black,0,0,Democratic
+1998,Lesbian ,Hispanic,0,0,Democratic
+1998,Lesbian ,White,0,0,Democratic
+1998,Lesbian ,Asian,1,0,Democratic
+1998,Lesbian ,Black,1,0,Democratic
+1998,Lesbian ,Hispanic,1,0,Democratic
+1998,Lesbian ,White,1,0,Democratic
+1998,Lesbian ,Asian,2,0,Democratic
+1998,Lesbian ,Black,2,0,Democratic
+1998,Lesbian ,Hispanic,2,0,Democratic
+1998,Lesbian ,White,2,0,Democratic
+1998,Straight,Asian,0,0,Democratic
+1998,Straight,Black,0,0,Democratic
+1998,Straight,Hispanic,0,4.75,Democratic
+1998,Straight,White,0,90.25,Democratic
+1998,Straight,Asian,1,0,Democratic
+1998,Straight,Black,1,0,Democratic
+1998,Straight,Hispanic,1,0,Democratic
+1998,Straight,White,1,100,Democratic
+1998,Straight,Asian,2,0,Democratic
+1998,Straight,Black,2,0,Democratic
+1998,Straight,Hispanic,2,3.84,Democratic
+1998,Straight,White,2,92.16,Democratic
+1999,Bisexual,Asian,0,0,Democratic
+1999,Bisexual,Black,0,0,Democratic
+1999,Bisexual,Hispanic,0,0,Democratic
+1999,Bisexual,White,0,0,Democratic
+1999,Bisexual,Asian,1,0,Democratic
+1999,Bisexual,Black,1,0,Democratic
+1999,Bisexual,Hispanic,1,0,Democratic
+1999,Bisexual,White,1,20,Democratic
+1999,Bisexual,Asian,2,0,Democratic
+1999,Bisexual,Black,2,0,Democratic
+1999,Bisexual,Hispanic,2,0,Democratic
+1999,Bisexual,White,2,4,Democratic
+1999,Gay     ,Asian,0,0,Democratic
+1999,Gay     ,Black,0,0,Democratic
+1999,Gay     ,Hispanic,0,0,Democratic
+1999,Gay     ,White,0,0,Democratic
+1999,Gay     ,Asian,1,0,Democratic
+1999,Gay     ,Black,1,0,Democratic
+1999,Gay     ,Hispanic,1,0,Democratic
+1999,Gay     ,White,1,20,Democratic
+1999,Gay     ,Asian,2,0,Democratic
+1999,Gay     ,Black,2,0,Democratic
+1999,Gay     ,Hispanic,2,0,Democratic
+1999,Gay     ,White,2,4,Democratic
+1999,Lesbian ,Asian,0,0,Democratic
+1999,Lesbian ,Black,0,0,Democratic
+1999,Lesbian ,Hispanic,0,0,Democratic
+1999,Lesbian ,White,0,0,Democratic
+1999,Lesbian ,Asian,1,0,Democratic
+1999,Lesbian ,Black,1,0,Democratic
+1999,Lesbian ,Hispanic,1,0,Democratic
+1999,Lesbian ,White,1,0,Democratic
+1999,Lesbian ,Asian,2,0,Democratic
+1999,Lesbian ,Black,2,0,Democratic
+1999,Lesbian ,Hispanic,2,0,Democratic
+1999,Lesbian ,White,2,0,Democratic
+1999,Straight,Asian,0,5,Democratic
+1999,Straight,Black,0,10,Democratic
+1999,Straight,Hispanic,0,0,Democratic
+1999,Straight,White,0,85,Democratic
+1999,Straight,Asian,1,0,Democratic
+1999,Straight,Black,1,0,Democratic
+1999,Straight,Hispanic,1,0,Democratic
+1999,Straight,White,1,60,Democratic
+1999,Straight,Asian,2,3.68,Democratic
+1999,Straight,Black,2,7.36,Democratic
+1999,Straight,Hispanic,2,0,Democratic
+1999,Straight,White,2,80.96,Democratic
+2000,Bisexual,Asian,0,0,Democratic
+2000,Bisexual,Black,0,0,Democratic
+2000,Bisexual,Hispanic,0,0,Democratic
+2000,Bisexual,White,0,0,Democratic
+2000,Bisexual,Asian,1,0,Democratic
+2000,Bisexual,Black,1,0,Democratic
+2000,Bisexual,Hispanic,1,0,Democratic
+2000,Bisexual,White,1,0,Democratic
+2000,Bisexual,Asian,2,0,Democratic
+2000,Bisexual,Black,2,0,Democratic
+2000,Bisexual,Hispanic,2,0,Democratic
+2000,Bisexual,White,2,0,Democratic
+2000,Gay     ,Asian,0,0,Democratic
+2000,Gay     ,Black,0,0,Democratic
+2000,Gay     ,Hispanic,0,0,Democratic
+2000,Gay     ,White,0,5,Democratic
+2000,Gay     ,Asian,1,0,Democratic
+2000,Gay     ,Black,1,0,Democratic
+2000,Gay     ,Hispanic,1,0,Democratic
+2000,Gay     ,White,1,0,Democratic
+2000,Gay     ,Asian,2,0,Democratic
+2000,Gay     ,Black,2,0,Democratic
+2000,Gay     ,Hispanic,2,0,Democratic
+2000,Gay     ,White,2,4,Democratic
+2000,Lesbian ,Asian,0,0,Democratic
+2000,Lesbian ,Black,0,0,Democratic
+2000,Lesbian ,Hispanic,0,0,Democratic
+2000,Lesbian ,White,0,0,Democratic
+2000,Lesbian ,Asian,1,0,Democratic
+2000,Lesbian ,Black,1,0,Democratic
+2000,Lesbian ,Hispanic,1,0,Democratic
+2000,Lesbian ,White,1,0,Democratic
+2000,Lesbian ,Asian,2,0,Democratic
+2000,Lesbian ,Black,2,0,Democratic
+2000,Lesbian ,Hispanic,2,0,Democratic
+2000,Lesbian ,White,2,0,Democratic
+2000,Straight,Asian,0,4.75,Democratic
+2000,Straight,Black,0,0,Democratic
+2000,Straight,Hispanic,0,0,Democratic
+2000,Straight,White,0,90.25,Democratic
+2000,Straight,Asian,1,0,Democratic
+2000,Straight,Black,1,0,Democratic
+2000,Straight,Hispanic,1,20,Democratic
+2000,Straight,White,1,80,Democratic
+2000,Straight,Asian,2,3.84,Democratic
+2000,Straight,Black,2,0,Democratic
+2000,Straight,Hispanic,2,3.84,Democratic
+2000,Straight,White,2,88.32,Democratic
+2001,Bisexual,Asian,0,0,Republican
+2001,Bisexual,Black,0,0,Republican
+2001,Bisexual,Hispanic,0,0,Republican
+2001,Bisexual,White,0,0,Republican
+2001,Bisexual,Asian,1,0,Republican
+2001,Bisexual,Black,1,0,Republican
+2001,Bisexual,Hispanic,1,0,Republican
+2001,Bisexual,White,1,0,Republican
+2001,Bisexual,Asian,2,0,Republican
+2001,Bisexual,Black,2,0,Republican
+2001,Bisexual,Hispanic,2,0,Republican
+2001,Bisexual,White,2,0,Republican
+2001,Gay     ,Asian,0,0,Republican
+2001,Gay     ,Black,0,0,Republican
+2001,Gay     ,Hispanic,0,0,Republican
+2001,Gay     ,White,0,5,Republican
+2001,Gay     ,Asian,1,0,Republican
+2001,Gay     ,Black,1,0,Republican
+2001,Gay     ,Hispanic,1,0,Republican
+2001,Gay     ,White,1,0,Republican
+2001,Gay     ,Asian,2,0,Republican
+2001,Gay     ,Black,2,0,Republican
+2001,Gay     ,Hispanic,2,0,Republican
+2001,Gay     ,White,2,4,Republican
+2001,Lesbian ,Asian,0,0,Republican
+2001,Lesbian ,Black,0,0,Republican
+2001,Lesbian ,Hispanic,0,0,Republican
+2001,Lesbian ,White,0,0,Republican
+2001,Lesbian ,Asian,1,0,Republican
+2001,Lesbian ,Black,1,0,Republican
+2001,Lesbian ,Hispanic,1,0,Republican
+2001,Lesbian ,White,1,0,Republican
+2001,Lesbian ,Asian,2,0,Republican
+2001,Lesbian ,Black,2,0,Republican
+2001,Lesbian ,Hispanic,2,0,Republican
+2001,Lesbian ,White,2,0,Republican
+2001,Straight,Asian,0,4.75,Republican
+2001,Straight,Black,0,4.75,Republican
+2001,Straight,Hispanic,0,0,Republican
+2001,Straight,White,0,85.5,Republican
+2001,Straight,Asian,1,0,Republican
+2001,Straight,Black,1,40,Republican
+2001,Straight,Hispanic,1,0,Republican
+2001,Straight,White,1,60,Republican
+2001,Straight,Asian,2,3.84,Republican
+2001,Straight,Black,2,11.52,Republican
+2001,Straight,Hispanic,2,0,Republican
+2001,Straight,White,2,80.64,Republican
+2002,Bisexual,Asian,0,0,Republican
+2002,Bisexual,Black,0,0,Republican
+2002,Bisexual,Hispanic,0,0,Republican
+2002,Bisexual,White,0,0,Republican
+2002,Bisexual,Asian,1,0,Republican
+2002,Bisexual,Black,1,0,Republican
+2002,Bisexual,Hispanic,1,0,Republican
+2002,Bisexual,White,1,0,Republican
+2002,Bisexual,Asian,2,0,Republican
+2002,Bisexual,Black,2,0,Republican
+2002,Bisexual,Hispanic,2,0,Republican
+2002,Bisexual,White,2,0,Republican
+2002,Gay     ,Asian,0,0,Republican
+2002,Gay     ,Black,0,0,Republican
+2002,Gay     ,Hispanic,0,5,Republican
+2002,Gay     ,White,0,10,Republican
+2002,Gay     ,Asian,1,0,Republican
+2002,Gay     ,Black,1,0,Republican
+2002,Gay     ,Hispanic,1,0,Republican
+2002,Gay     ,White,1,0,Republican
+2002,Gay     ,Asian,2,0,Republican
+2002,Gay     ,Black,2,0,Republican
+2002,Gay     ,Hispanic,2,4,Republican
+2002,Gay     ,White,2,8,Republican
+2002,Lesbian ,Asian,0,0,Republican
+2002,Lesbian ,Black,0,0,Republican
+2002,Lesbian ,Hispanic,0,0,Republican
+2002,Lesbian ,White,0,0,Republican
+2002,Lesbian ,Asian,1,0,Republican
+2002,Lesbian ,Black,1,0,Republican
+2002,Lesbian ,Hispanic,1,0,Republican
+2002,Lesbian ,White,1,0,Republican
+2002,Lesbian ,Asian,2,0,Republican
+2002,Lesbian ,Black,2,0,Republican
+2002,Lesbian ,Hispanic,2,0,Republican
+2002,Lesbian ,White,2,0,Republican
+2002,Straight,Asian,0,0,Republican
+2002,Straight,Black,0,4.25,Republican
+2002,Straight,Hispanic,0,4.25,Republican
+2002,Straight,White,0,76.5,Republican
+2002,Straight,Asian,1,0,Republican
+2002,Straight,Black,1,0,Republican
+2002,Straight,Hispanic,1,0,Republican
+2002,Straight,White,1,100,Republican
+2002,Straight,Asian,2,0,Republican
+2002,Straight,Black,2,3.52,Republican
+2002,Straight,Hispanic,2,3.52,Republican
+2002,Straight,White,2,80.96,Republican
+2003,Bisexual,Asian,0,0,Republican
+2003,Bisexual,Black,0,0,Republican
+2003,Bisexual,Hispanic,0,0,Republican
+2003,Bisexual,White,0,0,Republican
+2003,Bisexual,Asian,1,0,Republican
+2003,Bisexual,Black,1,0,Republican
+2003,Bisexual,Hispanic,1,0,Republican
+2003,Bisexual,White,1,0,Republican
+2003,Bisexual,Asian,2,0,Republican
+2003,Bisexual,Black,2,0,Republican
+2003,Bisexual,Hispanic,2,0,Republican
+2003,Bisexual,White,2,0,Republican
+2003,Gay     ,Asian,0,0,Republican
+2003,Gay     ,Black,0,0,Republican
+2003,Gay     ,Hispanic,0,0,Republican
+2003,Gay     ,White,0,0,Republican
+2003,Gay     ,Asian,1,0,Republican
+2003,Gay     ,Black,1,0,Republican
+2003,Gay     ,Hispanic,1,0,Republican
+2003,Gay     ,White,1,0,Republican
+2003,Gay     ,Asian,2,0,Republican
+2003,Gay     ,Black,2,0,Republican
+2003,Gay     ,Hispanic,2,0,Republican
+2003,Gay     ,White,2,0,Republican
+2003,Lesbian ,Asian,0,0,Republican
+2003,Lesbian ,Black,0,0,Republican
+2003,Lesbian ,Hispanic,0,0,Republican
+2003,Lesbian ,White,0,0,Republican
+2003,Lesbian ,Asian,1,0,Republican
+2003,Lesbian ,Black,1,0,Republican
+2003,Lesbian ,Hispanic,1,0,Republican
+2003,Lesbian ,White,1,0,Republican
+2003,Lesbian ,Asian,2,0,Republican
+2003,Lesbian ,Black,2,0,Republican
+2003,Lesbian ,Hispanic,2,0,Republican
+2003,Lesbian ,White,2,0,Republican
+2003,Straight,Asian,0,15,Republican
+2003,Straight,Black,0,5,Republican
+2003,Straight,Hispanic,0,5,Republican
+2003,Straight,White,0,75,Republican
+2003,Straight,Asian,1,0,Republican
+2003,Straight,Black,1,0,Republican
+2003,Straight,Hispanic,1,0,Republican
+2003,Straight,White,1,100,Republican
+2003,Straight,Asian,2,12,Republican
+2003,Straight,Black,2,4,Republican
+2003,Straight,Hispanic,2,4,Republican
+2003,Straight,White,2,80,Republican
+2004,Bisexual,Asian,0,0,Republican
+2004,Bisexual,Black,0,0,Republican
+2004,Bisexual,Hispanic,0,0,Republican
+2004,Bisexual,White,0,0,Republican
+2004,Bisexual,Asian,1,0,Republican
+2004,Bisexual,Black,1,0,Republican
+2004,Bisexual,Hispanic,1,0,Republican
+2004,Bisexual,White,1,0,Republican
+2004,Bisexual,Asian,2,0,Republican
+2004,Bisexual,Black,2,0,Republican
+2004,Bisexual,Hispanic,2,0,Republican
+2004,Bisexual,White,2,0,Republican
+2004,Gay     ,Asian,0,0,Republican
+2004,Gay     ,Black,0,0,Republican
+2004,Gay     ,Hispanic,0,0,Republican
+2004,Gay     ,White,0,0,Republican
+2004,Gay     ,Asian,1,0,Republican
+2004,Gay     ,Black,1,0,Republican
+2004,Gay     ,Hispanic,1,0,Republican
+2004,Gay     ,White,1,0,Republican
+2004,Gay     ,Asian,2,0,Republican
+2004,Gay     ,Black,2,0,Republican
+2004,Gay     ,Hispanic,2,0,Republican
+2004,Gay     ,White,2,0,Republican
+2004,Lesbian ,Asian,0,0,Republican
+2004,Lesbian ,Black,0,0,Republican
+2004,Lesbian ,Hispanic,0,0,Republican
+2004,Lesbian ,White,0,0,Republican
+2004,Lesbian ,Asian,1,0,Republican
+2004,Lesbian ,Black,1,0,Republican
+2004,Lesbian ,Hispanic,1,0,Republican
+2004,Lesbian ,White,1,0,Republican
+2004,Lesbian ,Asian,2,0,Republican
+2004,Lesbian ,Black,2,0,Republican
+2004,Lesbian ,Hispanic,2,0,Republican
+2004,Lesbian ,White,2,0,Republican
+2004,Straight,Asian,0,0,Republican
+2004,Straight,Black,0,15,Republican
+2004,Straight,Hispanic,0,5,Republican
+2004,Straight,White,0,80,Republican
+2004,Straight,Asian,1,0,Republican
+2004,Straight,Black,1,40,Republican
+2004,Straight,Hispanic,1,0,Republican
+2004,Straight,White,1,60,Republican
+2004,Straight,Asian,2,0,Republican
+2004,Straight,Black,2,20,Republican
+2004,Straight,Hispanic,2,4,Republican
+2004,Straight,White,2,76,Republican
+2005,Bisexual,Asian,0,0,Republican
+2005,Bisexual,Black,0,0,Republican
+2005,Bisexual,Hispanic,0,0,Republican
+2005,Bisexual,White,0,0,Republican
+2005,Bisexual,Asian,1,0,Republican
+2005,Bisexual,Black,1,0,Republican
+2005,Bisexual,Hispanic,1,0,Republican
+2005,Bisexual,White,1,0,Republican
+2005,Bisexual,Asian,2,0,Republican
+2005,Bisexual,Black,2,0,Republican
+2005,Bisexual,Hispanic,2,0,Republican
+2005,Bisexual,White,2,0,Republican
+2005,Gay     ,Asian,0,0,Republican
+2005,Gay     ,Black,0,0,Republican
+2005,Gay     ,Hispanic,0,0,Republican
+2005,Gay     ,White,0,0,Republican
+2005,Gay     ,Asian,1,0,Republican
+2005,Gay     ,Black,1,0,Republican
+2005,Gay     ,Hispanic,1,0,Republican
+2005,Gay     ,White,1,0,Republican
+2005,Gay     ,Asian,2,0,Republican
+2005,Gay     ,Black,2,0,Republican
+2005,Gay     ,Hispanic,2,0,Republican
+2005,Gay     ,White,2,0,Republican
+2005,Lesbian ,Asian,0,0,Republican
+2005,Lesbian ,Black,0,0,Republican
+2005,Lesbian ,Hispanic,0,0,Republican
+2005,Lesbian ,White,0,0,Republican
+2005,Lesbian ,Asian,1,0,Republican
+2005,Lesbian ,Black,1,0,Republican
+2005,Lesbian ,Hispanic,1,0,Republican
+2005,Lesbian ,White,1,0,Republican
+2005,Lesbian ,Asian,2,0,Republican
+2005,Lesbian ,Black,2,0,Republican
+2005,Lesbian ,Hispanic,2,0,Republican
+2005,Lesbian ,White,2,0,Republican
+2005,Straight,Asian,0,0,Republican
+2005,Straight,Black,0,5,Republican
+2005,Straight,Hispanic,0,0,Republican
+2005,Straight,White,0,95,Republican
+2005,Straight,Asian,1,20,Republican
+2005,Straight,Black,1,0,Republican
+2005,Straight,Hispanic,1,0,Republican
+2005,Straight,White,1,80,Republican
+2005,Straight,Asian,2,4,Republican
+2005,Straight,Black,2,4,Republican
+2005,Straight,Hispanic,2,0,Republican
+2005,Straight,White,2,92,Republican
+2006,Bisexual,Asian,0,0,Republican
+2006,Bisexual,Black,0,0,Republican
+2006,Bisexual,Hispanic,0,0,Republican
+2006,Bisexual,White,0,0,Republican
+2006,Bisexual,Asian,1,0,Republican
+2006,Bisexual,Black,1,0,Republican
+2006,Bisexual,Hispanic,1,0,Republican
+2006,Bisexual,White,1,0,Republican
+2006,Bisexual,Asian,2,0,Republican
+2006,Bisexual,Black,2,0,Republican
+2006,Bisexual,Hispanic,2,0,Republican
+2006,Bisexual,White,2,0,Republican
+2006,Gay     ,Asian,0,0,Republican
+2006,Gay     ,Black,0,0,Republican
+2006,Gay     ,Hispanic,0,0,Republican
+2006,Gay     ,White,0,0,Republican
+2006,Gay     ,Asian,1,0,Republican
+2006,Gay     ,Black,1,0,Republican
+2006,Gay     ,Hispanic,1,0,Republican
+2006,Gay     ,White,1,0,Republican
+2006,Gay     ,Asian,2,0,Republican
+2006,Gay     ,Black,2,0,Republican
+2006,Gay     ,Hispanic,2,0,Republican
+2006,Gay     ,White,2,0,Republican
+2006,Lesbian ,Asian,0,0,Republican
+2006,Lesbian ,Black,0,0,Republican
+2006,Lesbian ,Hispanic,0,0,Republican
+2006,Lesbian ,White,0,0,Republican
+2006,Lesbian ,Asian,1,0,Republican
+2006,Lesbian ,Black,1,0,Republican
+2006,Lesbian ,Hispanic,1,0,Republican
+2006,Lesbian ,White,1,0,Republican
+2006,Lesbian ,Asian,2,0,Republican
+2006,Lesbian ,Black,2,0,Republican
+2006,Lesbian ,Hispanic,2,0,Republican
+2006,Lesbian ,White,2,0,Republican
+2006,Straight,Asian,0,5,Republican
+2006,Straight,Black,0,15,Republican
+2006,Straight,Hispanic,0,5,Republican
+2006,Straight,White,0,75,Republican
+2006,Straight,Asian,1,0,Republican
+2006,Straight,Black,1,40,Republican
+2006,Straight,Hispanic,1,0,Republican
+2006,Straight,White,1,60,Republican
+2006,Straight,Asian,2,4,Republican
+2006,Straight,Black,2,20,Republican
+2006,Straight,Hispanic,2,4,Republican
+2006,Straight,White,2,72,Republican
+2007,Bisexual,Asian,0,0,Republican
+2007,Bisexual,Black,0,0,Republican
+2007,Bisexual,Hispanic,0,0,Republican
+2007,Bisexual,White,0,0,Republican
+2007,Bisexual,Asian,1,0,Republican
+2007,Bisexual,Black,1,0,Republican
+2007,Bisexual,Hispanic,1,0,Republican
+2007,Bisexual,White,1,0,Republican
+2007,Bisexual,Asian,2,0,Republican
+2007,Bisexual,Black,2,0,Republican
+2007,Bisexual,Hispanic,2,0,Republican
+2007,Bisexual,White,2,0,Republican
+2007,Gay     ,Asian,0,0,Republican
+2007,Gay     ,Black,0,0,Republican
+2007,Gay     ,Hispanic,0,0,Republican
+2007,Gay     ,White,0,0,Republican
+2007,Gay     ,Asian,1,0,Republican
+2007,Gay     ,Black,1,0,Republican
+2007,Gay     ,Hispanic,1,0,Republican
+2007,Gay     ,White,1,0,Republican
+2007,Gay     ,Asian,2,0,Republican
+2007,Gay     ,Black,2,0,Republican
+2007,Gay     ,Hispanic,2,0,Republican
+2007,Gay     ,White,2,0,Republican
+2007,Lesbian ,Asian,0,0,Republican
+2007,Lesbian ,Black,0,0,Republican
+2007,Lesbian ,Hispanic,0,0,Republican
+2007,Lesbian ,White,0,5,Republican
+2007,Lesbian ,Asian,1,0,Republican
+2007,Lesbian ,Black,1,0,Republican
+2007,Lesbian ,Hispanic,1,0,Republican
+2007,Lesbian ,White,1,0,Republican
+2007,Lesbian ,Asian,2,0,Republican
+2007,Lesbian ,Black,2,0,Republican
+2007,Lesbian ,Hispanic,2,0,Republican
+2007,Lesbian ,White,2,4,Republican
+2007,Straight,Asian,0,0,Republican
+2007,Straight,Black,0,4.75,Republican
+2007,Straight,Hispanic,0,0,Republican
+2007,Straight,White,0,90.25,Republican
+2007,Straight,Asian,1,0,Republican
+2007,Straight,Black,1,0,Republican
+2007,Straight,Hispanic,1,0,Republican
+2007,Straight,White,1,100,Republican
+2007,Straight,Asian,2,0,Republican
+2007,Straight,Black,2,3.84,Republican
+2007,Straight,Hispanic,2,0,Republican
+2007,Straight,White,2,92.16,Republican
+2008,Bisexual,Asian,0,0,Republican
+2008,Bisexual,Black,0,0,Republican
+2008,Bisexual,Hispanic,0,0,Republican
+2008,Bisexual,White,0,5,Republican
+2008,Bisexual,Asian,1,0,Republican
+2008,Bisexual,Black,1,0,Republican
+2008,Bisexual,Hispanic,1,0,Republican
+2008,Bisexual,White,1,0,Republican
+2008,Bisexual,Asian,2,0,Republican
+2008,Bisexual,Black,2,0,Republican
+2008,Bisexual,Hispanic,2,0,Republican
+2008,Bisexual,White,2,4,Republican
+2008,Gay     ,Asian,0,0,Republican
+2008,Gay     ,Black,0,0,Republican
+2008,Gay     ,Hispanic,0,0,Republican
+2008,Gay     ,White,0,10,Republican
+2008,Gay     ,Asian,1,0,Republican
+2008,Gay     ,Black,1,0,Republican
+2008,Gay     ,Hispanic,1,0,Republican
+2008,Gay     ,White,1,0,Republican
+2008,Gay     ,Asian,2,0,Republican
+2008,Gay     ,Black,2,0,Republican
+2008,Gay     ,Hispanic,2,0,Republican
+2008,Gay     ,White,2,8,Republican
+2008,Lesbian ,Asian,0,0,Republican
+2008,Lesbian ,Black,0,0,Republican
+2008,Lesbian ,Hispanic,0,0,Republican
+2008,Lesbian ,White,0,0,Republican
+2008,Lesbian ,Asian,1,0,Republican
+2008,Lesbian ,Black,1,0,Republican
+2008,Lesbian ,Hispanic,1,0,Republican
+2008,Lesbian ,White,1,0,Republican
+2008,Lesbian ,Asian,2,0,Republican
+2008,Lesbian ,Black,2,0,Republican
+2008,Lesbian ,Hispanic,2,0,Republican
+2008,Lesbian ,White,2,0,Republican
+2008,Straight,Asian,0,0,Republican
+2008,Straight,Black,0,8.5,Republican
+2008,Straight,Hispanic,0,0,Republican
+2008,Straight,White,0,77.5,Republican
+2008,Straight,Asian,1,0,Republican
+2008,Straight,Black,1,0,Republican
+2008,Straight,Hispanic,1,0,Republican
+2008,Straight,White,1,100,Republican
+2008,Straight,Asian,2,0,Republican
+2008,Straight,Black,2,7.04,Republican
+2008,Straight,Hispanic,2,0,Republican
+2008,Straight,White,2,80.96,Republican
+2009,Bisexual,Asian,0,0,Democratic
+2009,Bisexual,Black,0,0,Democratic
+2009,Bisexual,Hispanic,0,0,Democratic
+2009,Bisexual,White,0,0,Democratic
+2009,Bisexual,Asian,1,0,Democratic
+2009,Bisexual,Black,1,0,Democratic
+2009,Bisexual,Hispanic,1,0,Democratic
+2009,Bisexual,White,1,0,Democratic
+2009,Bisexual,Asian,2,0,Democratic
+2009,Bisexual,Black,2,0,Democratic
+2009,Bisexual,Hispanic,2,0,Democratic
+2009,Bisexual,White,2,0,Democratic
+2009,Gay     ,Asian,0,0,Democratic
+2009,Gay     ,Black,0,5,Democratic
+2009,Gay     ,Hispanic,0,0,Democratic
+2009,Gay     ,White,0,0,Democratic
+2009,Gay     ,Asian,1,0,Democratic
+2009,Gay     ,Black,1,0,Democratic
+2009,Gay     ,Hispanic,1,0,Democratic
+2009,Gay     ,White,1,0,Democratic
+2009,Gay     ,Asian,2,0,Democratic
+2009,Gay     ,Black,2,4,Democratic
+2009,Gay     ,Hispanic,2,0,Democratic
+2009,Gay     ,White,2,0,Democratic
+2009,Lesbian ,Asian,0,0,Democratic
+2009,Lesbian ,Black,0,0,Democratic
+2009,Lesbian ,Hispanic,0,0,Democratic
+2009,Lesbian ,White,0,0,Democratic
+2009,Lesbian ,Asian,1,0,Democratic
+2009,Lesbian ,Black,1,0,Democratic
+2009,Lesbian ,Hispanic,1,0,Democratic
+2009,Lesbian ,White,1,0,Democratic
+2009,Lesbian ,Asian,2,0,Democratic
+2009,Lesbian ,Black,2,0,Democratic
+2009,Lesbian ,Hispanic,2,0,Democratic
+2009,Lesbian ,White,2,0,Democratic
+2009,Straight,Asian,0,0,Democratic
+2009,Straight,Black,0,14.25,Democratic
+2009,Straight,Hispanic,0,0,Democratic
+2009,Straight,White,0,80.75,Democratic
+2009,Straight,Asian,1,0,Democratic
+2009,Straight,Black,1,20,Democratic
+2009,Straight,Hispanic,1,0,Democratic
+2009,Straight,White,1,80,Democratic
+2009,Straight,Asian,2,0,Democratic
+2009,Straight,Black,2,15.36,Democratic
+2009,Straight,Hispanic,2,0,Democratic
+2009,Straight,White,2,80.64,Democratic
+2010,Bisexual,Asian,0,0,Democratic
+2010,Bisexual,Black,0,0,Democratic
+2010,Bisexual,Hispanic,0,0,Democratic
+2010,Bisexual,White,0,0,Democratic
+2010,Bisexual,Asian,1,0,Democratic
+2010,Bisexual,Black,1,0,Democratic
+2010,Bisexual,Hispanic,1,0,Democratic
+2010,Bisexual,White,1,0,Democratic
+2010,Bisexual,Asian,2,0,Democratic
+2010,Bisexual,Black,2,0,Democratic
+2010,Bisexual,Hispanic,2,0,Democratic
+2010,Bisexual,White,2,0,Democratic
+2010,Gay     ,Asian,0,0,Democratic
+2010,Gay     ,Black,0,0,Democratic
+2010,Gay     ,Hispanic,0,0,Democratic
+2010,Gay     ,White,0,0,Democratic
+2010,Gay     ,Asian,1,0,Democratic
+2010,Gay     ,Black,1,0,Democratic
+2010,Gay     ,Hispanic,1,0,Democratic
+2010,Gay     ,White,1,0,Democratic
+2010,Gay     ,Asian,2,0,Democratic
+2010,Gay     ,Black,2,0,Democratic
+2010,Gay     ,Hispanic,2,0,Democratic
+2010,Gay     ,White,2,0,Democratic
+2010,Lesbian ,Asian,0,0,Democratic
+2010,Lesbian ,Black,0,0,Democratic
+2010,Lesbian ,Hispanic,0,0,Democratic
+2010,Lesbian ,White,0,0,Democratic
+2010,Lesbian ,Asian,1,0,Democratic
+2010,Lesbian ,Black,1,0,Democratic
+2010,Lesbian ,Hispanic,1,0,Democratic
+2010,Lesbian ,White,1,0,Democratic
+2010,Lesbian ,Asian,2,0,Democratic
+2010,Lesbian ,Black,2,0,Democratic
+2010,Lesbian ,Hispanic,2,0,Democratic
+2010,Lesbian ,White,2,0,Democratic
+2010,Straight,Asian,0,0,Democratic
+2010,Straight,Black,0,0,Democratic
+2010,Straight,Hispanic,0,0,Democratic
+2010,Straight,White,0,100,Democratic
+2010,Straight,Asian,1,0,Democratic
+2010,Straight,Black,1,0,Democratic
+2010,Straight,Hispanic,1,0,Democratic
+2010,Straight,White,1,100,Democratic
+2010,Straight,Asian,2,0,Democratic
+2010,Straight,Black,2,0,Democratic
+2010,Straight,Hispanic,2,0,Democratic
+2010,Straight,White,2,100,Democratic
+2011,Bisexual,Asian,0,0,Democratic
+2011,Bisexual,Black,0,0,Democratic
+2011,Bisexual,Hispanic,0,0,Democratic
+2011,Bisexual,White,0,0,Democratic
+2011,Bisexual,Asian,1,0,Democratic
+2011,Bisexual,Black,1,0,Democratic
+2011,Bisexual,Hispanic,1,0,Democratic
+2011,Bisexual,White,1,0,Democratic
+2011,Bisexual,Asian,2,0,Democratic
+2011,Bisexual,Black,2,0,Democratic
+2011,Bisexual,Hispanic,2,0,Democratic
+2011,Bisexual,White,2,0,Democratic
+2011,Gay     ,Asian,0,0,Democratic
+2011,Gay     ,Black,0,0,Democratic
+2011,Gay     ,Hispanic,0,0,Democratic
+2011,Gay     ,White,0,0,Democratic
+2011,Gay     ,Asian,1,0,Democratic
+2011,Gay     ,Black,1,0,Democratic
+2011,Gay     ,Hispanic,1,0,Democratic
+2011,Gay     ,White,1,0,Democratic
+2011,Gay     ,Asian,2,0,Democratic
+2011,Gay     ,Black,2,0,Democratic
+2011,Gay     ,Hispanic,2,0,Democratic
+2011,Gay     ,White,2,0,Democratic
+2011,Lesbian ,Asian,0,0,Democratic
+2011,Lesbian ,Black,0,0,Democratic
+2011,Lesbian ,Hispanic,0,0,Democratic
+2011,Lesbian ,White,0,0,Democratic
+2011,Lesbian ,Asian,1,0,Democratic
+2011,Lesbian ,Black,1,0,Democratic
+2011,Lesbian ,Hispanic,1,0,Democratic
+2011,Lesbian ,White,1,0,Democratic
+2011,Lesbian ,Asian,2,0,Democratic
+2011,Lesbian ,Black,2,0,Democratic
+2011,Lesbian ,Hispanic,2,0,Democratic
+2011,Lesbian ,White,2,0,Democratic
+2011,Straight,Asian,0,0,Democratic
+2011,Straight,Black,0,5,Democratic
+2011,Straight,Hispanic,0,10,Democratic
+2011,Straight,White,0,85,Democratic
+2011,Straight,Asian,1,0,Democratic
+2011,Straight,Black,1,20,Democratic
+2011,Straight,Hispanic,1,0,Democratic
+2011,Straight,White,1,80,Democratic
+2011,Straight,Asian,2,0,Democratic
+2011,Straight,Black,2,8,Democratic
+2011,Straight,Hispanic,2,8,Democratic
+2011,Straight,White,2,84,Democratic
+2012,Bisexual,Asian,0,0,Democratic
+2012,Bisexual,Black,0,0,Democratic
+2012,Bisexual,Hispanic,0,0,Democratic
+2012,Bisexual,White,0,0,Democratic
+2012,Bisexual,Asian,1,0,Democratic
+2012,Bisexual,Black,1,0,Democratic
+2012,Bisexual,Hispanic,1,0,Democratic
+2012,Bisexual,White,1,0,Democratic
+2012,Bisexual,Asian,2,0,Democratic
+2012,Bisexual,Black,2,0,Democratic
+2012,Bisexual,Hispanic,2,0,Democratic
+2012,Bisexual,White,2,0,Democratic
+2012,Gay     ,Asian,0,0,Democratic
+2012,Gay     ,Black,0,0,Democratic
+2012,Gay     ,Hispanic,0,0,Democratic
+2012,Gay     ,White,0,0,Democratic
+2012,Gay     ,Asian,1,0,Democratic
+2012,Gay     ,Black,1,0,Democratic
+2012,Gay     ,Hispanic,1,0,Democratic
+2012,Gay     ,White,1,0,Democratic
+2012,Gay     ,Asian,2,0,Democratic
+2012,Gay     ,Black,2,0,Democratic
+2012,Gay     ,Hispanic,2,0,Democratic
+2012,Gay     ,White,2,0,Democratic
+2012,Lesbian ,Asian,0,0,Democratic
+2012,Lesbian ,Black,0,0,Democratic
+2012,Lesbian ,Hispanic,0,0,Democratic
+2012,Lesbian ,White,0,0,Democratic
+2012,Lesbian ,Asian,1,0,Democratic
+2012,Lesbian ,Black,1,0,Democratic
+2012,Lesbian ,Hispanic,1,0,Democratic
+2012,Lesbian ,White,1,0,Democratic
+2012,Lesbian ,Asian,2,0,Democratic
+2012,Lesbian ,Black,2,0,Democratic
+2012,Lesbian ,Hispanic,2,0,Democratic
+2012,Lesbian ,White,2,0,Democratic
+2012,Straight,Asian,0,0,Democratic
+2012,Straight,Black,0,10,Democratic
+2012,Straight,Hispanic,0,0,Democratic
+2012,Straight,White,0,90,Democratic
+2012,Straight,Asian,1,20,Democratic
+2012,Straight,Black,1,0,Democratic
+2012,Straight,Hispanic,1,0,Democratic
+2012,Straight,White,1,80,Democratic
+2012,Straight,Asian,2,4,Democratic
+2012,Straight,Black,2,8,Democratic
+2012,Straight,Hispanic,2,0,Democratic
+2012,Straight,White,2,88,Democratic
+2013,Bisexual,Asian,0,0,Democratic
+2013,Bisexual,Black,0,0,Democratic
+2013,Bisexual,Hispanic,0,0,Democratic
+2013,Bisexual,White,0,0,Democratic
+2013,Bisexual,Asian,1,0,Democratic
+2013,Bisexual,Black,1,0,Democratic
+2013,Bisexual,Hispanic,1,0,Democratic
+2013,Bisexual,White,1,0,Democratic
+2013,Bisexual,Asian,2,0,Democratic
+2013,Bisexual,Black,2,0,Democratic
+2013,Bisexual,Hispanic,2,0,Democratic
+2013,Bisexual,White,2,0,Democratic
+2013,Gay     ,Asian,0,0,Democratic
+2013,Gay     ,Black,0,0,Democratic
+2013,Gay     ,Hispanic,0,0,Democratic
+2013,Gay     ,White,0,0,Democratic
+2013,Gay     ,Asian,1,0,Democratic
+2013,Gay     ,Black,1,0,Democratic
+2013,Gay     ,Hispanic,1,0,Democratic
+2013,Gay     ,White,1,0,Democratic
+2013,Gay     ,Asian,2,0,Democratic
+2013,Gay     ,Black,2,0,Democratic
+2013,Gay     ,Hispanic,2,0,Democratic
+2013,Gay     ,White,2,0,Democratic
+2013,Lesbian ,Asian,0,0,Democratic
+2013,Lesbian ,Black,0,0,Democratic
+2013,Lesbian ,Hispanic,0,0,Democratic
+2013,Lesbian ,White,0,0,Democratic
+2013,Lesbian ,Asian,1,0,Democratic
+2013,Lesbian ,Black,1,0,Democratic
+2013,Lesbian ,Hispanic,1,0,Democratic
+2013,Lesbian ,White,1,0,Democratic
+2013,Lesbian ,Asian,2,0,Democratic
+2013,Lesbian ,Black,2,0,Democratic
+2013,Lesbian ,Hispanic,2,0,Democratic
+2013,Lesbian ,White,2,0,Democratic
+2013,Straight,Asian,0,0,Democratic
+2013,Straight,Black,0,10,Democratic
+2013,Straight,Hispanic,0,0,Democratic
+2013,Straight,White,0,90,Democratic
+2013,Straight,Asian,1,0,Democratic
+2013,Straight,Black,1,20,Democratic
+2013,Straight,Hispanic,1,0,Democratic
+2013,Straight,White,1,80,Democratic
+2013,Straight,Asian,2,0,Democratic
+2013,Straight,Black,2,12,Democratic
+2013,Straight,Hispanic,2,0,Democratic
+2013,Straight,White,2,88,Democratic
+2014,Bisexual,Asian,0,0,Democratic
+2014,Bisexual,Black,0,0,Democratic
+2014,Bisexual,Hispanic,0,0,Democratic
+2014,Bisexual,White,0,0,Democratic
+2014,Bisexual,Asian,1,0,Democratic
+2014,Bisexual,Black,1,0,Democratic
+2014,Bisexual,Hispanic,1,0,Democratic
+2014,Bisexual,White,1,0,Democratic
+2014,Bisexual,Asian,2,0,Democratic
+2014,Bisexual,Black,2,0,Democratic
+2014,Bisexual,Hispanic,2,0,Democratic
+2014,Bisexual,White,2,0,Democratic
+2014,Gay     ,Asian,0,0,Democratic
+2014,Gay     ,Black,0,0,Democratic
+2014,Gay     ,Hispanic,0,0,Democratic
+2014,Gay     ,White,0,0,Democratic
+2014,Gay     ,Asian,1,0,Democratic
+2014,Gay     ,Black,1,0,Democratic
+2014,Gay     ,Hispanic,1,0,Democratic
+2014,Gay     ,White,1,0,Democratic
+2014,Gay     ,Asian,2,0,Democratic
+2014,Gay     ,Black,2,0,Democratic
+2014,Gay     ,Hispanic,2,0,Democratic
+2014,Gay     ,White,2,0,Democratic
+2014,Lesbian ,Asian,0,0,Democratic
+2014,Lesbian ,Black,0,0,Democratic
+2014,Lesbian ,Hispanic,0,0,Democratic
+2014,Lesbian ,White,0,0,Democratic
+2014,Lesbian ,Asian,1,0,Democratic
+2014,Lesbian ,Black,1,0,Democratic
+2014,Lesbian ,Hispanic,1,0,Democratic
+2014,Lesbian ,White,1,0,Democratic
+2014,Lesbian ,Asian,2,0,Democratic
+2014,Lesbian ,Black,2,0,Democratic
+2014,Lesbian ,Hispanic,2,0,Democratic
+2014,Lesbian ,White,2,0,Democratic
+2014,Straight,Asian,0,0,Democratic
+2014,Straight,Black,0,0,Democratic
+2014,Straight,Hispanic,0,0,Democratic
+2014,Straight,White,0,100,Democratic
+2014,Straight,Asian,1,0,Democratic
+2014,Straight,Black,1,0,Democratic
+2014,Straight,Hispanic,1,0,Democratic
+2014,Straight,White,1,100,Democratic
+2014,Straight,Asian,2,0,Democratic
+2014,Straight,Black,2,0,Democratic
+2014,Straight,Hispanic,2,0,Democratic
+2014,Straight,White,2,100,Democratic
+2015,Bisexual,Asian,0,0,Democratic
+2015,Bisexual,Black,0,0,Democratic
+2015,Bisexual,Hispanic,0,0,Democratic
+2015,Bisexual,White,0,0,Democratic
+2015,Bisexual,Asian,1,0,Democratic
+2015,Bisexual,Black,1,0,Democratic
+2015,Bisexual,Hispanic,1,0,Democratic
+2015,Bisexual,White,1,0,Democratic
+2015,Bisexual,Asian,2,0,Democratic
+2015,Bisexual,Black,2,0,Democratic
+2015,Bisexual,Hispanic,2,0,Democratic
+2015,Bisexual,White,2,0,Democratic
+2015,Gay     ,Asian,0,0,Democratic
+2015,Gay     ,Black,0,0,Democratic
+2015,Gay     ,Hispanic,0,0,Democratic
+2015,Gay     ,White,0,0,Democratic
+2015,Gay     ,Asian,1,0,Democratic
+2015,Gay     ,Black,1,0,Democratic
+2015,Gay     ,Hispanic,1,0,Democratic
+2015,Gay     ,White,1,0,Democratic
+2015,Gay     ,Asian,2,0,Democratic
+2015,Gay     ,Black,2,0,Democratic
+2015,Gay     ,Hispanic,2,0,Democratic
+2015,Gay     ,White,2,0,Democratic
+2015,Lesbian ,Asian,0,0,Democratic
+2015,Lesbian ,Black,0,0,Democratic
+2015,Lesbian ,Hispanic,0,0,Democratic
+2015,Lesbian ,White,0,0,Democratic
+2015,Lesbian ,Asian,1,0,Democratic
+2015,Lesbian ,Black,1,0,Democratic
+2015,Lesbian ,Hispanic,1,0,Democratic
+2015,Lesbian ,White,1,0,Democratic
+2015,Lesbian ,Asian,2,0,Democratic
+2015,Lesbian ,Black,2,0,Democratic
+2015,Lesbian ,Hispanic,2,0,Democratic
+2015,Lesbian ,White,2,0,Democratic
+2015,Straight,Asian,0,0,Democratic
+2015,Straight,Black,0,0,Democratic
+2015,Straight,Hispanic,0,0,Democratic
+2015,Straight,White,0,100,Democratic
+2015,Straight,Asian,1,0,Democratic
+2015,Straight,Black,1,0,Democratic
+2015,Straight,Hispanic,1,0,Democratic
+2015,Straight,White,1,100,Democratic
+2015,Straight,Asian,2,0,Democratic
+2015,Straight,Black,2,0,Democratic
+2015,Straight,Hispanic,2,0,Democratic
+2015,Straight,White,2,100,Democratic
