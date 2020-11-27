@@ -1,6 +1,6 @@
 # IST-VI
 
-Work made in VI (Information Visualization) 2019/2020
+Work made in Information Visualization class (Visualização de Informação) 2019/2020
 
 
 * Project done by:
